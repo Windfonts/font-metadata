@@ -1,0 +1,63 @@
+{
+  "id": "zjgljt",
+  "normalizedName": "Zjgljt",
+  "family": "拙见橄榄简体",
+  "familyEn": "ZhuoJianGanLanJianTi",
+  "fontFamily": "WF-Zjgljt",
+  "category": "handwriting",
+  "categoryZh": "手写体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Zjgljt",
+      "charCount": 7188,
+      "glyphCount": 7189
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "zhuojianchina",
+  "foundryName": "zhuojianchina",
+  "designer": null,
+  "releaseYear": 2019,
+  "version": "1.100",
+  "copyright": "Copyright  2019 by zhuojianchina. All rights reserved.",
+  "license": {
+    "type": null,
+    "spdx": null,
+    "url": null,
+    "commercial": false,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans"
+  ],
+  "languagesZh": [
+    "简体中文"
+  ],
+  "tags": [
+    "硬笔手写"
+  ],
+  "keywords": [
+    "手写",
+    "中文",
+    "非衬线"
+  ],
+  "useCases": [
+    "社交媒体设计",
+    "个人博客标题",
+    "创意海报",
+    "非正式印刷品"
+  ],
+  "description": "ZhuoJianGanLanJianTi 是一款由 zhuojianchina 于2019年发布的硬笔手写风格中文字体。其名称拙见橄榄暗示了字体可能具有质朴、略带拙趣且笔画如橄榄般圆润的设计特点。字体元信息显示为常规字重，适用于需要展现个人化、亲切感或非正式氛围的中文排版场景，如社交媒体配图、个人博客、创意海报或手写风格的标题设计。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Zjgljt"
+}
