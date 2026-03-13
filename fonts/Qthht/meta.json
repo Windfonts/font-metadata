@@ -1,0 +1,68 @@
+{
+  "id": "qthht",
+  "normalizedName": "Qthht",
+  "family": "千图厚黑体",
+  "familyEn": "Qiantu Hou Hei Ti",
+  "fontFamily": "WF-Qthht",
+  "category": "sans-serif",
+  "categoryZh": "无衬线字体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Qthht",
+      "charCount": 6948,
+      "glyphCount": 6961
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "shanghai-pintu-network-technology-co-ltd",
+  "foundryName": "Shanghai PinTu Network Technology Co.,Ltd.",
+  "designer": "Shanghai PinTu Network Technology Co.,Ltd.",
+  "releaseYear": 2025,
+  "version": "1.0.0",
+  "copyright": "Copyright Shanghai PinTu Network Technology Co.,Ltd.",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans",
+    "zh-Hant",
+    "en"
+  ],
+  "languagesZh": [
+    "简体中文",
+    "繁体中文",
+    "英语"
+  ],
+  "tags": [
+    "黑体"
+  ],
+  "keywords": [
+    "电商",
+    "标题",
+    "营销",
+    "免费商用"
+  ],
+  "useCases": [
+    "电商海报标题",
+    "广告宣传物料",
+    "品牌标识",
+    "新媒体封面图"
+  ],
+  "description": "千图厚黑体是由上海品图网络科技有限公司（千图网）发布的一款免费商用黑体。该字体字形饱满，笔画粗壮有力，结构稳定，具有较高的视觉冲击力。其设计旨在满足电商海报、广告标题、品牌宣传等营销场景的需求，提供醒目且无版权风险的字体解决方案。字体支持简体中文、繁体中文及基本拉丁字符，适用于印刷物料、新媒体设计等多种商业用途。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Qthht"
+}
