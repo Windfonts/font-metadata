@@ -1,0 +1,69 @@
+{
+  "id": "jnbbh",
+  "normalizedName": "Jnbbh",
+  "family": "荆南波波黑",
+  "familyEn": "Kingnam Bobo",
+  "fontFamily": "WF-Jnbbh",
+  "category": "sans-serif",
+  "categoryZh": "无衬线字体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Jnbbh",
+      "charCount": 7797,
+      "glyphCount": 7797
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "shanghai-etrump-information-technology-co",
+  "foundryName": "Shanghai Etrump Information Technology Co.",
+  "designer": null,
+  "releaseYear": 2021,
+  "version": "1.30.0",
+  "copyright": "(c) Copyright Shanghai Etrump Information Technology Co.",
+  "license": {
+    "type": "联系授权",
+    "spdx": null,
+    "url": null,
+    "commercial": false,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans",
+    "zh-Hant",
+    "en",
+    "ja"
+  ],
+  "languagesZh": [
+    "简体中文",
+    "繁体中文",
+    "英语",
+    "日文"
+  ],
+  "tags": [
+    "黑体",
+    "其他"
+  ],
+  "keywords": [
+    "黑体",
+    "粗体",
+    "商业字体"
+  ],
+  "useCases": [
+    "品牌标识",
+    "标题设计",
+    "宣传物料"
+  ],
+  "description": "Kingnam Bobo (荆南波波黑) 是一款由上海亦传信息技术有限公司发布的字体。其元信息显示版权方为上海亦传信息技术有限公司，并包含商标信息。该字体支持中文简体、繁体、英文及日文，字符集覆盖广泛，包含基本拉丁文、中日韩统一表意文字等。字体风格为粗体无衬线，字形较为厚重。根据公开的字体信息，其授权方式为商用须授权，具体商业使用需联系版权方。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Jnbbh"
+}
