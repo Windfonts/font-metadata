@@ -1,0 +1,67 @@
+{
+  "id": "qssxt",
+  "normalizedName": "Qssxt",
+  "family": "清松手写体2",
+  "familyEn": "JasonWriting2",
+  "fontFamily": "WF-Qssxt",
+  "category": "handwriting",
+  "categoryZh": "手写体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Qssxt",
+      "charCount": 6806,
+      "glyphCount": 6808
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "www-writes-com-tw",
+  "foundryName": "www.writes.com.tw",
+  "designer": null,
+  "releaseYear": null,
+  "version": "1.0.0",
+  "copyright": "www.writes.com.tw - JasonWriting2",
+  "license": {
+    "type": "联系授权",
+    "spdx": null,
+    "url": null,
+    "commercial": false,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans",
+    "zh-Hant",
+    "en"
+  ],
+  "languagesZh": [
+    "简体中文",
+    "繁体中文",
+    "英语"
+  ],
+  "tags": [
+    "硬笔手写"
+  ],
+  "keywords": [
+    "手写",
+    "中文",
+    "非正式"
+  ],
+  "useCases": [
+    "社交媒体设计",
+    "个性化卡片",
+    "非正式标题",
+    "手写风格排版"
+  ],
+  "description": "JasonWriting2 是一款手写风格的中文字体，其官方名称为清松手写体2。该字体支持简体中文、繁体中文、拉丁字母及多种符号，字符集包含6820个字符，适用于需要自然、亲切手写感的场景，如个性化设计、社交媒体内容、手写信件或非正式标题。字体版权方为 writes.com.tw，商业使用需联系版权方获取授权。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Qssxt"
+}
