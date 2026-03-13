@@ -1,0 +1,68 @@
+{
+  "id": "yffyt",
+  "normalizedName": "Yffyt",
+  "family": "云峰飞云体",
+  "familyEn": "Yun Feng Fei Yun Ti",
+  "fontFamily": "WF-Yffyt",
+  "category": "handwriting",
+  "categoryZh": "手写体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Yffyt",
+      "charCount": 6889,
+      "glyphCount": 7068
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "",
+  "foundryName": "云峰字库",
+  "designer": null,
+  "releaseYear": 2022,
+  "version": "1.0.0",
+  "copyright": null,
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans"
+  ],
+  "languagesZh": [
+    "简体中文"
+  ],
+  "tags": [
+    "毛笔书法"
+  ],
+  "keywords": [
+    "中国风",
+    "手写字",
+    "霸气",
+    "游戏动漫",
+    "包装",
+    "活动促销"
+  ],
+  "useCases": [
+    "平面设计",
+    "影视制作",
+    "海报设计",
+    "品牌宣传",
+    "文创产品",
+    "线下门店招牌"
+  ],
+  "description": "云峰飞云体是云峰字库继云峰静龙行书之后推出的第二款免费商用中文字体。该字体采用传统毛笔书法风格，笔触豪放大气，带有飞白感和墨韵渐变，字形结构开阔，视觉冲击力强。它适用于平面设计、影视制作、海报、品牌宣传、文创产品等多种商业与非商业场景。字体编码为GB-2312，支持简体中文。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Yffyt"
+}
