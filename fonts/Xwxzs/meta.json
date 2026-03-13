@@ -1,0 +1,71 @@
+{
+  "id": "xwxzs",
+  "normalizedName": "Xwxzs",
+  "family": "霞鹜新致宋",
+  "familyEn": "LXGW Neo ZhiSong",
+  "fontFamily": "WF-Xwxzs",
+  "category": "serif",
+  "categoryZh": "衬线",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Xwxzs",
+      "charCount": 26477,
+      "glyphCount": 26814
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": null,
+  "foundryName": null,
+  "designer": "lxgw",
+  "releaseYear": 2023,
+  "version": "1.017.0",
+  "copyright": "Copyright(c) 2023-2024 LXGW; Information-technology Promotion Agency, Japan (IPA), 2003-2019. You must accept \"https://opensource.org/licenses/IPA/\" to use this product.",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans",
+    "zh-Hant",
+    "en",
+    "ja"
+  ],
+  "languagesZh": [
+    "简体中文",
+    "繁体中文",
+    "英语",
+    "日文"
+  ],
+  "tags": [
+    "宋体"
+  ],
+  "keywords": [
+    "开源",
+    "宋体",
+    "IPAmj明朝",
+    "一点明体"
+  ],
+  "useCases": [
+    "日常办公文档",
+    "专业排版与出版",
+    "网页与UI设计",
+    "古籍数字化与研究",
+    "学术论文与报告"
+  ],
+  "description": "霞鹜新致宋（LXGW Neo ZhiSong）是一款基于开源字体IPAmj明朝和一点明体开发的中文宋体字型。该字体以其优雅的宋体风格和广泛的字符支持受到设计师和开发者的喜爱，致力于提供一款既美观又实用的开源中文字体解决方案。字体支持CJK统一表意文字基本区及扩展A区汉字，并包含易经八卦、麻将、中国象棋等文化符号，适用于日常办公、专业排版、网页设计、印刷出版及数字人文研究等多种场景。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Xwxzs"
+}
