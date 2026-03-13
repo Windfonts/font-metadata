@@ -1,0 +1,66 @@
+{
+  "id": "cqscbbt",
+  "normalizedName": "Cqscbbt",
+  "family": "云峰字库重庆山城棒棒体",
+  "familyEn": "YunFeng Chongqing Bangbangti",
+  "fontFamily": "WF-Cqscbbt",
+  "category": "handwriting",
+  "categoryZh": "手写体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Cqscbbt",
+      "charCount": 6770,
+      "glyphCount": 6767
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "",
+  "foundryName": "云峰字库",
+  "designer": "云峰字库",
+  "releaseYear": 2025,
+  "version": "3.0.0",
+  "copyright": "云峰字库",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans"
+  ],
+  "languagesZh": [
+    "简体中文"
+  ],
+  "tags": [
+    "硬笔手写",
+    "其他"
+  ],
+  "keywords": [
+    "免费",
+    "手写",
+    "标题",
+    "个性"
+  ],
+  "useCases": [
+    "广告设计",
+    "标题排版",
+    "社交媒体",
+    "UI界面",
+    "文创产品"
+  ],
+  "description": "云峰字库重庆山城棒棒体是一款由云峰字库设计发布的免费商用字体。其设计风格新颖，字体大方，属于手写体风格，适用于各类设计作品。该字体于2025年1月发布了3.0版本，支持简体中文，并明确标注为全平台免费商用，适合在广告宣传、平面设计、UI界面等多种商业和非商业场景中使用。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Cqscbbt"
+}
