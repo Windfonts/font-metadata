@@ -1,0 +1,66 @@
+{
+  "id": "prsxt",
+  "normalizedName": "Prsxt",
+  "family": "品如手写体",
+  "familyEn": "PinRuShouXieTi",
+  "fontFamily": "WF-Prsxt",
+  "category": "handwriting",
+  "categoryZh": "手写体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Prsxt",
+      "charCount": 7584,
+      "glyphCount": 7584
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "",
+  "foundryName": "品如设计",
+  "designer": "林芳柽",
+  "releaseYear": 2017,
+  "version": "1.0.0",
+  "copyright": "(C) Quanzhou Yuchen E-commerce Co., Ltd.",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans"
+  ],
+  "languagesZh": [
+    "简体中文"
+  ],
+  "tags": [
+    "硬笔手写"
+  ],
+  "keywords": [
+    "免费",
+    "手写",
+    "站酷",
+    "亲和"
+  ],
+  "useCases": [
+    "短视频字幕",
+    "海报文案",
+    "电商详情页",
+    "手账排版",
+    "文创产品包装",
+    "生活类宣传设计"
+  ],
+  "description": "品如手写体是由设计师林芳柽（站酷ID：lendylin）创作的一款中文手写字体。作者因对字体版权收费感到苦恼，利用业余时间历时半年完成。字体风格追求自然、率真的日常手写质感，笔画粗细过渡自然，带有轻微顿感和连笔，字形结构均衡，兼顾阅读清晰度与手写温度。作者在站酷平台公开声明该字体永久免费商用，授权范围覆盖个人及企业的全媒体商业发布。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Prsxt"
+}
