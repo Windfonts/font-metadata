@@ -1,0 +1,68 @@
+{
+  "id": "mkwgzh",
+  "normalizedName": "Mkwgzh",
+  "family": "猫啃故障黑体",
+  "familyEn": "Maoken Glitch Sans",
+  "fontFamily": "WF-Mkwgzh",
+  "category": "sans-serif",
+  "categoryZh": "无衬线字体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Mkwgzh",
+      "charCount": 30892,
+      "glyphCount": 31036
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "maoken",
+  "foundryName": "Maoken",
+  "designer": "NightFurySL2001 (modification based on Source Han Sans CN Heavy)",
+  "releaseYear": 2021,
+  "version": "1.0.0",
+  "copyright": "2021 Maoken, NightFurySL2001. Maoken Glitch is redistributed under SIL Open Font License.    2014-2021 Adobe (http://www.adobe.com/), with Reserved Font Name 'Source'.",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans",
+    "en"
+  ],
+  "languagesZh": [
+    "简体中文",
+    "英语"
+  ],
+  "tags": [
+    "黑体",
+    "其他"
+  ],
+  "keywords": [
+    "glitch",
+    "distorted",
+    "cyberpunk",
+    "futuristic",
+    "display"
+  ],
+  "useCases": [
+    "海报与标题设计",
+    "游戏界面与视觉特效",
+    "赛博朋克风格品牌标识",
+    "数字艺术与创意媒体"
+  ],
+  "description": "Maoken Glitch Sans 是一款基于思源黑体 CN Heavy 修改而成的故障风格字体。它通过引入视觉失真和错位效果，模仿数字信号错误产生的故障美学，呈现出赛博朋克和复古未来主义的视觉特征。该字体适用于需要营造科技感、前卫感或数字故障艺术效果的设计场景，如海报标题、游戏界面、品牌视觉标识和创意媒体项目。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Mkwgzh"
+}
