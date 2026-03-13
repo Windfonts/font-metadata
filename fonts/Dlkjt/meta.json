@@ -1,0 +1,64 @@
+{
+  "id": "dlkjt",
+  "normalizedName": "Dlkjt",
+  "family": "鼎猎客家体",
+  "familyEn": "Dinglie Hakka Font",
+  "fontFamily": "WF-Dlkjt",
+  "category": "sans-serif",
+  "categoryZh": "无衬线字体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Dlkjt",
+      "charCount": 7525,
+      "glyphCount": 7435
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "",
+  "foundryName": "鼎猎咨询",
+  "designer": "缪克明",
+  "releaseYear": 2024,
+  "version": "1.0.0",
+  "copyright": "AllrightsreservedbyMiaoKeming",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans"
+  ],
+  "languagesZh": [
+    "简体中文"
+  ],
+  "tags": [
+    "黑体"
+  ],
+  "keywords": [
+    "客家文化",
+    "原创字体",
+    "GB2312"
+  ],
+  "useCases": [
+    "文化宣传",
+    "文创产品",
+    "广告海报",
+    "书籍封面",
+    "公共标识"
+  ],
+  "description": "鼎猎客家体是一款专为客家文化设计的原创中文字体，由设计师缪克明创作，鼎猎咨询发布。该字体从客家民居的古朴韵味与山歌的悠扬旋律中汲取灵感，字形刚劲有力、古朴厚重，旨在展现客家人勤劳质朴的精神。字体依据简体中文国家标准GB2312编码设计，包含6789个简体汉字，并特别增加了数十个客家话专属汉字，以满足地域化设计需求。其风格独特，适用于文化宣传、文创产品、广告海报、书籍封面等需要体现地域文化特色的场景。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Dlkjt"
+}
