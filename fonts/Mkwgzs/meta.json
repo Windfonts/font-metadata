@@ -1,0 +1,65 @@
+{
+  "id": "mkwgzs",
+  "normalizedName": "Mkwgzs",
+  "family": "猫啃故障宋体",
+  "familyEn": "Maoken Glitch Serif",
+  "fontFamily": "WF-Mkwgzs",
+  "category": "serif",
+  "categoryZh": "衬线",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Mkwgzs",
+      "charCount": 30847,
+      "glyphCount": 30995
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "maoken",
+  "foundryName": "Maoken",
+  "designer": "NightFurySL2001 (modification based on Source Han Serif CN Heavy)",
+  "releaseYear": 2022,
+  "version": "1.0.0",
+  "copyright": "2022 Maoken, NightFurySL2001. Maoken Glitch is redistributed under SIL Open Font License.    2014-2022 Adobe (http://www.adobe.com/), with Reserved Font Name 'Source'.",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans",
+    "en"
+  ],
+  "languagesZh": [
+    "简体中文",
+    "英语"
+  ],
+  "tags": [
+    "宋体"
+  ],
+  "keywords": [
+    "创意",
+    "故障艺术",
+    "宋体衍生"
+  ],
+  "useCases": [
+    "海报标题",
+    "品牌标识",
+    "游戏界面",
+    "数字艺术"
+  ],
+  "description": "Maoken Glitch Serif 是一款基于 Adobe 的思源宋体 CN Heavy 修改而来的创意衬线字体。该字体由设计师 NightFurySL2001 创作，并由 Maoken 发布。其设计保留了思源宋体的基本结构和衬线特征，但通过引入类似数字故障（Glitch）的视觉效果，为传统宋体增添了现代、前卫的视觉风格。这种风格使其在保持印刷品易读性的同时，也适合用于需要突出科技感、未来感或艺术表现力的设计场景，如海报标题、品牌标识、游戏界面和数字艺术创作。字体以 SIL Open Font License (OFL) 授权发布，允许免费商用。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Mkwgzs"
+}
