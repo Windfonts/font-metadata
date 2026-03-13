@@ -1,0 +1,66 @@
+{
+  "id": "jxzk",
+  "normalizedName": "Jxzk",
+  "family": "江西拙楷体",
+  "familyEn": "Jiangxi Zhuokai",
+  "fontFamily": "WF-Jxzk",
+  "category": "handwriting",
+  "categoryZh": "手写体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Jxzk",
+      "charCount": 6248,
+      "glyphCount": 6260
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "fontree",
+  "foundryName": "fontree",
+  "designer": "黄煜臣",
+  "releaseYear": 2023,
+  "version": "1.0.0",
+  "copyright": null,
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans"
+  ],
+  "languagesZh": [
+    "简体中文"
+  ],
+  "tags": [
+    "楷体",
+    "硬笔手写"
+  ],
+  "keywords": [
+    "手写",
+    "楷书",
+    "免费商用",
+    "个人创作"
+  ],
+  "useCases": [
+    "书籍排版",
+    "品牌标识",
+    "文创产品",
+    "社交媒体设计",
+    "印章效果"
+  ],
+  "description": "江西拙楷体是由设计师黄煜臣独立创作的一款手写楷体字体。该字体基于设计师本人的手写笔迹制作，共收录超过6200个字符。其特点是笔画带有自然的手写痕迹，每个字的笔画没有完全统一的标准，旨在模拟真实书写的自然感与拙朴韵味。字体设计初衷是希望为设计师的家乡江西进行宣传，因此以江西命名。该字体适用于需要体现手写温度、文化气息或个性化排版的场景，如书籍封面、品牌标识、文创产品、社交媒体图片及印章设计等。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Jxzk"
+}
