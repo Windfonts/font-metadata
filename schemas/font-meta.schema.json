@@ -1,0 +1,190 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://feicode.com/Windfonts/font-metadata/raw/branch/main/schemas/font-meta.schema.json",
+  "title": "WindFonts Font Metadata",
+  "description": "文风字体元数据标准格式 v1.0",
+  "type": "object",
+  "required": ["id", "normalizedName", "family", "fontFamily", "category", "weights", "subsets", "license", "version"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9-]+$",
+      "description": "kebab-case 唯一标识，机器用（如 alimama-shuhei-ti）"
+    },
+    "normalizedName": {
+      "type": "string",
+      "pattern": "^[A-Za-z0-9]+$",
+      "description": "原始目录名，与 fonts-packages 仓库目录名一致（如 Almmsht）"
+    },
+    "family": {
+      "type": "string",
+      "description": "字体家族显示名，优先中文（如 阿里妈妈数黑体）"
+    },
+    "familyEn": {
+      "type": "string",
+      "description": "字体家族英文名（如 Alimama ShuHeiTi）"
+    },
+    "fontFamily": {
+      "type": "string",
+      "pattern": "^WF-",
+      "description": "CSS font-family 基础名，Regular 字重用（如 WF-Almmsht）"
+    },
+    "category": {
+      "type": "string",
+      "enum": ["sans-serif", "serif", "display", "handwriting", "monospace"],
+      "description": "主分类，与 CSS generic family 对齐（小写英文）"
+    },
+    "categoryZh": {
+      "type": "string",
+      "enum": ["无衬线字体", "衬线字体", "展示字体", "手写体", "等宽字体"],
+      "description": "主分类中文展示名"
+    },
+    "classifications": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": ["display", "handwriting", "monospace", "rounded", "slab-serif", "geometric", "humanist", "transitional", "modern", "blackletter", "decorative"]
+      },
+      "description": "附加分类标签，可多选（参考 Google Fonts 新体系）"
+    },
+    "weights": {
+      "type": "array",
+      "items": {
+        "type": "integer",
+        "enum": [100, 200, 300, 400, 500, 600, 700, 800, 900]
+      },
+      "minItems": 1,
+      "description": "支持的字重数值列表（如 [400, 700]）"
+    },
+    "weightDetails": {
+      "type": "object",
+      "description": "字重详细信息，key 为字重名称（如 Bold）",
+      "additionalProperties": {
+        "type": "object",
+        "required": ["cssWeight", "fontFamily"],
+        "properties": {
+          "cssWeight": {
+            "type": "integer",
+            "enum": [100, 200, 300, 400, 500, 600, 700, 800, 900]
+          },
+          "fontFamily": {
+            "type": "string",
+            "description": "该字重的 CSS font-family（如 WF-Almmsht-Bold）"
+          },
+          "charCount": {
+            "type": "integer",
+            "description": "字符数量"
+          },
+          "glyphCount": {
+            "type": "integer",
+            "description": "字形数量"
+          }
+        }
+      }
+    },
+    "subsets": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": ["full", "zh", "zh-common", "en"]
+      },
+      "description": "支持的子集版本：full（完整）/ zh（全中文）/ zh-common（常用汉字）/ en（英文）"
+    },
+    "foundry": {
+      "type": ["string", "null"],
+      "description": "字体厂商 slug，对应 font-foundries 仓库（如 alibaba-design）"
+    },
+    "designer": {
+      "type": ["string", "null"],
+      "description": "设计师姓名"
+    },
+    "releaseYear": {
+      "type": ["integer", "null"],
+      "description": "字体发布年份"
+    },
+    "version": {
+      "type": "string",
+      "description": "字体版本号（如 1.0.0）"
+    },
+    "copyright": {
+      "type": ["string", "null"],
+      "description": "版权声明原文"
+    },
+    "license": {
+      "type": "object",
+      "required": ["type"],
+      "properties": {
+        "type": {
+          "type": "string",
+          "enum": ["免费商用", "个人免费", "试用版", "付费授权", "联系授权"],
+          "description": "授权类型（中文分类，对应 font-licenses 仓库）"
+        },
+        "spdx": {
+          "type": ["string", "null"],
+          "description": "SPDX 许可证标识符（如 OFL-1.1、Apache-2.0、CC-BY-4.0）"
+        },
+        "url": {
+          "type": ["string", "null"],
+          "format": "uri",
+          "description": "授权协议原文 URL"
+        },
+        "commercial": {
+          "type": ["boolean", "null"],
+          "description": "是否允许商业使用"
+        },
+        "attribution": {
+          "type": ["boolean", "null"],
+          "description": "是否需要署名"
+        }
+      }
+    },
+    "languages": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "支持语言，使用 BCP 47 代码（如 zh-Hans、zh-Hant、en、ja、ko）"
+    },
+    "languagesZh": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "支持语言中文展示名（如 简体中文、繁体中文）"
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "字体风格标签，对应 OpenType 字体分类（如 黑体、宋体、楷体）"
+    },
+    "keywords": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "自由关键词，描述风格/场景（如 科技感、标题、电商）"
+    },
+    "useCases": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "适用场景（如 电商广告、品牌主视觉）"
+    },
+    "description": {
+      "type": ["string", "null"],
+      "description": "字体详细描述"
+    },
+    "dateAdded": {
+      "type": ["string", "null"],
+      "format": "date",
+      "description": "入库日期，格式 YYYY-MM-DD"
+    },
+    "ossPath": {
+      "type": "string",
+      "description": "OSS 存储路径（如 fonts-packages/Almmsht）"
+    }
+  }
+}
