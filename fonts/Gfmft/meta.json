@@ -1,0 +1,67 @@
+{
+  "id": "gfmft",
+  "normalizedName": "Gfmft",
+  "family": "龚帆免费体3.0",
+  "familyEn": "GongFan Free Font 3.0",
+  "fontFamily": "WF-Gfmft",
+  "category": "handwriting",
+  "categoryZh": "手写体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Gfmft",
+      "charCount": 4006,
+      "glyphCount": 4007
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": null,
+  "foundryName": null,
+  "designer": "GongFan",
+  "releaseYear": 2021,
+  "version": "3.0.0",
+  "copyright": "Created by GongFan.",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans",
+    "en"
+  ],
+  "languagesZh": [
+    "简体中文",
+    "英语"
+  ],
+  "tags": [
+    "毛笔书法"
+  ],
+  "keywords": [
+    "国潮",
+    "手写",
+    "免费商用",
+    "毛笔"
+  ],
+  "useCases": [
+    "宣传推广海报",
+    "招牌标题",
+    "影视游戏",
+    "书刊印刷",
+    "广告包装设计"
+  ],
+  "description": "龚帆免费体是一款由设计师龚帆独立创作的手写风格字体，于2021年2月2日最终完成。该字体具有明显的毛笔笔触痕迹，笔画圆润随性，转折处无锋利棱角，整体风格亲和。其设计理念旨在结合传统汉字魅力与现代设计，在识别性与艺术性之间寻找平衡。字体包含3753个常用汉字及部分拉丁字母，适用于海报、招牌、标题、影视游戏、书刊印刷及广告包装等多种设计场景。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Gfmft"
+}
