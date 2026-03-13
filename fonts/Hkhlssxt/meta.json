@@ -1,0 +1,66 @@
+{
+  "id": "hkhlssxt",
+  "normalizedName": "Hkhlssxt",
+  "family": "黄凯桦律师手写体",
+  "familyEn": "Huang Kaihua Lawyer Handwritten Font",
+  "fontFamily": "WF-Hkhlssxt",
+  "category": "handwriting",
+  "categoryZh": "手写体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Hkhlssxt",
+      "charCount": 7505,
+      "glyphCount": 7415
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "x",
+  "foundryName": "字体家 X 黄凯桦",
+  "designer": "黄凯桦",
+  "releaseYear": 2024,
+  "version": "1.0.0",
+  "copyright": "AllrightsreservedbyLawyerHuangKaihua",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans"
+  ],
+  "languagesZh": [
+    "简体中文"
+  ],
+  "tags": [
+    "硬笔手写"
+  ],
+  "keywords": [
+    "AI造字",
+    "律师",
+    "免费",
+    "手写"
+  ],
+  "useCases": [
+    "广告设计",
+    "海报设计",
+    "书籍排版",
+    "PPT演示",
+    "包装设计",
+    "社交媒体配图"
+  ],
+  "description": "黄凯桦律师手写体是一款由律师黄凯桦创作，并由字体家AI神笔造字技术辅助生成的免费商用中文字体。该字体基于GB2312标准，收录了6769个简体汉字，其设计源于作者本人的硬笔手写，风格独特，笔画自然流畅，兼具手写体的亲和力与一定的规范性。字体旨在为企业和设计师提供一款合法、免费的中文手写字体选择，以减少字体侵权风险，适用于广告、海报、书籍、PPT演示等多种商业设计场景。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Hkhlssxt"
+}
