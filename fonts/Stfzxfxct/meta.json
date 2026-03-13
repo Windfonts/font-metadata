@@ -1,0 +1,68 @@
+{
+  "id": "stfzxfxct",
+  "normalizedName": "Stfzxfxct",
+  "family": "书体坊禚效锋行草体",
+  "familyEn": "Shutifang Zhuo Xiaofeng Xingcao",
+  "fontFamily": "WF-Stfzxfxct",
+  "category": "handwriting",
+  "categoryZh": "手写体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Stfzxfxct",
+      "charCount": 7704,
+      "glyphCount": 7751
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "",
+  "foundryName": "书体坊",
+  "designer": "禚效锋",
+  "releaseYear": 2009,
+  "version": "1.0.0",
+  "copyright": "Copyright(c) shutifang 20090622  QQ:448488727",
+  "license": {
+    "type": "个人免费",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans"
+  ],
+  "languagesZh": [
+    "简体中文"
+  ],
+  "tags": [
+    "毛笔书法"
+  ],
+  "keywords": [
+    "行书",
+    "草书",
+    "中国风",
+    "豪放",
+    "力量",
+    "笔触",
+    "连笔"
+  ],
+  "useCases": [
+    "平面设计",
+    "艺术签名",
+    "广告设计",
+    "书法",
+    "包装印刷"
+  ],
+  "description": "书体坊禚效锋行草体是一款由书法教师禚效锋设计的毛笔行草书法字体。字体风格大气有力，运笔放纵，笔画连绵，结构精简，线条优美，个性鲜明。该字体基于GB2312-80字符集，适用于平面设计、艺术签名、广告设计、书法创作、包装印刷等领域。设计师禚效锋为江苏省徐州人，任书法美术专职教师，是邳州市书协理事、徐州市书协会员及章草研究会创办人。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Stfzxfxct"
+}
