@@ -1,0 +1,70 @@
+{
+  "id": "cjkfqlt",
+  "normalizedName": "Cjkfqlt",
+  "family": "思源黑体 CJK 字体",
+  "familyEn": "cjkFonts",
+  "fontFamily": "WF-Cjkfqlt",
+  "category": "sans-serif",
+  "categoryZh": "无衬线字体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Cjkfqlt",
+      "charCount": 42147,
+      "glyphCount": 42156
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "google-fonts-adobe-fonts",
+  "foundryName": "Google Fonts / Adobe Fonts",
+  "designer": "Adobe, Google, and community",
+  "releaseYear": 2014,
+  "version": "1.11.0",
+  "copyright": "cjkFonts",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans",
+    "zh-Hant",
+    "en"
+  ],
+  "languagesZh": [
+    "简体中文",
+    "繁体中文",
+    "英语"
+  ],
+  "tags": [
+    "黑体"
+  ],
+  "keywords": [
+    "开源",
+    "CJK",
+    "黑体",
+    "无衬线",
+    "多语言"
+  ],
+  "useCases": [
+    "网页设计",
+    "移动应用界面",
+    "文档排版",
+    "品牌标识",
+    "多语言出版物"
+  ],
+  "description": "cjkFonts 是思源黑体（Source Han Sans）的一个子集或变体，旨在为 CJK（中日韩）文字提供统一、高质量的开源字体。它基于 Adobe 和 Google 联合开发的思源黑体项目，包含了简体中文、繁体中文、日文和韩文所需的字符。字体风格现代、清晰，具有良好的可读性，适用于屏幕显示和印刷。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Cjkfqlt"
+}
