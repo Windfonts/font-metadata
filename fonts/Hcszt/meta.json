@@ -1,0 +1,63 @@
+{
+  "id": "hcszt",
+  "normalizedName": "Hcszt",
+  "family": "寒蝉手拙体",
+  "familyEn": "ChillZhuo",
+  "fontFamily": "WF-Hcszt",
+  "category": "handwriting",
+  "categoryZh": "手写体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Normal": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Hcszt",
+      "charCount": 7313,
+      "glyphCount": 7354
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "chilltype",
+  "foundryName": "ChillType",
+  "designer": "ChillType",
+  "releaseYear": 2019,
+  "version": "2.5.0",
+  "copyright": "2019 Chill Type. All Rights Reserved.",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans"
+  ],
+  "languagesZh": [
+    "简体中文"
+  ],
+  "tags": [
+    "硬笔手写"
+  ],
+  "keywords": [
+    "开源",
+    "手写",
+    "楷体衍生"
+  ],
+  "useCases": [
+    "个性化标题",
+    "社交媒体配图",
+    "文创产品设计",
+    "小清新风格设计"
+  ],
+  "description": "寒蝉手拙体是一款基于开源字体演示春风楷、演示秋鸿楷拓展字形的手写风格中文字体。其设计旨在呈现一种自然、略带拙趣的硬笔手写感，字形结构相对宽松，笔画带有手写的不规则性，适用于需要营造亲切、轻松、个性化氛围的设计场景。该字体以 SIL Open Font License 1.1 授权发布，允许个人和企业免费商用。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Hcszt"
+}
