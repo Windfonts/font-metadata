@@ -1,0 +1,73 @@
+{
+  "id": "wqyzh",
+  "normalizedName": "Wqyzh",
+  "family": "文泉驿正黑",
+  "familyEn": "WenQuanYi Zen Hei",
+  "fontFamily": "WF-Wqyzh",
+  "category": "sans-serif",
+  "categoryZh": "无衬线字体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Wqyzh",
+      "charCount": 35597,
+      "glyphCount": 38272
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "wenquanyi-project",
+  "foundryName": "WenQuanYi Project",
+  "designer": "Qianqian Fang",
+  "releaseYear": 2007,
+  "version": "0.8.38",
+  "copyright": "Copyright (c) Qianqian Fang and WenQuanYi Board of Trustees Version: 0.8.38 Codename: Pangu",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans",
+    "zh-Hant",
+    "en",
+    "ja",
+    "ko"
+  ],
+  "languagesZh": [
+    "简体中文",
+    "繁体中文",
+    "英语",
+    "日文",
+    "韩文"
+  ],
+  "tags": [
+    "黑体"
+  ],
+  "keywords": [
+    "开源",
+    "CJK",
+    "屏幕显示",
+    "点阵内嵌"
+  ],
+  "useCases": [
+    "操作系统界面",
+    "网页浏览",
+    "文档排版",
+    "软件开发",
+    "跨平台应用"
+  ],
+  "description": "文泉驿正黑（WenQuanYi Zen Hei）是一款开源的中文黑体（无衬线）字体，由文泉驿项目开发。它是首个开源的Hei-Ti风格中文字体，旨在为中文、日文、韩文（CJK）用户提供通用、跨平台、符合标准的屏幕显示和打印解决方案。字体设计简洁优雅，笔画略加粗以增强屏幕对比度和易读性，并嵌入了文泉驿点阵宋体以优化特定字号下的屏幕渲染效果。该字体包含超过35,000个字形，其中汉字字形超过21,000个，全面覆盖GBK字符集、CJK统一表意文字，并支持简体中文、繁体中文、日语、韩语等多种语言的字符。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Wqyzh"
+}
