@@ -1,0 +1,73 @@
+{
+  "id": "ddjbt",
+  "normalizedName": "Ddjbt",
+  "family": "钉钉进步体",
+  "familyEn": "DingTalk JinBuTi",
+  "fontFamily": "WF-Ddjbt",
+  "category": "sans-serif",
+  "categoryZh": "无衬线字体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Normal": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Ddjbt",
+      "charCount": 7498,
+      "glyphCount": 7526
+    },
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Ddjbt",
+      "charCount": 7498,
+      "glyphCount": 7526
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "",
+  "foundryName": "汉仪字库",
+  "designer": null,
+  "releaseYear": 2022,
+  "version": "1.0.0",
+  "copyright": "(c) 2022 钉钉(中国)信息技术有限公司，版权所有",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans",
+    "en"
+  ],
+  "languagesZh": [
+    "简体中文",
+    "英语"
+  ],
+  "tags": [
+    "黑体"
+  ],
+  "keywords": [
+    "品牌字体",
+    "标题字体",
+    "现代",
+    "倾斜"
+  ],
+  "useCases": [
+    "品牌宣传",
+    "标题设计",
+    "网页标题",
+    "UI界面",
+    "营销物料"
+  ],
+  "description": "钉钉进步体（DingTalk JinBuTi）是由钉钉（阿里巴巴集团旗下）联合汉仪字库为其品牌量身打造的一款定制字体。该字体于2022年12月随钉钉7.0版本发布会正式推出。其设计专为标题、美术字等场景而生，整体风格现代且富有科技活力。字体采用7倾斜设计，弯钩笔画弧度向上，增强了年轻感和动态活力。字形处理上采用外圆内方的圆角方式，兼顾了亲和力与简洁性，对笔画繁简不同的字符进行了平衡处理，确保了在标题应用时的美感与可读性。字体涵盖了中、英文共7526个字符。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Ddjbt"
+}
