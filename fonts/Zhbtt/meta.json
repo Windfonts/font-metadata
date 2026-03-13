@@ -1,0 +1,62 @@
+{
+  "id": "zhbtt",
+  "normalizedName": "Zhbtt",
+  "family": "字魂扁桃体",
+  "familyEn": "ZiHun BianTaoTi",
+  "fontFamily": "WF-Zhbtt",
+  "category": "sans-serif",
+  "categoryZh": "无衬线字体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Oblique": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Zhbtt-Oblique",
+      "charCount": 7639,
+      "glyphCount": 7665
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "shanghai-zihun-network-technology-co-ltd",
+  "foundryName": "Shanghai ZiHun Network Technology Co.,Ltd.",
+  "designer": "ZiHun Network",
+  "releaseYear": null,
+  "version": "1.0.0",
+  "copyright": "Copyright Shanghai ZiHun Network Technology Co.,Ltd.",
+  "license": {
+    "type": "付费授权",
+    "spdx": null,
+    "url": null,
+    "commercial": false,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans"
+  ],
+  "languagesZh": [
+    "简体中文"
+  ],
+  "tags": [
+    "黑体"
+  ],
+  "keywords": [
+    "字魂",
+    "现代",
+    "简体"
+  ],
+  "useCases": [
+    "品牌标识",
+    "屏幕显示",
+    "印刷排版"
+  ],
+  "description": "字魂扁桃体是由上海字魂网络科技有限公司（ZiHun Network）设计的一款中文字体。该字体家族名称为zihunbiantaoti，字重为Regular。根据字魂系列字体的典型特征，其设计风格偏向现代无衬线体，字形结构规整，适用于屏幕显示和印刷排版。字魂网络旗下的字体通常需要商业授权，用户需访问其官方网站获取具体授权信息。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Zhbtt"
+}
