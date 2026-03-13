@@ -1,0 +1,67 @@
+{
+  "id": "pmzdqst",
+  "normalizedName": "Pmzdqst",
+  "family": "庞门正道轻松体",
+  "familyEn": "Pangmenzhengdaoqingsongti",
+  "fontFamily": "WF-Pmzdqst",
+  "category": "handwriting",
+  "categoryZh": "手写体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Pmzdqst",
+      "charCount": 7369,
+      "glyphCount": 7373
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "",
+  "foundryName": "庞门正道",
+  "designer": "庞门正道",
+  "releaseYear": 2019,
+  "version": "1.0.0",
+  "copyright": "(c) 2018 8  ?",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans"
+  ],
+  "languagesZh": [
+    "简体中文"
+  ],
+  "tags": [
+    "硬笔手写",
+    "卡通创意"
+  ],
+  "keywords": [
+    "公益字体",
+    "可爱",
+    "蠢萌",
+    "俏皮"
+  ],
+  "useCases": [
+    "节日海报",
+    "banner设计",
+    "食品宣传",
+    "人物海报",
+    "宠物相关设计",
+    "儿童相关设计"
+  ],
+  "description": "庞门正道轻松体是一款由刘兵克字体设计班的78位学员自愿参与，历时一年开发完成的免费公益手写字体。该字体于2019年正式上线，旨在为社会提供公益价值。其字形风格可爱蠢萌，笔画粗细对比明显，两端宽度及高低错落有致，呈现出变化且规律的特征。字体融入童稚之气，风格可爱中带着随意，洒脱中夹杂文艺，整体趣味十足，字形活泼。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Pmzdqst"
+}
