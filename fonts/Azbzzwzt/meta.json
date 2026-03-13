@@ -1,0 +1,73 @@
+{
+  "id": "azbzzwzt",
+  "normalizedName": "Azbzzwzt",
+  "family": "Droid Sans Fallback",
+  "familyEn": "Droid Sans Fallback",
+  "fontFamily": "WF-Azbzzwzt",
+  "category": "sans-serif",
+  "categoryZh": "无衬线字体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Azbzzwzt",
+      "charCount": 29436,
+      "glyphCount": 43681
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "ascender-corporation",
+  "foundryName": "Ascender Corporation",
+  "designer": "Steve Matteson",
+  "releaseYear": 2007,
+  "version": "1.0.0",
+  "copyright": "Digitized data copyright  2007, Google Corporation.",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans",
+    "zh-Hant",
+    "en",
+    "ja",
+    "ko"
+  ],
+  "languagesZh": [
+    "简体中文",
+    "繁体中文",
+    "英语",
+    "日文",
+    "韩文"
+  ],
+  "tags": [
+    "黑体"
+  ],
+  "keywords": [
+    "Android",
+    "开源",
+    "东亚字符",
+    "无衬线",
+    "用户界面"
+  ],
+  "useCases": [
+    "移动设备系统界面",
+    "多语言软件应用",
+    "电子文档显示",
+    "网页后备字体"
+  ],
+  "description": "Droid Sans Fallback 是 Google 为早期 Android 设备委托设计的开源无衬线字体，主要用于显示中文、日文、韩文等东亚字符，作为 Droid Sans 字体的补充集。该字体由台湾华康科技（威锋数位）与 Ascender Corporation 合作开发，承袭了 DFHeiW5-A 的设计风格，观感与微软雅黑类似。其名称中的Fallback源于其作为 Droid Sans 字集的补充功能，当系统在 Droid Sans 中找不到所需字符时会自动回退到该字体。字体采用字体拼接技术，在仅约4-5MB的文件大小内支持超过5万个字符，覆盖 Unicode UCS-2 字符集，适用于多语言用户界面和电子通信。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Azbzzwzt"
+}
