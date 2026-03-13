@@ -1,0 +1,67 @@
+{
+  "id": "zkwyt",
+  "normalizedName": "Zkwyt",
+  "family": "站酷文艺体",
+  "familyEn": "ZCOOL WenYiTi",
+  "fontFamily": "WF-Zkwyt",
+  "category": "sans-serif",
+  "categoryZh": "无衬线字体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Zkwyt",
+      "charCount": 7454,
+      "glyphCount": 7459
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "",
+  "foundryName": "站酷字库",
+  "designer": "刘兵克",
+  "releaseYear": 2018,
+  "version": "1.0.0",
+  "copyright": "(c) 2018 zcool.All rights reserved.",
+  "license": {
+    "type": "付费授权",
+    "spdx": null,
+    "url": null,
+    "commercial": false,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans",
+    "zh-Hant",
+    "en"
+  ],
+  "languagesZh": [
+    "简体中文",
+    "繁体中文",
+    "英语"
+  ],
+  "tags": [
+    "黑体"
+  ],
+  "keywords": [
+    "站酷",
+    "现代",
+    "正文"
+  ],
+  "useCases": [
+    "品牌标识",
+    "网页设计",
+    "印刷品正文",
+    "标题设计"
+  ],
+  "description": "站酷文艺体是由站酷字库于2018年发布的字体，设计师为刘兵克。该字体是一款现代风格的无衬线黑体，字形结构清晰，笔画粗细均匀，具有良好的可读性。它支持简体中文、繁体中文及英文，适用于品牌标识、网页标题、印刷品正文等多种设计场景。根据版权信息，该字体为商业字体，需获得授权方可使用。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Zkwyt"
+}
