@@ -1,0 +1,64 @@
+{
+  "id": "zwxszt",
+  "normalizedName": "Zwxszt",
+  "family": "Mplus HZK 12 像素字体",
+  "familyEn": "Mplus HZK 12",
+  "fontFamily": "WF-Zwxszt",
+  "category": "sans-serif",
+  "categoryZh": "无衬线字体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Zwxszt",
+      "charCount": 10640,
+      "glyphCount": 10898
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": null,
+  "foundryName": null,
+  "designer": "op",
+  "releaseYear": 2020,
+  "version": "1.0.0",
+  "copyright": "Copyright (c) 2020, op",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans"
+  ],
+  "languagesZh": [
+    "简体中文"
+  ],
+  "tags": [
+    "其他"
+  ],
+  "keywords": [
+    "像素字体",
+    "开源",
+    "复古",
+    "游戏字体"
+  ],
+  "useCases": [
+    "像素艺术创作",
+    "复古游戏开发",
+    "网页设计（复古主题）",
+    "小尺寸打印材料"
+  ],
+  "description": "mplus_hzk_12 是一款基于日本 M+ 无衬线英文字体，并结合 HZK12 字符集构建的开源像素字体。该字体旨在提供一种可自由商用的中文像素字库，覆盖 GB2312 编码，适用于像素艺术、复古风格游戏开发、网页设计以及小尺寸打印等场景。其设计融合了现代无衬线风格与像素化处理，呈现出清晰、复古的视觉效果。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Zwxszt"
+}
