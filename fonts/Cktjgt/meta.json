@@ -1,0 +1,63 @@
+{
+  "id": "cktjgt",
+  "normalizedName": "Cktjgt",
+  "family": "创客贴金刚粗体",
+  "familyEn": "CKTKingKong Bold",
+  "fontFamily": "WF-Cktjgt",
+  "category": "sans-serif",
+  "categoryZh": "无衬线字体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Cktjgt",
+      "charCount": 7638,
+      "glyphCount": 7643
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "www-chuangkit-com",
+  "foundryName": "www.chuangkit.com",
+  "designer": null,
+  "releaseYear": 2019,
+  "version": "2.0.0",
+  "copyright": "Copyright ?2019 www.chuangkit.com. All rights reserved.",
+  "license": {
+    "type": "付费授权",
+    "spdx": null,
+    "url": null,
+    "commercial": false,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans"
+  ],
+  "languagesZh": [
+    "简体中文"
+  ],
+  "tags": [
+    "黑体"
+  ],
+  "keywords": [
+    "标题",
+    "品牌",
+    "海报"
+  ],
+  "useCases": [
+    "标题设计",
+    "品牌标识",
+    "宣传海报",
+    "电商广告"
+  ],
+  "description": "CKTKingKong是一款由创客贴（www.chuangkit.com）出品的无衬线黑体字体，其名称金刚暗示了字体可能具有坚实、有力的视觉特征。该字体包含Bold字重，适用于需要突出强调、展现力量感的标题、海报、品牌标识等设计场景。根据元信息，其版权归属于创客贴，商业使用需获取相应授权。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Cktjgt"
+}
