@@ -1,0 +1,66 @@
+{
+  "id": "nsfx",
+  "normalizedName": "Nsfx",
+  "family": "女書鳳栖",
+  "familyEn": "Nyushu Fengxi",
+  "fontFamily": "WF-Nsfx",
+  "category": "handwriting",
+  "categoryZh": "手写体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Nsfx",
+      "charCount": 29993,
+      "glyphCount": 28481
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "myil",
+  "foundryName": "MYIL",
+  "designer": "MY1L",
+  "releaseYear": 2024,
+  "version": "1.0.0",
+  "copyright": "綿飴",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans",
+    "zh-Hant"
+  ],
+  "languagesZh": [
+    "简体中文",
+    "繁体中文"
+  ],
+  "tags": [
+    "毛笔书法"
+  ],
+  "keywords": [
+    "女书",
+    "文化传承",
+    "开源",
+    "GitHub"
+  ],
+  "useCases": [
+    "文化宣传物料",
+    "艺术标题设计",
+    "字幕与标题",
+    "品牌文化标识"
+  ],
+  "description": "女書鳳栖是一款基于女书文字构型特征设计的字体，其设计灵感来源于江永女书。女书是一种独特的女性文字，笔画呈弧线形，整体构型为菱形，具有图文共生的特点。该字体由设计师MY1L创作，通过GitHub平台发布，采用SIL Open Font License 1.1授权，允许个人和企业免费商用。字体设计旨在传承女书文化，其修长、倾斜的笔画风格赋予了字体独特的民族性和装饰性，适用于文化宣传、艺术设计、标题字幕等需要展现传统美学与现代设计结合的场合。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Nsfx"
+}
