@@ -1,0 +1,65 @@
+{
+  "id": "almmdfdk",
+  "normalizedName": "Almmdfdk",
+  "family": "阿里妈妈东方大楷",
+  "familyEn": "Alimama DongFangDaKai",
+  "fontFamily": "WF-Almmdfdk",
+  "category": "handwriting",
+  "categoryZh": "手写体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Almmdfdk",
+      "charCount": 7017,
+      "glyphCount": 7044
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "alibaba-design",
+  "foundryName": "Alibaba Design",
+  "designer": "Chen Qihui, Hong Liangfen, Liu Chuan, Han Xiaoming, Li Dandan, Chen Yangjian, Gong Wei, Li Jie, Wang Chi, Zhou Min, Li Mu",
+  "releaseYear": 2023,
+  "version": "1.0.0",
+  "copyright": "Copyright (c) 2023 Alibaba (China) Co., Ltd. All rights reserved.",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans"
+  ],
+  "languagesZh": [
+    "简体中文"
+  ],
+  "tags": [
+    "楷体",
+    "毛笔书法"
+  ],
+  "keywords": [
+    "阿里巴巴",
+    "免费字体",
+    "书法字体",
+    "大楷"
+  ],
+  "useCases": [
+    "电商广告设计",
+    "品牌宣传物料",
+    "海报与标题",
+    "书籍封面与印刷品"
+  ],
+  "description": "阿里妈妈东方大楷是由阿里巴巴设计团队于2023年发布的一款免费商用字体。其设计灵感源于中国传统书法中的大楷，融合了现代设计元素，线条流畅自然，兼具古典韵味与时尚感。该字体包含超过7000个字符，主要支持简体中文，适用于电商广告、品牌宣传、海报标题及印刷品设计等场景，能有效提升视觉表现力与文化氛围。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Almmdfdk"
+}
