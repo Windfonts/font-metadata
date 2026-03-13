@@ -1,0 +1,108 @@
+{
+  "id": "ibmps",
+  "normalizedName": "Ibmps",
+  "family": "IBM Plex Sans SC 简体中文",
+  "familyEn": "IBM Plex Sans SC",
+  "fontFamily": "WF-Ibmps",
+  "category": "sans-serif",
+  "categoryZh": "无衬线字体",
+  "classifications": [],
+  "weights": [
+    100,
+    200,
+    300,
+    400,
+    700
+  ],
+  "weightDetails": {
+    "Light": {
+      "cssWeight": 300,
+      "fontFamily": "WF-Ibmps-Light",
+      "charCount": 29286,
+      "glyphCount": 29562
+    },
+    "Text": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Ibmps-Text",
+      "charCount": 29286,
+      "glyphCount": 29562
+    },
+    "Extralight": {
+      "cssWeight": 200,
+      "fontFamily": "WF-Ibmps-Extralight",
+      "charCount": 29286,
+      "glyphCount": 29562
+    },
+    "Thin": {
+      "cssWeight": 100,
+      "fontFamily": "WF-Ibmps-Thin",
+      "charCount": 29286,
+      "glyphCount": 29562
+    },
+    "Bold": {
+      "cssWeight": 700,
+      "fontFamily": "WF-Ibmps-Bold",
+      "charCount": 29286,
+      "glyphCount": 29562
+    },
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Ibmps",
+      "charCount": 29286,
+      "glyphCount": 29562
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "sandoll-inc",
+  "foundryName": "Sandoll Inc.",
+  "designer": "Mike Abbink; Paul van der Laan; Pieter van Rosmalen; Eunyou Noh; Wujin Sim; Chorong Kim; Dohee Lee; Yejin We; Jinhee Kim; Boomi Park; Yona Kim; Kichan Ma; Jiashuo Zhang; Eric Q. Liu; Zheng Chuyang; Xue Tianmeng; Cai Huan; Wang Yingqiao; L Fangqiao",
+  "releaseYear": 2024,
+  "version": "1.0.0",
+  "copyright": "Copyright 2018 IBM Corp. All rights reserved.",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans",
+    "zh-Hant",
+    "en",
+    "ja",
+    "ko"
+  ],
+  "languagesZh": [
+    "简体中文",
+    "繁体中文",
+    "英语",
+    "日文",
+    "韩文"
+  ],
+  "tags": [
+    "黑体"
+  ],
+  "keywords": [
+    "开源",
+    "现代",
+    "简约",
+    "企业",
+    "多语言"
+  ],
+  "useCases": [
+    "用户界面设计",
+    "企业品牌标识",
+    "多语言网站",
+    "技术文档",
+    "屏幕显示"
+  ],
+  "description": "IBM Plex Sans SC 是 IBM 品牌形象字体家族中的简体中文无衬线字体，基于 SIL Open Font License 1.1 开源发布。该字体包含 29562 个字形，支持英文、简体中文、繁体中文、日文、韩文等多种语言系统，旨在为全球科技产品、网站、品牌标识等提供统一且现代的设计语言。字体设计团队来自 IBM 与 Sandoll Inc.，其字形风格现代简约，适用于屏幕显示、企业文档、用户界面及多语言混合排版场景。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Ibmps"
+}
