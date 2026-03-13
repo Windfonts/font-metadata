@@ -1,0 +1,72 @@
+{
+  "id": "kslmt",
+  "normalizedName": "Kslmt",
+  "family": "一点明体",
+  "familyEn": "I.Ming",
+  "fontFamily": "WF-Kslmt",
+  "category": "serif",
+  "categoryZh": "衬线",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Kslmt",
+      "charCount": 55352,
+      "glyphCount": 55328
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "i",
+  "foundryName": "I.字坊 (一点字坊)",
+  "designer": "Ichiten Fonts Project",
+  "releaseYear": 2013,
+  "version": "5.0.0",
+  "copyright": "Copyright(c) Ichiten Fonts Project, 2013-2017; Information-technology Promotion Agency, Japan (IPA), 2011-2012. You must accept \"http://ipafont.ipa.go.jp/ipa_font_license_v1.html\" to use this product.",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hant",
+    "zh-Hans",
+    "en",
+    "ja"
+  ],
+  "languagesZh": [
+    "繁体中文",
+    "简体中文",
+    "英语",
+    "日文"
+  ],
+  "tags": [
+    "宋体"
+  ],
+  "keywords": [
+    "开源字体",
+    "传承字形",
+    "明体",
+    "繁体中文",
+    "Unicode"
+  ],
+  "useCases": [
+    "专业文档排版",
+    "平面设计与品牌标识",
+    "网页与界面设计",
+    "学术出版",
+    "文化宣传物料"
+  ],
+  "description": "I.Ming（一点明体）是一套开源字体，严格遵循传承字形标准化文件《传承字形部件检校表》的推荐字形标准，以TrueType格式封装，并符合Unicode编码和OpenType技术。该字体旨在展示如何在现代数字字体中应用传统字形标准，并鼓励更多传承字形字体的开发。其设计力求遵从字理，展现汉字构字的科学系统，同时提供标准版、全形标点置中版（CP）、异体字版（Var）及适配Windows系统行高的新细明体版（PMingI.U）等多种变体，以满足正式文档排版、创意设计及数字媒体展示等不同场景的需求。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Kslmt"
+}
