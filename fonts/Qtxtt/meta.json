@@ -1,0 +1,64 @@
+{
+  "id": "qtxtt",
+  "normalizedName": "Qtxtt",
+  "family": "千图小兔体",
+  "familyEn": "QTxiaotu",
+  "fontFamily": "WF-Qtxtt",
+  "category": "sans-serif",
+  "categoryZh": "无衬线字体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Qtxtt",
+      "charCount": 6985,
+      "glyphCount": 6999
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "",
+  "foundryName": "千图网",
+  "designer": null,
+  "releaseYear": null,
+  "version": "1.0.0",
+  "copyright": "上海品图网络科技有限公司",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans"
+  ],
+  "languagesZh": [
+    "简体中文"
+  ],
+  "tags": [
+    "黑体",
+    "其他"
+  ],
+  "keywords": [
+    "圆体",
+    "可爱",
+    "免费字体"
+  ],
+  "useCases": [
+    "社交媒体配图",
+    "儿童产品设计",
+    "品牌营销物料",
+    "电商广告"
+  ],
+  "description": "QTxiaotu 是一款由千图网（上海品图网络科技有限公司）发布的免费商用中文字体。其名称小兔体暗示了字体可能具有圆润、可爱或卡通化的设计风格，适合用于需要亲和力与活泼感的视觉设计，如社交媒体内容、儿童相关产品、品牌营销物料等。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Qtxtt"
+}
