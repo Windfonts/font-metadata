@@ -1,0 +1,63 @@
+{
+  "id": "qzkswjz",
+  "normalizedName": "Qzkswjz",
+  "family": "EBAS",
+  "familyEn": "EBAS",
+  "fontFamily": "WF-Qzkswjz",
+  "category": "sans-serif",
+  "categoryZh": "无衬线字体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Qzkswjz",
+      "charCount": 6745,
+      "glyphCount": 6750
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": null,
+  "foundryName": null,
+  "designer": "CMEX",
+  "releaseYear": null,
+  "version": "1.0.0",
+  "copyright": "Created by CMEX with FontForge 1.0 (http://fontforge.sf.net)",
+  "license": {
+    "type": null,
+    "spdx": null,
+    "url": null,
+    "commercial": false,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans",
+    "zh-Hant",
+    "en"
+  ],
+  "languagesZh": [
+    "简体中文",
+    "繁体中文",
+    "英语"
+  ],
+  "tags": [
+    "其他"
+  ],
+  "keywords": [
+    "FontForge"
+  ],
+  "useCases": [
+    "一般文本展示",
+    "个人项目"
+  ],
+  "description": "EBAS 是一款由 CMEX（可能是个人开发者或组织）使用 FontForge 字体编辑软件创建的字体。从元信息看，其设计背景和具体风格特征（如是否为黑体、圆体或等宽体）缺乏明确描述。由于信息有限，无法确认其是否为开源项目或具有明确的商业授权。该字体可能适用于一般性的文本展示或作为个人项目中的实验性字体使用。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Qzkswjz"
+}
