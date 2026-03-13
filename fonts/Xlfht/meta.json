@@ -1,0 +1,63 @@
+{
+  "id": "xlfht",
+  "normalizedName": "Xlfht",
+  "family": "祥隶方体",
+  "familyEn": "Xiang Li Fang",
+  "fontFamily": "WF-Xlfht",
+  "category": "handwriting",
+  "categoryZh": "手写体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Xlfht",
+      "charCount": 6617,
+      "glyphCount": 6620
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "hanghzou-huoshi",
+  "foundryName": "hanghzou huoshi",
+  "designer": "huangyuchen",
+  "releaseYear": null,
+  "version": "1.0.0",
+  "copyright": null,
+  "license": {
+    "type": null,
+    "spdx": null,
+    "url": null,
+    "commercial": false,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans"
+  ],
+  "languagesZh": [
+    "简体中文"
+  ],
+  "tags": [
+    "毛笔书法"
+  ],
+  "keywords": [
+    "书法",
+    "艺术",
+    "传统"
+  ],
+  "useCases": [
+    "海报设计",
+    "品牌标识",
+    "文化宣传物料",
+    "书籍封面"
+  ],
+  "description": "xianglifang 是一款由设计师 huangyuchen 创作，厂商 hanghzou huoshi 发布的字体。其元信息显示为 Regular 字重，版本号为 1.000。该字体名称暗示其可能融合了传统隶书与方体风格，具有手写或书法特征，适用于需要展现传统韵味或艺术感的设计场景，如海报标题、品牌标识、文化宣传等。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Xlfht"
+}
