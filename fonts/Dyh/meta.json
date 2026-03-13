@@ -1,0 +1,69 @@
+{
+  "id": "dyh",
+  "normalizedName": "Dyh",
+  "family": "得意黑",
+  "familyEn": "Smiley Sans Oblique",
+  "fontFamily": "WF-Dyh",
+  "category": "sans-serif",
+  "categoryZh": "无衬线字体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Oblique": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Dyh-Oblique",
+      "charCount": 7710,
+      "glyphCount": 7764
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "atelieranchor",
+  "foundryName": "atelierAnchor",
+  "designer": "oooooohmygosh, Nagisa Chen, Janine Sui, Heda Shi, Jian Li",
+  "releaseYear": 2022,
+  "version": "1.0.0",
+  "copyright": "Copyright  2022 atelierAnchor. All rights reserved.",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans",
+    "en"
+  ],
+  "languagesZh": [
+    "简体中文",
+    "英语"
+  ],
+  "tags": [
+    "黑体",
+    "卡通创意"
+  ],
+  "keywords": [
+    "开源",
+    "斜体",
+    "美术字",
+    "窄体"
+  ],
+  "useCases": [
+    "平面海报",
+    "广告标题",
+    "电商文案",
+    "视频字幕",
+    "书报杂志标题",
+    "游戏界面"
+  ],
+  "description": "得意黑（Smiley Sans Oblique）是一款由设计师 oooooohmygosh 与 atelierAnchor 锚坞工作室合作设计的开源中文字体。其设计在人文观感与几何特征间寻求平衡，是一款具有美术字风格的窄斜体。字体整体倾斜6度，字宽压窄20%，呈现出窄长、重心上提的形态，笔形上最具辨识度的是大弧线的弯钩造型。该字体支持简体中文常用字（覆盖GB/T 2312-1980及《通用规范汉字表》）、拉丁字母、西里尔字母、希腊字母、日文假名、阿拉伯数字和各类标点符号。它适用于标题、海报、电商文案、视频字幕等短文本场景，但不建议用于正文排版或编程界面。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Dyh"
+}
