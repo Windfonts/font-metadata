@@ -1,0 +1,65 @@
+{
+  "id": "hsmbzt",
+  "normalizedName": "Hsmbzt",
+  "family": "香山毛笔字体",
+  "familyEn": "Kouzan Brush Font OTF",
+  "fontFamily": "WF-Hsmbzt",
+  "category": "handwriting",
+  "categoryZh": "手写体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Hsmbzt",
+      "charCount": 9804,
+      "glyphCount": 15444
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": null,
+  "foundryName": null,
+  "designer": "Aoyagi Kouzan",
+  "releaseYear": null,
+  "version": "1.1.0",
+  "copyright": "AoyagiKouzan",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "ja"
+  ],
+  "languagesZh": [
+    "日文"
+  ],
+  "tags": [
+    "毛笔书法"
+  ],
+  "keywords": [
+    "brush",
+    "japanese",
+    "calligraphy",
+    "handwritten"
+  ],
+  "useCases": [
+    "书法艺术",
+    "海报设计",
+    "品牌标识",
+    "文化宣传",
+    "包装设计"
+  ],
+  "description": "KouzanBrushFontOTF 是一款由设计师 Aoyagi Kouzan 创作的日文毛笔手写字体。其设计模仿了传统毛笔书法的笔触和韵味，具有流畅、自然的书写风格，笔画带有明显的飞白和墨迹感。字体风格自由奔放，适用于需要展现传统、艺术、手工艺或文化气息的设计场景，如书法作品、传统节日海报、文化宣传物料、品牌标识、包装设计等。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Hsmbzt"
+}
