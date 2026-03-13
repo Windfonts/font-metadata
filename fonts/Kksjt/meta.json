@@ -1,0 +1,69 @@
+{
+  "id": "kksjt",
+  "normalizedName": "Kksjt",
+  "family": "快看世界体",
+  "familyEn": "KuaiKan World Typeface",
+  "fontFamily": "WF-Kksjt",
+  "category": "sans-serif",
+  "categoryZh": "无衬线字体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Kksjt",
+      "charCount": 6917,
+      "glyphCount": 6918
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "kkdc",
+  "foundryName": "快看KKDC（快看设计中心）",
+  "designer": "冷水萧",
+  "releaseYear": 2023,
+  "version": "1.003.0",
+  "copyright": null,
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans",
+    "zh-Hant"
+  ],
+  "languagesZh": [
+    "简体中文",
+    "繁体中文"
+  ],
+  "tags": [
+    "黑体",
+    "卡通创意"
+  ],
+  "keywords": [
+    "标题黑体",
+    "漫画风",
+    "ACGN",
+    "倾斜",
+    "尖角"
+  ],
+  "useCases": [
+    "品牌营销",
+    "漫展宣传物料",
+    "客户端界面",
+    "短视频封面",
+    "年轻潮流主题设计"
+  ],
+  "description": "快看世界体是快看APP（北京快看世界信息技术有限公司）首款自主创作的标题黑体，由快看KKDC设计中心出品，设计师冷水萧独立完成。该字体设计灵感源自漫画对话框的尖角元素，融合ACGN文化，呈现出年轻、潮流、大胆的风格。其字形规范包括末端尖角、中宫外扩、字面瘦长、整体倾斜8度，共包含约3501个汉字。字体于2023年正式发布，并免费授权全社会商用，适用于品牌营销、漫展、客户端界面及年轻潮流主题的设计。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Kksjt"
+}
