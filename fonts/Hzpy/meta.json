@@ -1,0 +1,67 @@
+{
+  "id": "hzpy",
+  "normalizedName": "Hzpy",
+  "family": "汉字拼音体",
+  "familyEn": "Hanzi-Pinyin-Font",
+  "fontFamily": "WF-Hzpy",
+  "category": "sans-serif",
+  "categoryZh": "无衬线字体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Hzpy",
+      "charCount": 26654,
+      "glyphCount": 26655
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": null,
+  "foundryName": null,
+  "designer": null,
+  "releaseYear": 2022,
+  "version": "1.0.0",
+  "copyright": null,
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans",
+    "zh-Hant"
+  ],
+  "languagesZh": [
+    "简体中文",
+    "繁体中文"
+  ],
+  "tags": [
+    "拼音",
+    "黑体"
+  ],
+  "keywords": [
+    "教育",
+    "学习",
+    "开源"
+  ],
+  "useCases": [
+    "儿童识字教材",
+    "对外汉语教学材料",
+    "教育类PPT课件",
+    "拼音标注文档",
+    "语言学习软件界面"
+  ],
+  "description": "汉字拼音体是一款专为中文学习设计的特殊字体，其最大特点是在每个汉字的上方或旁边直接显示对应的汉语拼音及声调。该字体旨在帮助初学者、儿童及汉语学习者更快地建立汉字与发音的联系，降低阅读和记忆难度。其字形设计融合了黑体与楷书的特征，风格工整清秀，易于识别，同时兼顾了现代审美。该字体支持简体中文和繁体中文，并遵循开源协议，允许免费用于商业和个人用途。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Hzpy"
+}
