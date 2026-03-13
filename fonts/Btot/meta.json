@@ -1,0 +1,72 @@
+{
+  "id": "btot",
+  "normalizedName": "Btot",
+  "family": "波塔",
+  "familyEn": "Potta One",
+  "fontFamily": "WF-Btot",
+  "category": "handwriting",
+  "categoryZh": "手写体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Btot",
+      "charCount": 7286,
+      "glyphCount": 7365
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "font-zone-108",
+  "foundryName": "Font Zone 108",
+  "designer": "108_,108go",
+  "releaseYear": 2020,
+  "version": "1.0.0",
+  "copyright": "Copyright 2020 The Potta Project Authors (https://github.com/go108go/Potta), all rights reserved.",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans",
+    "zh-Hant",
+    "en",
+    "ja"
+  ],
+  "languagesZh": [
+    "简体中文",
+    "繁体中文",
+    "英语",
+    "日文"
+  ],
+  "tags": [
+    "卡通创意"
+  ],
+  "keywords": [
+    "开源",
+    "日系字体",
+    "圆体",
+    "粗体",
+    "免费"
+  ],
+  "useCases": [
+    "PPT演示",
+    "海报标题",
+    "儿童内容",
+    "卡通设计",
+    "非正式品牌物料"
+  ],
+  "description": "Potta One 是一款日系风格的开源免费字体，其笔画粗壮，字形圆润且结构紧凑。该字体包含中文、字母、数字和符号，支持简体中文、繁体中文、英文和日文。它以 SIL Open Font License 1.1 协议发布，允许个人和企业免费商用，无需署名，也可自由修改和分发。字体设计风格俏皮可爱，适用于卡通创意、PPT演示、海报标题、儿童内容及非正式的商业设计等场景。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Btot"
+}
