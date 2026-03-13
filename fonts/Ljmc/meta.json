@@ -1,0 +1,64 @@
+{
+  "id": "ljmc",
+  "normalizedName": "Ljmc",
+  "family": "钟齐流江毛草",
+  "familyEn": "Liu Jian Mao Cao",
+  "fontFamily": "WF-Ljmc",
+  "category": "handwriting",
+  "categoryZh": "手写体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Ljmc",
+      "charCount": 7015,
+      "glyphCount": 7018
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "zhongqi",
+  "foundryName": "ZhongQi",
+  "designer": "ZhongQi",
+  "releaseYear": 2018,
+  "version": "1.001",
+  "copyright": "Copyright 2018 The Liu Jian Mao Cao Project Authors (https://www.github.com/googlefonts/liujianmaocao)",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans"
+  ],
+  "languagesZh": [
+    "简体中文"
+  ],
+  "tags": [
+    "毛笔书法"
+  ],
+  "keywords": [
+    "开源",
+    "Google Fonts",
+    "OFL"
+  ],
+  "useCases": [
+    "品牌标识",
+    "海报设计",
+    "包装设计",
+    "文化宣传物料",
+    "社交媒体配图"
+  ],
+  "description": "Liu Jian Mao Cao 是一款由 ZhongQi 开发的开源中文毛笔字体，属于 Google Fonts 开源字体项目。该字体设计灵感源于传统毛笔书法，笔触流畅自然，带有手写的灵动感与力量感。其字形结构舒展，适用于需要展现文化底蕴、艺术感或传统风格的视觉设计场景。字体遵循 SIL Open Font License 1.1 开源协议，允许个人及商业免费使用。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Ljmc"
+}
