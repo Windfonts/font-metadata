@@ -1,0 +1,129 @@
+{
+  "id": "misa",
+  "normalizedName": "Misa",
+  "family": "小米兰亭 Sans",
+  "familyEn": "MiSans",
+  "fontFamily": "WF-Misa",
+  "category": "sans-serif",
+  "categoryZh": "无衬线字体",
+  "classifications": [],
+  "weights": [
+    100,
+    200,
+    300,
+    400,
+    500,
+    600,
+    700,
+    900
+  ],
+  "weightDetails": {
+    "Medium": {
+      "cssWeight": 500,
+      "fontFamily": "WF-Misa-Medium",
+      "charCount": 29414,
+      "glyphCount": 29601
+    },
+    "Heavy": {
+      "cssWeight": 900,
+      "fontFamily": "WF-Misa-Heavy",
+      "charCount": 29414,
+      "glyphCount": 29601
+    },
+    "Semibold": {
+      "cssWeight": 600,
+      "fontFamily": "WF-Misa-Semibold",
+      "charCount": 29414,
+      "glyphCount": 29601
+    },
+    "Light": {
+      "cssWeight": 300,
+      "fontFamily": "WF-Misa-Light",
+      "charCount": 29414,
+      "glyphCount": 29601
+    },
+    "Extralight": {
+      "cssWeight": 200,
+      "fontFamily": "WF-Misa-Extralight",
+      "charCount": 29414,
+      "glyphCount": 29601
+    },
+    "Bold": {
+      "cssWeight": 700,
+      "fontFamily": "WF-Misa-Bold",
+      "charCount": 29414,
+      "glyphCount": 29601
+    },
+    "Normal": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Misa",
+      "charCount": 29414,
+      "glyphCount": 29601
+    },
+    "Demibold": {
+      "cssWeight": 600,
+      "fontFamily": "WF-Misa-Demibold",
+      "charCount": 29414,
+      "glyphCount": 29601
+    },
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Misa",
+      "charCount": 29414,
+      "glyphCount": 29601
+    },
+    "Thin": {
+      "cssWeight": 100,
+      "fontFamily": "WF-Misa-Thin",
+      "charCount": 29414,
+      "glyphCount": 29601
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "hanyi-fonts",
+  "foundryName": "Hanyi Fonts",
+  "designer": "Beijing Xiaomi Mobile Software Co.,Ltd & Hanyi Fonts",
+  "releaseYear": 2020,
+  "version": "4.0.3",
+  "copyright": "Copyright  2020-2023 Beijing Xiaomi Mobile Software Co.,Ltd. All Rights Reserved.",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans",
+    "en"
+  ],
+  "languagesZh": [
+    "简体中文",
+    "英语"
+  ],
+  "tags": [
+    "黑体"
+  ],
+  "keywords": [
+    "现代",
+    "简洁",
+    "开源",
+    "屏幕显示",
+    "小米"
+  ],
+  "useCases": [
+    "UI界面设计",
+    "移动端应用",
+    "网页设计",
+    "品牌宣传",
+    "印刷品正文"
+  ],
+  "description": "MiSans 是小米公司联合汉仪字库于2020年发布的一款免费商用开源字体，基于小米品牌字体小米兰亭优化而来。它是一款现代、简洁的无衬线黑体，字形设计注重中宫开阔、笔画清晰，提升了屏幕显示的可读性和易读性。该字体家族包含10种字重，支持多种语言，并针对小字号屏幕显示进行了优化。MiSans 采用 SIL Open Font License 1.1 开源协议，允许个人和商业免费使用、修改和分发。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Misa"
+}
