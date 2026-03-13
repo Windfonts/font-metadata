@@ -1,0 +1,69 @@
+{
+  "id": "dyzgt",
+  "normalizedName": "Dyzgt",
+  "family": "斗鱼追光体",
+  "familyEn": "DOUYU Font",
+  "fontFamily": "WF-Dyzgt",
+  "category": "sans-serif",
+  "categoryZh": "无衬线字体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Dyzgt",
+      "charCount": 7716,
+      "glyphCount": 7707
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "ued",
+  "foundryName": "斗鱼武汉研发部UED/品牌组",
+  "designer": "DOUYU",
+  "releaseYear": 2024,
+  "version": "1.0.0",
+  "copyright": "斗鱼追光体",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans",
+    "en"
+  ],
+  "languagesZh": [
+    "简体中文",
+    "英语"
+  ],
+  "tags": [
+    "黑体",
+    "其他"
+  ],
+  "keywords": [
+    "倾斜体",
+    "标题字体",
+    "品牌字体",
+    "现代",
+    "几何感"
+  ],
+  "useCases": [
+    "品牌标识",
+    "海报标题",
+    "广告设计",
+    "游戏界面",
+    "社交媒体配图"
+  ],
+  "description": "斗鱼追光体是由斗鱼武汉研发部UED提供指导，品牌组设计成员主导设计的品牌定制字体。字体采用向右8倾斜的设计，寓意向前冲的态势，结合横细竖粗的笔画原则与源自品牌Logo鲨鱼鱼鳍的倒角设计，形成粗体艺术风格，兼具力量感、速度感与辨识度。该字体符合GB2312简体中文编码字符标准，包含6763个中文字符和100个西文及数字符号，旨在统一并强化斗鱼平台的品牌视觉形象。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Dyzgt"
+}
