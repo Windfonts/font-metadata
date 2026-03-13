@@ -1,0 +1,66 @@
+{
+  "id": "yzklct",
+  "normalizedName": "Yzklct",
+  "family": "龙藏体",
+  "familyEn": "Long Cang",
+  "fontFamily": "WF-Yzklct",
+  "category": "handwriting",
+  "categoryZh": "手写体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Yzklct",
+      "charCount": 7015,
+      "glyphCount": 7016
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "zhongqi",
+  "foundryName": "ZhongQi",
+  "designer": "ZhongQi",
+  "releaseYear": 2018,
+  "version": "2.0.1",
+  "copyright": "Copyright 2018 The LongCang Project Authors (https://github.com/googlefonts/longcang)",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans"
+  ],
+  "languagesZh": [
+    "简体中文"
+  ],
+  "tags": [
+    "毛笔书法"
+  ],
+  "keywords": [
+    "开源",
+    "谷歌字体",
+    "钟齐字库",
+    "OFL"
+  ],
+  "useCases": [
+    "品牌标识",
+    "海报设计",
+    "书籍封面",
+    "文化宣传物料",
+    "影视标题",
+    "包装设计"
+  ],
+  "description": "Long Cang（龙藏体）是谷歌开源字体项目中的一款中文毛笔手写字体，由设计师ZhongQi创作，并由钟齐字库维护和发布。该字体遵循SIL Open Font License 1.1开源协议，可免费商用。其设计风格模仿传统书法笔触，具有流畅自然的笔锋和动态的粗细变化，适用于需要展现文化韵味、艺术感或传统氛围的设计场景。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Yzklct"
+}
