@@ -1,0 +1,64 @@
+{
+  "id": "qtqmt",
+  "normalizedName": "Qtqmt",
+  "family": "千图纤墨体",
+  "familyEn": "qiantuxianmoti",
+  "fontFamily": "WF-Qtqmt",
+  "category": "sans-serif",
+  "categoryZh": "无衬线字体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Qtqmt",
+      "charCount": 7139,
+      "glyphCount": 7152
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "shanghai-pintu-network-technology-co-ltd",
+  "foundryName": "Shanghai PinTu Network Technology Co.,Ltd.",
+  "designer": "Shanghai PinTu Network Technology Co.,Ltd.",
+  "releaseYear": null,
+  "version": "1.0.0",
+  "copyright": "Copyright Shanghai PinTu Network Technology Co.,Ltd.",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans"
+  ],
+  "languagesZh": [
+    "简体中文"
+  ],
+  "tags": [
+    "黑体"
+  ],
+  "keywords": [
+    "现代",
+    "标题",
+    "纤细",
+    "电商"
+  ],
+  "useCases": [
+    "电商海报",
+    "社交媒体配图",
+    "品牌宣传物料",
+    "网页标题"
+  ],
+  "description": "千图纤墨体是一款由上海品图网络科技有限公司（千图网）发布的免费商用字体。该字体设计风格偏向现代无衬线黑体，字形简洁清晰，笔画纤细而富有力度，兼具良好的屏幕显示与印刷适应性。其设计旨在为设计师提供一款安全、易用且风格化的标题字体，适用于电商海报、社交媒体配图、品牌宣传物料等多种商业设计场景。字体元信息中提供的链接指向千图网，表明其作为该平台字体资源的属性。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Qtqmt"
+}
