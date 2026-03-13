@@ -1,0 +1,68 @@
+{
+  "id": "mkwfys",
+  "normalizedName": "Mkwfys",
+  "family": "猫啃网风雅宋",
+  "familyEn": "Maoken FengYa Song",
+  "fontFamily": "WF-Mkwfys",
+  "category": "serif",
+  "categoryZh": "衬线",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Mkwfys",
+      "charCount": 42767,
+      "glyphCount": 42570
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "maoken",
+  "foundryName": "Maoken",
+  "designer": "XinYuGong x Maoken",
+  "releaseYear": 2020,
+  "version": "1.0.0",
+  "copyright": "[Swei Spring] Modified by Max  [MaokenFengYaSong] Copyright 2020 Maoken,XinYuGong \"MaokenFengYaSong\" font is redistributed by maoken.com",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans",
+    "zh-Hant",
+    "en"
+  ],
+  "languagesZh": [
+    "简体中文",
+    "繁体中文",
+    "英语"
+  ],
+  "tags": [
+    "宋体"
+  ],
+  "keywords": [
+    "开源",
+    "猫啃网",
+    "SIL OFL"
+  ],
+  "useCases": [
+    "品牌设计",
+    "印刷排版",
+    "屏幕显示",
+    "书籍杂志",
+    "宣传物料"
+  ],
+  "description": "MaokenFengYaSong 是一款由猫啃网（Maoken）联合设计师 XinYuGong 发布的免费商用宋体字体。该字体基于 Swei Spring 字体修改而来，于2020年11月28日首次发布。作为一款衬线字体，它融合了传统宋体的骨架与一定的现代审美，字形匀称，笔画清晰，兼具一定的装饰性。其设计旨在提供一种适用于屏幕显示与印刷排版的优雅宋体选择，支持简体中文、繁体中文及英文。字体通过猫啃网平台分发，采用 SIL Open Font License 开源协议，允许个人和商业免费使用。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Mkwfys"
+}
