@@ -1,0 +1,67 @@
+{
+  "id": "dymht",
+  "normalizedName": "Dymht",
+  "family": "抖音美好体",
+  "familyEn": "Douyin Sans Bold",
+  "fontFamily": "WF-Dymht",
+  "category": "sans-serif",
+  "categoryZh": "无衬线字体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Dymht",
+      "charCount": 7715,
+      "glyphCount": 7818
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "",
+  "foundryName": "北京北大方正电子有限公司",
+  "designer": "北京北大方正电子有限公司",
+  "releaseYear": 2023,
+  "version": "1.0.0",
+  "copyright": "Copyright(c) Beijing Founder Electronics Co.,Ltd.",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans",
+    "en"
+  ],
+  "languagesZh": [
+    "简体中文",
+    "英语"
+  ],
+  "tags": [
+    "黑体"
+  ],
+  "keywords": [
+    "品牌字体",
+    "现代",
+    "简洁",
+    "屏幕优化"
+  ],
+  "useCases": [
+    "品牌视觉识别",
+    "用户界面设计",
+    "社交媒体内容",
+    "数字广告",
+    "标题排版"
+  ],
+  "description": "Douyin Sans（抖音美好体）是抖音体验设计中心与方正字库联合开发的品牌定制字体。该字体包含6763个汉字和682个西文及数字符号，遵循GB2312-80简体中文编码标准。其设计旨在体现记录美好生活的品牌理念，字形简洁优雅、清晰易读，兼具现代气质与人文属性。笔画细节采用非常规弧线与倒角设计，营造出刚柔并济的视觉氛围，并借鉴书法笔锋概念，在横笔上加入切角设计以增加节奏感。作为标准品牌字体，它适用于抖音及其子品牌的统一视觉形象，并已开放给全社会免费商用。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Dymht"
+}
