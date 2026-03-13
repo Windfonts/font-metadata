@@ -1,0 +1,71 @@
+{
+  "id": "zqkhyt",
+  "normalizedName": "Zqkhyt",
+  "family": "郑庆科黄油体 Regular",
+  "familyEn": "Zhengqingke Butter Regular",
+  "fontFamily": "WF-Zqkhyt",
+  "category": "sans-serif",
+  "categoryZh": "无衬线字体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Zqkhyt",
+      "charCount": 6899,
+      "glyphCount": 6901
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "",
+  "foundryName": "庆科字体",
+  "designer": "郑庆科",
+  "releaseYear": 2016,
+  "version": "1.0.0",
+  "copyright": "(c) 2016",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans",
+    "zh-Hant",
+    "en"
+  ],
+  "languagesZh": [
+    "简体中文",
+    "繁体中文",
+    "英语"
+  ],
+  "tags": [
+    "黑体",
+    "卡通创意"
+  ],
+  "keywords": [
+    "圆润",
+    "复古",
+    "时尚",
+    "儿童",
+    "创意"
+  ],
+  "useCases": [
+    "食品包装设计",
+    "甜品店招",
+    "儿童产品设计",
+    "商业海报",
+    "品牌标志"
+  ],
+  "description": "郑庆科黄油体是一款风格独特的创意字体，融合了复古感与现代时尚元素。其整体形态被拉长，边角处被磨平，呈现出类似印刻的视觉效果。字体笔划圆润，所有直角均被处理为半径4pt的圆角，线条柔和顺滑。中文部分注重圆滑与简洁，而英文字母和数字则采用了独特的折叠式设计，模仿长条纸张折叠的效果，形成鲜明的视觉对比。字体部首的右下角采用了45缺角设计，有助于提升视觉中心并改善因笔划交叉导致的阅读困难。该字体风格偏向儿童化且带有复古时尚感，适用于食品、甜品、儿童产品、店招、Banner、标志等设计主题。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Zqkhyt"
+}
