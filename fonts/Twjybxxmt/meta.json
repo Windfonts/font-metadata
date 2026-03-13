@@ -1,0 +1,66 @@
+{
+  "id": "twjybxxmt",
+  "normalizedName": "Twjybxxmt",
+  "family": "PMingLiU 繁体中文版",
+  "familyEn": "PMingLiU-TW",
+  "fontFamily": "WF-Twjybxxmt",
+  "category": "serif",
+  "categoryZh": "衬线",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Twjybxxmt",
+      "charCount": 21905,
+      "glyphCount": 22237
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "microsoft",
+  "foundryName": "微软 (Microsoft)",
+  "designer": null,
+  "releaseYear": null,
+  "version": "1.0.0",
+  "copyright": "Lietxia",
+  "license": {
+    "type": null,
+    "spdx": null,
+    "url": null,
+    "commercial": false,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hant",
+    "zh-Hans",
+    "en"
+  ],
+  "languagesZh": [
+    "繁体中文",
+    "简体中文",
+    "英语"
+  ],
+  "tags": [
+    "宋体"
+  ],
+  "keywords": [
+    "windows",
+    "truetype",
+    "mingliu"
+  ],
+  "useCases": [
+    "操作系统界面",
+    "传统文档排版",
+    "屏幕显示优化"
+  ],
+  "description": "PMingLiU-TW 是微软 MingLiU（细明体）字体系列的繁体中文版本，属于 TrueType 字体。该字体设计灵感来源于宋代书体，旨在改善在电脑屏幕上阅读中文的效果，具有清晰的衬线特征。它早期被广泛用于 Windows 操作系统，特别是繁体中文环境，支持显示繁体中文字符。字体文件通常包含常规、粗体等字重。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Twjybxxmt"
+}
