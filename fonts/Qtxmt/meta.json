@@ -1,0 +1,62 @@
+{
+  "id": "qtxmt",
+  "normalizedName": "Qtxmt",
+  "family": "千图纤墨体",
+  "familyEn": "qiantuxianmoti",
+  "fontFamily": "WF-Qtxmt",
+  "category": "handwriting",
+  "categoryZh": "手写体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Qtxmt",
+      "charCount": 7139,
+      "glyphCount": 7152
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "shanghai-pintu-network-technology-co-ltd",
+  "foundryName": "Shanghai PinTu Network Technology Co.,Ltd.",
+  "designer": "Shanghai PinTu Network Technology Co.,Ltd.",
+  "releaseYear": null,
+  "version": "1.0.0",
+  "copyright": "Copyright Shanghai PinTu Network Technology Co.,Ltd.",
+  "license": {
+    "type": "联系授权",
+    "spdx": null,
+    "url": null,
+    "commercial": false,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans"
+  ],
+  "languagesZh": [
+    "简体中文"
+  ],
+  "tags": [
+    "硬笔手写"
+  ],
+  "keywords": [
+    "千图网",
+    "平台字体"
+  ],
+  "useCases": [
+    "社交媒体配图",
+    "电商海报",
+    "公众号排版",
+    "宣传单页"
+  ],
+  "description": "千图纤墨体是一款由上海品图网络科技有限公司（千图网）设计并发布的字体。其名称中的纤墨暗示了字体可能具有类似纤细笔触或墨水书写的风格特征。根据元信息，该字体与千图网（58pic.com）平台相关联，通常用于其设计模板库中。作为一款平台字体，其授权和使用条款需通过官方渠道确认。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Qtxmt"
+}
