@@ -1,0 +1,68 @@
+{
+  "id": "ysbzt",
+  "normalizedName": "Ysbzt",
+  "family": "峄山碑篆体",
+  "familyEn": "Yishan Stele Seal Script",
+  "fontFamily": "WF-Ysbzt",
+  "category": "handwriting",
+  "categoryZh": "手写体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Ysbzt",
+      "charCount": 3843,
+      "glyphCount": 3843
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "",
+  "foundryName": "咸阳职业技术学院 (大学生科技创新项目)",
+  "designer": "字传",
+  "releaseYear": 2022,
+  "version": "1.0.0",
+  "copyright": null,
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans",
+    "zh-Hant"
+  ],
+  "languagesZh": [
+    "简体中文",
+    "繁体中文"
+  ],
+  "tags": [
+    "毛笔书法",
+    "其他"
+  ],
+  "keywords": [
+    "篆书",
+    "秦篆",
+    "复刻字体",
+    "教育项目"
+  ],
+  "useCases": [
+    "文化宣传设计",
+    "古籍文献排版",
+    "书法临摹与教育",
+    "品牌与标识设计",
+    "传统节日海报"
+  ],
+  "description": "峄山碑篆体是一款基于秦代《峄山刻石》复刻开发的篆书字体。该字体是咸阳职业技术学院在校学生科技创新项目《峄山石刻字库开发》的成果，由指导教师陈业欣指导，张家佳特战团与学校合作出品。字体以传为秦相李斯所书的《峄山刻石》为蓝本，通过电脑路径对碑文进行临摹复刻，修补残破，力求展现原碑圆润流畅、结构匀称、法度严谨的书法风貌。对于碑文以外的文字，其基本字型参考了汉代许慎著、唐代李阳冰勘定的《说文解字》。该字体风格古朴典雅，适用于需要体现传统文化、历史厚重感的设计场景，如古籍排版、书法临摹、文化宣传、品牌标识等。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Ysbzt"
+}
