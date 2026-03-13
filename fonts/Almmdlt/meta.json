@@ -1,0 +1,68 @@
+{
+  "id": "almmdlt",
+  "normalizedName": "Almmdlt",
+  "family": "阿里妈妈刀隶体",
+  "familyEn": "Alimama DaoLiTi",
+  "fontFamily": "WF-Almmdlt",
+  "category": "handwriting",
+  "categoryZh": "手写体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Almmdlt",
+      "charCount": 7017,
+      "glyphCount": 7043
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "alibaba-design",
+  "foundryName": "Alibaba Design",
+  "designer": "Hong Liangfen, Liu Chuan, Han Xiaoming, Chen Yangjian, Gong Wei, Yi Si, Li Mu",
+  "releaseYear": 2023,
+  "version": "1.0.0",
+  "copyright": "Copyright (c) 2023 Alibaba (China) Co., Ltd. All rights reserved.",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans",
+    "en"
+  ],
+  "languagesZh": [
+    "简体中文",
+    "英语"
+  ],
+  "tags": [
+    "隶书",
+    "毛笔书法"
+  ],
+  "keywords": [
+    "阿里巴巴",
+    "AI字体",
+    "可变字体",
+    "爨宝子碑"
+  ],
+  "useCases": [
+    "品牌宣传",
+    "文化海报",
+    "电商广告",
+    "书籍装帧",
+    "UI标题"
+  ],
+  "description": "阿里妈妈刀隶体是由阿里妈妈智造字通过机器学习爨宝子碑精髓设计的一款中文简体字库。其设计强调了三角点折弯与横画两端的雁尾方强特征，外露锋芒，精神饱满。字体风格介于隶书与楷书之间，保留了浓厚的隶书方笔意味，整体给人以坚实、朴茂、稚拙、倔犟的视觉感受。它打破了常规的匀称均衡，结字大胆，大小对比强烈，在看似失度的构图中追求艺术的平衡与和谐，静中寓动。该字体包含6763个汉字、52个英文字母及227个常用标点符号，总计7042个字符，适用于需要展现文化底蕴、艺术个性与视觉冲击力的设计场景。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Almmdlt"
+}
