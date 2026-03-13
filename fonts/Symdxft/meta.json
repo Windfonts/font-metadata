@@ -1,0 +1,63 @@
+{
+  "id": "symdxft",
+  "normalizedName": "Symdxft",
+  "family": "摄图摩登小方体",
+  "familyEn": "Shetu Mo Deng Xiao Fang Ti",
+  "fontFamily": "WF-Symdxft",
+  "category": "sans-serif",
+  "categoryZh": "无衬线字体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Symdxft",
+      "charCount": 6977,
+      "glyphCount": 6990
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "",
+  "foundryName": "摄图网",
+  "designer": null,
+  "releaseYear": null,
+  "version": "1.0.0",
+  "copyright": "上海韩众网络科技有限公司",
+  "license": {
+    "type": "付费授权",
+    "spdx": null,
+    "url": null,
+    "commercial": false,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans"
+  ],
+  "languagesZh": [
+    "简体中文"
+  ],
+  "tags": [
+    "黑体"
+  ],
+  "keywords": [
+    "现代",
+    "简洁",
+    "方体"
+  ],
+  "useCases": [
+    "品牌设计",
+    "宣传海报",
+    "网页标题",
+    "UI界面"
+  ],
+  "description": "摄图摩登小方体是一款由摄图网（上海韩众网络科技有限公司）发布的现代风格中文字体。其名称摩登小方体暗示了字体设计可能融合了现代（摩登）感与小方体（类似黑体）的结构特征，适用于需要简洁、清晰、现代感的视觉设计场景。该字体版权归属于上海韩众网络科技有限公司，通常需要通过摄图网平台获取授权后方可使用。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Symdxft"
+}
