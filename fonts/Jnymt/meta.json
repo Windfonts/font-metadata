@@ -1,0 +1,68 @@
+{
+  "id": "jnymt",
+  "normalizedName": "Jnymt",
+  "family": "荆南缘默体",
+  "familyEn": "Kingnamype Yuanmo SC",
+  "fontFamily": "WF-Jnymt",
+  "category": "sans-serif",
+  "categoryZh": "无衬线字体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Jnymt",
+      "charCount": 8068,
+      "glyphCount": 8069
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "",
+  "foundryName": "荆南字坊",
+  "designer": "荆南字坊",
+  "releaseYear": 2021,
+  "version": "0.10.0",
+  "copyright": "(c) Copyrighted by Kingnam Typography Studios",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans",
+    "zh-Hant"
+  ],
+  "languagesZh": [
+    "简体中文",
+    "繁体中文"
+  ],
+  "tags": [
+    "黑体",
+    "卡通创意"
+  ],
+  "keywords": [
+    "OFL",
+    "粗黑体",
+    "标题字体",
+    "圆角"
+  ],
+  "useCases": [
+    "店招",
+    "房地产广告",
+    "地铁公交站广告海报",
+    "线上及线下产品宣传",
+    "个人VLOG封面标题"
+  ],
+  "description": "荆南缘默体是由荆南字坊创作的一款免费商用圆角黑体。该字体诞生于2020年疫情期间，旨在创作一款在公共空间具有高辨识度和吸引力的标题字体。其设计理念是尽可能让笔画加粗并占满偏扁的字格，同时通过独特的圆角处理增加趣味性，避免与常见的圆体美术字雷同。字体包含GB2312简体中文字6763个，现代汉语常用字3500个，并支持西文、数字、符号、日文假名、注音符号及汉语拼音。其字框偏扁，重心偏低，在保持字形辨识度的前提下追求视觉冲击力。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Jnymt"
+}
