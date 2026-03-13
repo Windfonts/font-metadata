@@ -1,0 +1,63 @@
+{
+  "id": "klsyt",
+  "normalizedName": "Klsyt",
+  "family": "I.Ngaan刻石录颜体",
+  "familyEn": "I.Ngaan",
+  "fontFamily": "WF-Klsyt",
+  "category": "sans-serif",
+  "categoryZh": "无衬线字体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Klsyt",
+      "charCount": 14471,
+      "glyphCount": 14633
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "ichiten-fonts-project",
+  "foundryName": "Ichiten Fonts Project",
+  "designer": "Ichiten Fonts Project",
+  "releaseYear": 2013,
+  "version": "1.004",
+  "copyright": "(C) Dr. Hann-Tzong Wang, 1999-2004; (C) Ichiten Fonts Project, 2013-14. This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public Linense as published by the Free Software Foundation; either version 2 of the License, or any later version.",
+  "license": {
+    "type": null,
+    "spdx": null,
+    "url": null,
+    "commercial": false,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans",
+    "zh-Hant"
+  ],
+  "languagesZh": [
+    "简体中文",
+    "繁体中文"
+  ],
+  "tags": [
+    "其他"
+  ],
+  "keywords": [
+    "开源",
+    "GPL"
+  ],
+  "useCases": [
+    "文档排版",
+    "屏幕显示",
+    "开源项目"
+  ],
+  "description": "I.Ngaan是一款基于GNU通用公共许可证发布的字体。其开发历史可追溯至王汉宗博士（Dr. Hann-Tzong Wang）在1999年至2004年间的工作，后由Ichiten Fonts Project于2013年接手并完成。该字体包含大量字形，支持中日韩兼容表意文字及半形、全形字符，适用于需要兼容多种中文书写形式的场景。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Klsyt"
+}
