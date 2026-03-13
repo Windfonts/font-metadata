@@ -1,0 +1,91 @@
+{
+  "id": "opsa",
+  "normalizedName": "Opsa",
+  "family": "OPPO Sans",
+  "familyEn": "OPPO Sans",
+  "fontFamily": "WF-Opsa",
+  "category": "sans-serif",
+  "categoryZh": "无衬线字体",
+  "classifications": [],
+  "weights": [
+    300,
+    400,
+    500,
+    700
+  ],
+  "weightDetails": {
+    "Medium": {
+      "cssWeight": 500,
+      "fontFamily": "WF-Opsa-Medium",
+      "charCount": 29071,
+      "glyphCount": 29270
+    },
+    "Light": {
+      "cssWeight": 300,
+      "fontFamily": "WF-Opsa-Light",
+      "charCount": 29197,
+      "glyphCount": 29385
+    },
+    "Bold": {
+      "cssWeight": 700,
+      "fontFamily": "WF-Opsa-Bold",
+      "charCount": 29071,
+      "glyphCount": 29270
+    },
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Opsa",
+      "charCount": 29071,
+      "glyphCount": 29270
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "hanyi-fonts",
+  "foundryName": "Hanyi Fonts",
+  "designer": "黄珍元",
+  "releaseYear": 2019,
+  "version": "3.0.4",
+  "copyright": "copyright  2019-2023 by OPPO. All rights reserved.",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans",
+    "zh-Hant",
+    "en"
+  ],
+  "languagesZh": [
+    "简体中文",
+    "繁体中文",
+    "英语"
+  ],
+  "tags": [
+    "黑体"
+  ],
+  "keywords": [
+    "品牌字体",
+    "圆润",
+    "科技感",
+    "现代化",
+    "多语言"
+  ],
+  "useCases": [
+    "品牌标识",
+    "用户界面设计",
+    "移动端应用",
+    "宣传物料",
+    "数字屏幕显示"
+  ],
+  "description": "OPPO Sans 是 OPPO 与汉仪字库联合开发的全球化品牌字体，于2019年11月20日随 ColorOS 7 系统正式发布。字体设计遵循简洁真实的品牌美学，采用全新骨架，中宫舒适，字形舒展。中文部分由汉仪字库设计师黄珍元设计，西文部分由 Pentagram 公司设计。该字体针对移动端屏幕显示进行了像素级优化，包含 Light、Regular、Medium、Bold、Heavy 五种字重，支持多国语言，旨在提升阅读体验并展现现代科技美感。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Opsa"
+}
