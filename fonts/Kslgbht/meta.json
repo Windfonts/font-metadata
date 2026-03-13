@@ -1,0 +1,68 @@
+{
+  "id": "kslgbht",
+  "normalizedName": "Kslgbht",
+  "family": "钢笔鹤-B",
+  "familyEn": "I.PenCrane-B",
+  "fontFamily": "WF-Kslgbht",
+  "category": "handwriting",
+  "categoryZh": "手写体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Kslgbht",
+      "charCount": 14448,
+      "glyphCount": 14619
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "ichiten-fonts-project",
+  "foundryName": "Ichiten Fonts Project",
+  "designer": "Ichiten Fonts Project",
+  "releaseYear": 2013,
+  "version": "1.0.0",
+  "copyright": "(C) Dr. Hann-Tzong Wang, 1999-2004; (C) Ichiten Fonts Project, 2013-14. This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public Linense as published by the Free Software Foundation; either version 2 of the License, or any later version.",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans",
+    "zh-Hant",
+    "en"
+  ],
+  "languagesZh": [
+    "简体中文",
+    "繁体中文",
+    "英语"
+  ],
+  "tags": [
+    "硬笔手写"
+  ],
+  "keywords": [
+    "handwriting",
+    "pen",
+    "free",
+    "GPL"
+  ],
+  "useCases": [
+    "标题设计",
+    "个性化卡片",
+    "非正式文档",
+    "创意海报"
+  ],
+  "description": "I.PenCrane-B 是一款由 Ichiten Fonts Project 发布的硬笔手写风格字体。其设计基于 Dr. Hann-Tzong Wang 在1999年至2004年间的工作，并由 Ichiten Fonts Project 在2013-2014年进行更新和发布。字体风格模仿钢笔书写，笔画清晰，带有一定的手写感，适用于需要展现个人化、亲切或手写风格的场景，如标题、海报、个性化卡片、非正式文档等。该字体以 GNU General Public License 发布，允许免费使用和分发。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Kslgbht"
+}
