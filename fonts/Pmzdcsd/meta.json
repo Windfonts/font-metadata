@@ -1,0 +1,69 @@
+{
+  "id": "pmzdcsd",
+  "normalizedName": "Pmzdcsd",
+  "family": "庞门正道标题体",
+  "familyEn": "PangMenZhengDao",
+  "fontFamily": "WF-Pmzdcsd",
+  "category": "sans-serif",
+  "categoryZh": "无衬线字体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Pmzdcsd",
+      "charCount": 7590,
+      "glyphCount": 7618
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "",
+  "foundryName": "庞门正道",
+  "designer": "庞门正道",
+  "releaseYear": 2018,
+  "version": "6.0.0",
+  "copyright": "(c) Copyright PangMenZhengDao",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans",
+    "zh-Hant",
+    "en"
+  ],
+  "languagesZh": [
+    "简体中文",
+    "繁体中文",
+    "英语"
+  ],
+  "tags": [
+    "黑体"
+  ],
+  "keywords": [
+    "标题",
+    "粗体",
+    "现代",
+    "免费字体"
+  ],
+  "useCases": [
+    "标题设计",
+    "海报",
+    "品牌标识",
+    "电商广告",
+    "社交媒体图片"
+  ],
+  "description": "庞门正道标题体（PangMenZhengDao）是一款由设计师庞门正道（阿门）主导设计并免费发布的现代黑体字。该字体笔画粗壮有力，结构方正，视觉冲击力强，专为标题、海报、品牌标识等需要突出显示的场景而设计。其设计风格简洁、醒目，兼具现代感和实用性，在中文互联网设计社区中广受欢迎。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Pmzdcsd"
+}
