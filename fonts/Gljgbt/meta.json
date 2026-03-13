@@ -1,0 +1,67 @@
+{
+  "id": "gljgbt",
+  "normalizedName": "Gljgbt",
+  "family": "光良酒-干杯体",
+  "familyEn": "Guangliangjiu Ganbei Ti",
+  "fontFamily": "WF-Gljgbt",
+  "category": "sans-serif",
+  "categoryZh": "无衬线字体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Gljgbt",
+      "charCount": 7321,
+      "glyphCount": 7423
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "",
+  "foundryName": "四川光良酒业有限公司",
+  "designer": "刘兵克 (LBK)",
+  "releaseYear": 2023,
+  "version": "3.0.0",
+  "copyright": "四川光良酒业有限公司",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans"
+  ],
+  "languagesZh": [
+    "简体中文"
+  ],
+  "tags": [
+    "黑体",
+    "其他"
+  ],
+  "keywords": [
+    "品牌字体",
+    "标题字体",
+    "免费商用",
+    "酒业",
+    "数据瓶"
+  ],
+  "useCases": [
+    "海报设计",
+    "包装设计",
+    "品牌宣传",
+    "自媒体内容",
+    "标题字"
+  ],
+  "description": "光良酒-干杯体是由白酒品牌四川光良酒业委托字体设计师刘兵克及其团队历时9个月、花费26万元开发的品牌定制字体。该字体旨在为白酒行业及广大设计师提供一个安全、免费的设计工具，以应对字体侵权索赔的困扰。字体包含6763个GB2312标准简体汉字及常用字符，字形设计干净爽朗、痛快淋漓，适合用作标题。此外，字体包还包含了55个不同设计的酒字标识，以及五谷、香型、货运等数十个酒类包装常用素材图标。字体于2023年1月12日正式发布，并免费授权全社会商用。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Gljgbt"
+}
