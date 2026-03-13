@@ -1,0 +1,65 @@
+{
+  "id": "xet",
+  "normalizedName": "Xet",
+  "family": "贤二体",
+  "familyEn": "XianErTi",
+  "fontFamily": "WF-Xet",
+  "category": "handwriting",
+  "categoryZh": "手写体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Xet",
+      "charCount": 10352,
+      "glyphCount": 9962
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "",
+  "foundryName": "北京龙泉寺",
+  "designer": null,
+  "releaseYear": null,
+  "version": "5.0.0",
+  "copyright": "(c) Copyright Beijing LongQuan Temple",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans"
+  ],
+  "languagesZh": [
+    "简体中文"
+  ],
+  "tags": [
+    "毛笔书法"
+  ],
+  "keywords": [
+    "卡通",
+    "圆润",
+    "可爱",
+    "免费字体"
+  ],
+  "useCases": [
+    "儿童读物",
+    "卡通漫画",
+    "社交媒体配图",
+    "品牌吉祥物设计",
+    "非正式宣传物料"
+  ],
+  "description": "贤二体是一款由北京龙泉寺发布的免费商用字体，其设计灵感来源于寺庙中卡通人物贤二的形象。字体风格独特，笔画圆润、憨态可掬，带有明显的卡通创意和手写书法特征，整体呈现出轻松、亲切的视觉效果。该字体适用于需要营造活泼、可爱氛围的场合，如儿童读物、卡通漫画、社交媒体配图、品牌吉祥物设计及非正式的宣传物料。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Xet"
+}
