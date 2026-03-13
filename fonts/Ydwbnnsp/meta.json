@@ -1,0 +1,69 @@
+{
+  "id": "ydwbnnsp",
+  "normalizedName": "Ydwbnnsp",
+  "family": "香蕉Plus字体",
+  "familyEn": "YDW bananaslip plus plus",
+  "fontFamily": "WF-Ydwbnnsp",
+  "category": "sans-serif",
+  "categoryZh": "无衬线字体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Ydwbnnsp",
+      "charCount": 4434,
+      "glyphCount": 4513
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "ymnk-design-works",
+  "foundryName": "ymnk design works",
+  "designer": "yuma yamanaka (ymnkinfo@gmail.com)",
+  "releaseYear": 2020,
+  "version": "2.001",
+  "copyright": "(c) 2020 ymnk design works",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans",
+    "zh-Hant",
+    "ja",
+    "en"
+  ],
+  "languagesZh": [
+    "简体中文",
+    "繁体中文",
+    "日文",
+    "英语"
+  ],
+  "tags": [
+    "其他"
+  ],
+  "keywords": [
+    "个性",
+    "现代",
+    "创意"
+  ],
+  "useCases": [
+    "创意海报",
+    "UI设计",
+    "社交媒体配图",
+    "品牌视觉物料"
+  ],
+  "description": "YDW bananaslip plus plus（中文名：香蕉Plus字体）是由日本设计师yuma yamanaka（ymnk design works）于2020年发布的一款无衬线字体。该字体以香蕉为设计灵感，旨在提供一种更加简明现代化的视觉风格。新版本对汉字进行了视差调整和设计更改，使整体字形看起来更加统一。字体收录了大量字符，包括平假名、片假名、字母数字、部分符号以及3459个汉字，总计4211个字符。其设计风格个性鲜明，适合用于各类创意设计和视觉作品。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Ydwbnnsp"
+}
