@@ -1,0 +1,73 @@
+{
+  "id": "cylyt",
+  "normalizedName": "Cylyt",
+  "family": "辰宇落雁体 Thin",
+  "familyEn": "Chenyu Luoyan Thin",
+  "fontFamily": "WF-Cylyt",
+  "category": "handwriting",
+  "categoryZh": "手写体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Monospaced": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Cylyt-Monospaced",
+      "charCount": 5166,
+      "glyphCount": 5180
+    },
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Cylyt",
+      "charCount": 5163,
+      "glyphCount": 5177
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "new-value",
+  "foundryName": "New Value",
+  "designer": "由劉韋辰書寫，王立宇後期製作。",
+  "releaseYear": 2022,
+  "version": "1.0.0",
+  "copyright": "(c) 2022 王立宇、劉韋辰 版權所有。",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hant",
+    "en"
+  ],
+  "languagesZh": [
+    "繁体中文",
+    "英语"
+  ],
+  "tags": [
+    "硬笔手写"
+  ],
+  "keywords": [
+    "开源",
+    "学生作品",
+    "原子笔",
+    "人文"
+  ],
+  "useCases": [
+    "文创设计",
+    "社交媒体海报",
+    "包装设计",
+    "绘本插画",
+    "个人手账"
+  ],
+  "description": "辰宇落雁体 Thin 是一款由高中生刘韦辰与王立宇合作创作的免费开源手写风格字体。该字体源于学校的自主学习计划，刘韦辰负责手写，王立宇负责后期数字化制作。其设计灵感源于将日常字迹复写留存，以原子笔书写风格呈现，笔画自然流畅，带有温度与人文感。字体采用 SIL Open Font License 1.1 开源协议授权，允许个人与企业免费商用。特别感谢 justfont 设计师团队在项目过程中提供的咨询与技术指导。该字体主要支持繁体中文及英文，适用于需要手写质感的场景，如音乐MV字幕、明信片、卡片、绘本、品牌包装及社交媒体设计等。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Cylyt"
+}
