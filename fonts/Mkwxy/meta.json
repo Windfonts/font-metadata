@@ -1,0 +1,65 @@
+{
+  "id": "mkwxy",
+  "normalizedName": "Mkwxy",
+  "family": "猫啃网星圆体",
+  "familyEn": "MaoKenWangXingYuan",
+  "fontFamily": "WF-Mkwxy",
+  "category": "sans-serif",
+  "categoryZh": "无衬线字体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Mkwxy",
+      "charCount": 7710,
+      "glyphCount": 7764
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "",
+  "foundryName": "猫啃网",
+  "designer": "MaoKen",
+  "releaseYear": 2023,
+  "version": "1.0.0",
+  "copyright": "Copyright  2023 MaoKen. All rights reserved.",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans"
+  ],
+  "languagesZh": [
+    "简体中文"
+  ],
+  "tags": [
+    "黑体"
+  ],
+  "keywords": [
+    "免费商用",
+    "圆体",
+    "现代",
+    "几何"
+  ],
+  "useCases": [
+    "品牌标识",
+    "UI/UX设计",
+    "社交媒体图文",
+    "海报标题",
+    "电商广告"
+  ],
+  "description": "MaoKenWangXingYuan 是一款由猫啃网发布或整理的无衬线中文字体。其名称星圆体暗示了字体可能具有圆润、星形或几何化的笔画特征。该字体设计风格现代，适用于屏幕显示、品牌标识、社交媒体图文及各类需要清晰易读且亲和力强的设计场景。根据其元信息，字体版权归属于 MaoKen，发布于2023年，并遵循免费商用授权协议。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Mkwxy"
+}
