@@ -1,0 +1,54 @@
+{
+  "id": "wcsf",
+  "normalizedName": "Wcsf",
+  "family": "问藏书房",
+  "familyEn": "WenCang",
+  "fontFamily": "WF-Wcsf",
+  "category": "sans-serif",
+  "categoryZh": "无衬线字体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Normal": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Wcsf",
+      "charCount": 7256,
+      "glyphCount": 7212
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": null,
+  "foundryName": null,
+  "designer": "丁道华",
+  "releaseYear": 2019,
+  "version": "1.0.0",
+  "copyright": "2019 丁道华. All rights reserved.",
+  "license": {
+    "type": null,
+    "spdx": null,
+    "url": null,
+    "commercial": false,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans"
+  ],
+  "languagesZh": [
+    "简体中文"
+  ],
+  "tags": [
+    "黑体"
+  ],
+  "keywords": [],
+  "useCases": [],
+  "description": "WenCang（问藏书房）是一款由设计师丁道华于2019年发布的中文字体。其元信息显示字体名称为问藏书房，风格为常规字重。该字体设计简洁，适用于一般的中文排版场景。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Wcsf"
+}
