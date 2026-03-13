@@ -1,0 +1,40 @@
+{
+  "id": "alimama-shuhei-ti",
+  "normalizedName": "Almmsht",
+  "family": "阿里妈妈数黑体",
+  "familyEn": "Alimama ShuHeiTi",
+  "fontFamily": "WF-Almmsht",
+  "category": "sans-serif",
+  "categoryZh": "无衬线字体",
+  "classifications": ["display"],
+  "weights": [700],
+  "weightDetails": {
+    "Bold": {
+      "cssWeight": 700,
+      "fontFamily": "WF-Almmsht-Bold",
+      "charCount": 6991,
+      "glyphCount": 7027
+    }
+  },
+  "subsets": ["full", "zh", "zh-common", "en"],
+  "foundry": "alibaba-design",
+  "designer": null,
+  "releaseYear": 2022,
+  "version": "1.0.0",
+  "copyright": "Copyright 2022 Alibaba (China) Co., Ltd. All rights reserved.",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": "https://github.com/alimama-creative/AlimamaShuHeiTi",
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": ["zh-Hans", "en"],
+  "languagesZh": ["简体中文", "英语"],
+  "tags": ["黑体"],
+  "keywords": ["科技感", "标题", "电商", "现代"],
+  "useCases": ["电商广告", "品牌主视觉", "促销物料", "网页标题", "商业海报"],
+  "description": "阿里妈妈数黑体是由阿里巴巴设计团队开发的一款免费商用黑体。字型饱满，布白现代，落笔厚实简练，具有鲜明的现代感和力量感。字体包含超过7000个字符，覆盖GB2312标准。",
+  "dateAdded": "2026-03-12",
+  "ossPath": "fonts-packages/Almmsht"
+}
