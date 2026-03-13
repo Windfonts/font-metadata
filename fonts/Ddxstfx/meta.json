@@ -1,0 +1,67 @@
+{
+  "id": "ddxstfx",
+  "normalizedName": "Ddxstfx",
+  "family": "点点像素宋体",
+  "familyEn": "Dotted Songti Square",
+  "fontFamily": "WF-Ddxstfx",
+  "category": "serif",
+  "categoryZh": "宋体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Ddxstfx",
+      "charCount": 22791,
+      "glyphCount": 22792
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": null,
+  "foundryName": null,
+  "designer": "wixette",
+  "releaseYear": 2020,
+  "version": "0.1.0",
+  "copyright": "Copyright (C) 2020 wixette",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans",
+    "zh-Hant"
+  ],
+  "languagesZh": [
+    "简体中文",
+    "繁体中文"
+  ],
+  "tags": [
+    "宋体",
+    "其他"
+  ],
+  "keywords": [
+    "像素",
+    "开源",
+    "点阵",
+    "艺术字体"
+  ],
+  "useCases": [
+    "像素艺术设计",
+    "复古风格游戏UI",
+    "创意海报标题",
+    "数字艺术创作"
+  ],
+  "description": "Dotted Songti Square 是一款基于 GPL 2.0 协议开源的中文像素艺术字体，属于点点像素字体家族。该字体基于开源的文泉驿点阵宋体，通过自动化工具进行矢量化、变形和美化处理而成，其特点是字形由方形点阵构成，呈现出复古的像素艺术风格。它支持超过22000个Unicode字形，覆盖GBK编码中的全部简繁体汉字，适用于像素艺术设计、复古风格游戏界面、海报标题等需要营造怀旧或数字艺术感的场景。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Ddxstfx"
+}
