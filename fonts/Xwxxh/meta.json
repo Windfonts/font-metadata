@@ -1,0 +1,72 @@
+{
+  "id": "xwxxh",
+  "normalizedName": "Xwxxh",
+  "family": "霞鹜新晰黑",
+  "familyEn": "LXGW Neo XiHei",
+  "fontFamily": "WF-Xwxxh",
+  "category": "sans-serif",
+  "categoryZh": "无衬线字体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Xwxxh",
+      "charCount": 26477,
+      "glyphCount": 26779
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "lxgw",
+  "foundryName": "LXGW",
+  "designer": "LXGW",
+  "releaseYear": 2021,
+  "version": "1.206",
+  "copyright": "Copyright(c) 2021-2024 LXGW; Information-technology Promotion Agency, Japan (IPA), 2003-2019. You must accept \"https://opensource.org/licenses/IPA/\" to use this product.",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans",
+    "zh-Hant",
+    "en",
+    "ja"
+  ],
+  "languagesZh": [
+    "简体中文",
+    "繁体中文",
+    "英语",
+    "日文"
+  ],
+  "tags": [
+    "黑体"
+  ],
+  "keywords": [
+    "开源",
+    "清晰",
+    "黑体",
+    "CJK",
+    "GB18030"
+  ],
+  "useCases": [
+    "办公文档",
+    "网页设计",
+    "中文排版",
+    "屏幕阅读",
+    "用户界面"
+  ],
+  "description": "LXGW Neo XiHei（霞鹜新晰黑）是一款基于日本IPAex Gothic改造的中文开源黑体字体，专为提升中文文本的阅读清晰度而设计。其核心设计理念是为清晰而生，通过简化部分部件的出脚设计，使字形更加简约明快。该字体支持CJK统一表意文字基本区及扩展A~I区的超过2.2万个汉字，并包含通用规范汉字表、GB/T 2312-1980等标准字集。此外，它还支持易经八卦、麻将、中国象棋等文化符号，以及希腊字母、西里尔字母和越南语拉丁字的显示。字体适用于日常办公文档、网页设计、中文排版等场景，是一款清晰易读的通用黑体。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Xwxxh"
+}
