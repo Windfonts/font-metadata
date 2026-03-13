@@ -1,0 +1,71 @@
+{
+  "id": "qtmksxt",
+  "normalizedName": "Qtmksxt",
+  "family": "千图马克手写体",
+  "familyEn": "Qiantumake Handwriting",
+  "fontFamily": "WF-Qtmksxt",
+  "category": "handwriting",
+  "categoryZh": "手写体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Qtmksxt",
+      "charCount": 10467,
+      "glyphCount": 10481
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "",
+  "foundryName": "千图字体",
+  "designer": "Shanghai PinTu Network Technology Co.,Ltd.",
+  "releaseYear": 2025,
+  "version": "1.0.0",
+  "copyright": "Copyright Shanghai PinTu Network Technology Co.,Ltd.",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans",
+    "zh-Hant",
+    "en",
+    "ja"
+  ],
+  "languagesZh": [
+    "简体中文",
+    "繁体中文",
+    "英语",
+    "日文"
+  ],
+  "tags": [
+    "硬笔手写"
+  ],
+  "keywords": [
+    "手写",
+    "免费商用",
+    "千图网",
+    "硬笔"
+  ],
+  "useCases": [
+    "社交媒体设计",
+    "海报标题",
+    "品牌标识",
+    "短视频字幕",
+    "手账排版"
+  ],
+  "description": "千图马克手写体是一款由上海品图网络信息科技有限公司（千图字体）发布的硬笔手写风格字体。其字形设计模仿日常书写笔迹，笔画流畅自然，带有一定的手工感。该字体支持简体中文、繁体中文、英文及日文，适用于需要营造亲切、活泼、个性化氛围的设计场景，如社交媒体配图、海报标题、品牌标识、手账及短视频字幕等。字体授权方式为免费商用，用户可通过官方渠道获取。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Qtmksxt"
+}
