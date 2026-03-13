@@ -1,0 +1,66 @@
+{
+  "id": "zyss",
+  "normalizedName": "Zyss",
+  "family": "智勇手书体",
+  "familyEn": "ShouShuti",
+  "fontFamily": "WF-Zyss",
+  "category": "handwriting",
+  "categoryZh": "手写体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Zyss",
+      "charCount": 7584,
+      "glyphCount": 7586
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": null,
+  "foundryName": null,
+  "designer": "贾智勇",
+  "releaseYear": 2017,
+  "version": "1.0.0",
+  "copyright": "(C) Copyright JiaZhiyong 2017",
+  "license": {
+    "type": "联系授权",
+    "spdx": null,
+    "url": null,
+    "commercial": false,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans",
+    "en"
+  ],
+  "languagesZh": [
+    "简体中文",
+    "英语"
+  ],
+  "tags": [
+    "硬笔手写"
+  ],
+  "keywords": [
+    "手写",
+    "中文",
+    "硬笔"
+  ],
+  "useCases": [
+    "品牌标识",
+    "社交媒体设计",
+    "贺卡邀请函",
+    "书籍封面",
+    "文创包装"
+  ],
+  "description": "ShouShuti（智勇手书体）是一款由设计师贾智勇创作的手写风格中文字体。该字体于2017年发布，其字形模仿硬笔手写，笔画自然流畅，带有一定的手工感。它支持简体中文和英文，适用于需要营造亲切、个性化或手工艺感的场景，如品牌标识、社交媒体图片、贺卡、书籍封面及文创产品包装等。根据公开信息，其商业使用需要联系版权方获取正式授权。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Zyss"
+}
