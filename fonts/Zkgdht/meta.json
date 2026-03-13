@@ -1,0 +1,66 @@
+{
+  "id": "zkgdht",
+  "normalizedName": "Zkgdht",
+  "family": "站酷高端黑",
+  "familyEn": "ZCOOL GDH",
+  "fontFamily": "WF-Zkgdht",
+  "category": "sans-serif",
+  "categoryZh": "无衬线字体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Zkgdht",
+      "charCount": 7723,
+      "glyphCount": 7782
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "zcool",
+  "foundryName": "站酷（ZCOOL）",
+  "designer": "胡晓波、刘兵克",
+  "releaseYear": 2014,
+  "version": "2.0.10",
+  "copyright": "zcool",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans",
+    "en"
+  ],
+  "languagesZh": [
+    "简体中文",
+    "英语"
+  ],
+  "tags": [
+    "黑体"
+  ],
+  "keywords": [
+    "公益字体",
+    "众包设计",
+    "现代",
+    "标题"
+  ],
+  "useCases": [
+    "品牌标识",
+    "海报标题",
+    "电商广告",
+    "UI界面标题"
+  ],
+  "description": "站酷高端黑（ZCOOL GDH）是站酷网于2014年圣诞节发布的首款公益字体。该字体由设计师胡晓波、刘兵克发起，通过汉字百人舞活动组织近百位设计师以众包形式集体创作完成，包含6763个汉字、数字和英文字母。字体风格现代简约，笔画粗壮有力，字形饱满醒目，适用于需要力量感和现代感的标题、海报、品牌标识等设计场景。该字体为免费商用授权。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Zkgdht"
+}
