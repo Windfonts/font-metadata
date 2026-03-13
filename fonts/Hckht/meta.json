@@ -1,0 +1,72 @@
+{
+  "id": "hckht",
+  "normalizedName": "Hckht",
+  "family": "Chill K Sans",
+  "familyEn": "Chill K Sans",
+  "fontFamily": "WF-Hckht",
+  "category": "sans-serif",
+  "categoryZh": "无衬线字体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Normal": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Hckht",
+      "charCount": 30274,
+      "glyphCount": 33395
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "project-welai",
+  "foundryName": "Project Welai",
+  "designer": "Ryoko NISHIZUKA (kana, bopomofo & ideographs);Montserrat by Julieta Ulanovsky; Glow Sans is built by Celestial Phineas.",
+  "releaseYear": 2020,
+  "version": "1.0.0",
+  "copyright": "Glow Sans (c) 2020 Project Welai. Source Han Sans (c) 2014-2019 Adobe (http://www.adobe.com/). Copyright 2011 The Montserrat Project Authors.",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans",
+    "zh-Hant",
+    "en",
+    "ja"
+  ],
+  "languagesZh": [
+    "简体中文",
+    "繁体中文",
+    "英语",
+    "日文"
+  ],
+  "tags": [
+    "黑体"
+  ],
+  "keywords": [
+    "开源",
+    "现代",
+    "几何",
+    "CJK",
+    "可变字体"
+  ],
+  "useCases": [
+    "网页设计",
+    "移动应用UI",
+    "品牌标识",
+    "数字出版",
+    "印刷材料"
+  ],
+  "description": "Chill K Sans 是未来荧黑（Glow Sans）字体家族的一个子集或变体。未来荧黑是一款基于思源黑体（Source Han Sans）改造的开源CJK字体家族，由 Project Welai 主导开发。该字体家族以其现代、简洁的设计风格著称，通过参数化技术重构了字形，收紧了中宫，使字符更加紧凑，笔画处理干净利落，呈现出数字原生的清晰与高效气质。它完整支持简体中文、繁体中文、日文及基础韩文，并提供了从超细到特粗的9级字重以及多种宽度变体，适用于网页设计、移动应用界面、品牌设计和印刷出版等多种场景。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Hckht"
+}
