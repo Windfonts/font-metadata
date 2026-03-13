@@ -1,0 +1,71 @@
+{
+  "id": "nswt",
+  "normalizedName": "Nswt",
+  "family": "女書梧桐",
+  "familyEn": "Nyushu Firmia",
+  "fontFamily": "WF-Nswt",
+  "category": "handwriting",
+  "categoryZh": "手写体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Italic": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Nswt-Italic",
+      "charCount": 30034,
+      "glyphCount": 30314
+    },
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Nswt",
+      "charCount": 30034,
+      "glyphCount": 30348
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "myil",
+  "foundryName": "MYIL",
+  "designer": "MY1L",
+  "releaseYear": null,
+  "version": "1.0.3",
+  "copyright": "綿飴",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans",
+    "zh-Hant"
+  ],
+  "languagesZh": [
+    "简体中文",
+    "繁体中文"
+  ],
+  "tags": [
+    "硬笔手写"
+  ],
+  "keywords": [
+    "手写",
+    "人文",
+    "GitHub"
+  ],
+  "useCases": [
+    "标题设计",
+    "文创产品",
+    "社交媒体配图",
+    "个性化排版"
+  ],
+  "description": "Nyushu Firmia 是一款由设计师 MY1L 创作的手写风格中文字体，其设计灵感可能源于传统女书文化或梧桐意象。字体元信息显示其全名为女書梧桐，字形具有手写体的自然流畅特征，适用于需要展现人文气息、艺术感或个性化排版的场景。该字体由 MYIL 出品，设计师在 GitHub 上提供了相关信息。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Nswt"
+}
