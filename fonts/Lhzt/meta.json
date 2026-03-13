@@ -1,0 +1,71 @@
+{
+  "id": "lhzt",
+  "normalizedName": "Lhzt",
+  "family": "濑户字体",
+  "familyEn": "SetoFont",
+  "fontFamily": "WF-Lhzt",
+  "category": "handwriting",
+  "categoryZh": "手写体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Lhzt",
+      "charCount": 57020,
+      "glyphCount": 57620
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": null,
+  "foundryName": null,
+  "designer": "濑户 (Nozomi Seto)",
+  "releaseYear": null,
+  "version": "6.16.0",
+  "copyright": "Nozomi Seto",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans",
+    "zh-Hant",
+    "ja"
+  ],
+  "languagesZh": [
+    "简体中文",
+    "繁体中文",
+    "日文"
+  ],
+  "tags": [
+    "硬笔手写",
+    "卡通创意"
+  ],
+  "keywords": [
+    "可爱",
+    "手写",
+    "日系",
+    "免费",
+    "开源"
+  ],
+  "useCases": [
+    "社交媒体配图",
+    "海报设计",
+    "儿童相关设计",
+    "品牌标识",
+    "网页设计"
+  ],
+  "description": "濑户字体（SetoFont）是一款由日本业余字体设计师濑户（Nozomi Seto）以主妇身份创作的可爱风格手写字体。其设计风格自然随性，走好人缘天然呆的路线，西文部分也设计得十分可爱。该字体支持简体中文、繁体中文和日文，包含CJK常用汉字、平片假名、JIS第一至四级字符，共计数万个字形。需要注意的是，其简体中文字符集可能存在缺字情况。字体以SIL Open Font License 1.1授权发布，允许个人和企业免费商用、自由传播和修改。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Lhzt"
+}
