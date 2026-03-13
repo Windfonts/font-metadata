@@ -1,0 +1,70 @@
+{
+  "id": "sft",
+  "normalizedName": "Sft",
+  "family": "随峰体",
+  "familyEn": "The Peak Font",
+  "fontFamily": "WF-Sft",
+  "category": "handwriting",
+  "categoryZh": "手写体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Sft",
+      "charCount": 6218,
+      "glyphCount": 6219
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "cjkfonts",
+  "foundryName": "cjkFonts",
+  "designer": "阿坤",
+  "releaseYear": 2022,
+  "version": "0.1.0",
+  "copyright": "cjkFonts x 阿坤",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hant",
+    "zh-Hans",
+    "en"
+  ],
+  "languagesZh": [
+    "繁体中文",
+    "简体中文",
+    "英语"
+  ],
+  "tags": [
+    "硬笔手写"
+  ],
+  "keywords": [
+    "OFL",
+    "开源",
+    "手写",
+    "香港字体"
+  ],
+  "useCases": [
+    "海报设计",
+    "品牌标识",
+    "社交媒体配图",
+    "文创产品",
+    "书籍封面",
+    "个性化排版"
+  ],
+  "description": "随峰体是由香港设计师阿坤创作的一款手写字体。该字体经过两年时间，使用啫喱笔逐字书写而成，保留了原始的手写痕迹与瑕疵，风格自然亲切。字体由cjkFonts在2022年以开源形式发布，采用SIL Open Font License 1.1授权，允许个人及商业免费使用。此版本为Beta版，包含约6100个字符（含数字、英文及标点符号），繁体字支持较为完整，简体字部分存在缺失。字体适用于需要体现手写感、个性化、人文气息的设计场景，如海报、品牌标识、社交媒体内容及文创产品等。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Sft"
+}
