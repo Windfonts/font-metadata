@@ -1,0 +1,87 @@
+{
+  "id": "hclcks",
+  "normalizedName": "Hclcks",
+  "family": "寒蝉龙藏楷书",
+  "familyEn": "Chill LongCang KaiShu",
+  "fontFamily": "WF-Hclcks",
+  "category": "handwriting",
+  "categoryZh": "手写体",
+  "classifications": [],
+  "weights": [
+    400,
+    500,
+    700,
+    800
+  ],
+  "weightDetails": {
+    "Medium": {
+      "cssWeight": 500,
+      "fontFamily": "WF-Hclcks-Medium",
+      "charCount": 7042,
+      "glyphCount": 7113
+    },
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Hclcks",
+      "charCount": 7038,
+      "glyphCount": 7113
+    },
+    "Bold": {
+      "cssWeight": 700,
+      "fontFamily": "WF-Hclcks-Bold",
+      "charCount": 7038,
+      "glyphCount": 7113
+    },
+    "Extrabold": {
+      "cssWeight": 800,
+      "fontFamily": "WF-Hclcks-Extrabold",
+      "charCount": 7038,
+      "glyphCount": 7113
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "the-longcang-project-authors",
+  "foundryName": "The LongCang Project Authors",
+  "designer": null,
+  "releaseYear": 2018,
+  "version": "3.500.0",
+  "copyright": "Copyright 2018 The LongCang Project Authors (https://github.com/googlefonts/longcang)",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans",
+    "zh-Hant"
+  ],
+  "languagesZh": [
+    "简体中文",
+    "繁体中文"
+  ],
+  "tags": [
+    "楷体",
+    "毛笔书法"
+  ],
+  "keywords": [
+    "书法",
+    "开源",
+    "Google Fonts"
+  ],
+  "useCases": [
+    "品牌标识",
+    "海报标题",
+    "书籍封面",
+    "文化宣传物料"
+  ],
+  "description": "ChillLongCangKaiShu 是一款书法风格的中文字体，属于 LongCang Project 的一部分。该字体基于楷书设计，融合了毛笔书法的韵味，字形结构舒展、笔触富有变化，呈现出一种古典而富有艺术感的效果。其版权信息指向 Google Fonts 的 LongCang 项目仓库，表明其可能是一个开源项目。字体设计旨在提供一种适用于标题、海报、品牌标识等需要展现传统文化和艺术气息的场景的视觉解决方案。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Hclcks"
+}
