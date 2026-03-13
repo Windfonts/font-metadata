@@ -1,0 +1,66 @@
+{
+  "id": "hxbzst",
+  "normalizedName": "Hxbzst",
+  "family": "胡晓波真帅体",
+  "familyEn": "HuXiaoBo-ZhenShuai",
+  "fontFamily": "WF-Hxbzst",
+  "category": "handwriting",
+  "categoryZh": "手写体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Hxbzst",
+      "charCount": 7409,
+      "glyphCount": 7412
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "huxiaobo",
+  "foundryName": "HUXIAOBO",
+  "designer": "胡晓波",
+  "releaseYear": 2019,
+  "version": "2.0.0",
+  "copyright": "(c) Copyright HuXiaoBo 2019",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans"
+  ],
+  "languagesZh": [
+    "简体中文"
+  ],
+  "tags": [
+    "硬笔手写"
+  ],
+  "keywords": [
+    "手写",
+    "硬笔",
+    "现代",
+    "创意",
+    "免费"
+  ],
+  "useCases": [
+    "社交媒体设计",
+    "海报标题",
+    "品牌标识",
+    "文创产品",
+    "个人项目"
+  ],
+  "description": "胡晓波真帅体是由设计师胡晓波于2019年发布的一款硬笔手写风格的中文字体。该字体笔画流畅，结构自然，带有明显的手写痕迹和个性，旨在模拟日常书写的感觉。其名称真帅体现了设计师的自信与趣味。字体设计简洁，适用于需要展现亲切、活泼、个性化氛围的设计场景，如社交媒体配图、海报标题、品牌标识、文创产品等。根据公开信息，该字体为免费商用字体，用户可在商业项目中自由使用。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Hxbzst"
+}
