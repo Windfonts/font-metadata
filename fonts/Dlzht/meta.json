@@ -1,0 +1,69 @@
+{
+  "id": "dlzht",
+  "normalizedName": "Dlzht",
+  "family": "鼎猎珠海体",
+  "familyEn": "Dinglie Zhuhai Font",
+  "fontFamily": "WF-Dlzht",
+  "category": "sans-serif",
+  "categoryZh": "无衬线字体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Normal": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Dlzht",
+      "charCount": 7907,
+      "glyphCount": 7905
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "",
+  "foundryName": "鼎猎咨询",
+  "designer": "缪克明",
+  "releaseYear": 2024,
+  "version": "1.0.0",
+  "copyright": "AllrightsreservedbyMiaoKeming",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans"
+  ],
+  "languagesZh": [
+    "简体中文"
+  ],
+  "tags": [
+    "黑体"
+  ],
+  "keywords": [
+    "免费商用",
+    "原创字体",
+    "中文",
+    "黑体",
+    "GB2312"
+  ],
+  "useCases": [
+    "广告设计",
+    "海报设计",
+    "书籍排版",
+    "包装设计",
+    "宣传册设计",
+    "办公文档",
+    "网站设计",
+    "自媒体内容"
+  ],
+  "description": "鼎猎珠海体是由鼎猎咨询（鼎猎视界）出品的一款原创中文免费商用字体。该字体以简体中文汉字编码国家标准（GB2312）为基础设计，共包含7905个字符，其中汉字6916个。在标准6763个汉字之外，特别增加了153个常用粤语汉字，以更好地满足包含地方文化特色的设计需求。字体风格现代，字形清晰，适用于广告、海报、书籍排版、包装设计、宣传册、办公文档、网站及自媒体等多种商业和非商业场景。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Dlzht"
+}
