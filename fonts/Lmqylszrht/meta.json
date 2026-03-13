@@ -1,0 +1,65 @@
+{
+  "id": "lmqylszrht",
+  "normalizedName": "Lmqylszrht",
+  "family": "联盟企业一路帅正锐黑体",
+  "familyEn": "Alliance Enterprise One Road Leading Regular Black",
+  "fontFamily": "WF-Lmqylszrht",
+  "category": "sans-serif",
+  "categoryZh": "无衬线字体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Lmqylszrht",
+      "charCount": 6800,
+      "glyphCount": 6803
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": null,
+  "foundryName": null,
+  "designer": "卢帅",
+  "releaseYear": 2019,
+  "version": "1.0.0",
+  "copyright": "Copyright (c) 2019, lu shuai",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans",
+    "en"
+  ],
+  "languagesZh": [
+    "简体中文",
+    "英语"
+  ],
+  "tags": [
+    "黑体"
+  ],
+  "keywords": [
+    "企业",
+    "现代",
+    "锐利"
+  ],
+  "useCases": [
+    "企业品牌标识",
+    "宣传海报标题",
+    "网页UI设计",
+    "PPT演示文稿"
+  ],
+  "description": "联盟企业一路帅正锐黑体是一款由设计师卢帅于2019年发布的中文字体。其名称联盟企业一路帅暗示了该字体可能旨在传达一种团结协作、锐意进取的企业精神。字体风格属于现代黑体，线条平直、结构清晰，具有较好的可读性和现代感，适用于企业宣传、品牌标识、网页标题、UI界面等需要展现专业、稳重和力量感的场景。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Lmqylszrht"
+}
