@@ -1,0 +1,66 @@
+{
+  "id": "zkxwt",
+  "normalizedName": "Zkxwt",
+  "family": "小魏",
+  "familyEn": "Xiao Wei",
+  "fontFamily": "WF-Zkxwt",
+  "category": "handwriting",
+  "categoryZh": "手写体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Zkxwt",
+      "charCount": 7713,
+      "glyphCount": 7728
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "",
+  "foundryName": "上海佐兹品牌设计",
+  "designer": "David Vi",
+  "releaseYear": 2018,
+  "version": "1.0.0",
+  "copyright": "本字库所有权归上海佐兹品牌设计公司",
+  "license": {
+    "type": "联系授权",
+    "spdx": null,
+    "url": null,
+    "commercial": false,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans"
+  ],
+  "languagesZh": [
+    "简体中文"
+  ],
+  "tags": [
+    "硬笔手写"
+  ],
+  "keywords": [
+    "手写",
+    "自然",
+    "流畅",
+    "个性化"
+  ],
+  "useCases": [
+    "品牌标识",
+    "社交媒体设计",
+    "海报",
+    "书籍封面",
+    "贺卡",
+    "个人博客"
+  ],
+  "description": "小魏体（Xiaowei）是一款由上海佐兹品牌设计公司的设计师李大卫（David Vi）创作的手写字体。该字体于2018年1月31日首次发布。其设计灵感来源于设计师的日常手写笔迹，风格自然、流畅，带有一定的个人特色和亲和力。字形结构清晰，笔画粗细变化柔和，兼具一定的实用性和艺术感。这款字体适用于需要体现手写温度、个性化或轻松氛围的设计场景，如品牌标识、社交媒体图片、海报、书籍封面、贺卡、个人博客等。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Zkxwt"
+}
