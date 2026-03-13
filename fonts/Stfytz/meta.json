@@ -1,0 +1,64 @@
+{
+  "id": "stfytz",
+  "normalizedName": "Stfytz",
+  "family": "w",
+  "familyEn": "w",
+  "fontFamily": "WF-Stfytz",
+  "category": "sans-serif",
+  "categoryZh": "无衬线字体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Stfytz",
+      "charCount": 22060,
+      "glyphCount": 22021
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "scf",
+  "foundryName": "SCF",
+  "designer": null,
+  "releaseYear": 2008,
+  "version": "1.0.0",
+  "copyright": "(c) CopyrightSCF. 2008",
+  "license": {
+    "type": "付费授权",
+    "spdx": null,
+    "url": null,
+    "commercial": false,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans",
+    "zh-Hant",
+    "en"
+  ],
+  "languagesZh": [
+    "简体中文",
+    "繁体中文",
+    "英语"
+  ],
+  "tags": [
+    "黑体"
+  ],
+  "keywords": [
+    "现代",
+    "简洁"
+  ],
+  "useCases": [
+    "常规文本排版",
+    "基础文档"
+  ],
+  "description": "w 是一款由 SCF 于 2008 年发布的字体。其元信息显示版权归属于 SCF，版本为 1.00。字体名称简洁，推测为一种现代无衬线风格的黑体，适用于常规的文本排版。其授权类型需谨慎对待，建议联系版权方 SCF 获取明确的商业使用许可。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Stfytz"
+}
