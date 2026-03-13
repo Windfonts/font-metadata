@@ -1,0 +1,69 @@
+{
+  "id": "qtbfsxt",
+  "normalizedName": "Qtbfsxt",
+  "family": "千图笔锋手写体",
+  "familyEn": "Qiantu Bifeng Handwriting",
+  "fontFamily": "WF-Qtbfsxt",
+  "category": "handwriting",
+  "categoryZh": "手写体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Qtbfsxt",
+      "charCount": 6980,
+      "glyphCount": 6993
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "shanghai-pintu-network-technology-co-ltd",
+  "foundryName": "Shanghai PinTu Network Technology Co.,Ltd.",
+  "designer": "Shanghai PinTu Network Technology Co.,Ltd.",
+  "releaseYear": null,
+  "version": "1.0.0",
+  "copyright": "Copyright Shanghai PinTu Network Technology Co.,Ltd.",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans",
+    "zh-Hant",
+    "en"
+  ],
+  "languagesZh": [
+    "简体中文",
+    "繁体中文",
+    "英语"
+  ],
+  "tags": [
+    "硬笔手写"
+  ],
+  "keywords": [
+    "手写",
+    "硬笔",
+    "现代",
+    "创意"
+  ],
+  "useCases": [
+    "社交媒体设计",
+    "海报标题",
+    "品牌标识",
+    "短视频字幕",
+    "文创产品设计"
+  ],
+  "description": "千图笔锋手写体是一款由上海品图网络科技有限公司发布的硬笔手写风格中文字体。其字形模仿硬笔书写，笔锋清晰，风格自然流畅，兼具一定的规范性和手写感。该字体支持简体中文、繁体中文及拉丁字母，字符集包含3873个字符，适用于需要展现亲切、活泼或个性化氛围的设计场景，如社交媒体配图、海报标题、品牌标识、短视频字幕及文创产品设计等。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Qtbfsxt"
+}
