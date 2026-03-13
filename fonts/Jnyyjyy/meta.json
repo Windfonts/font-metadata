@@ -1,0 +1,65 @@
+{
+  "id": "jnyyjyy",
+  "normalizedName": "Jnyyjyy",
+  "family": "今年也要加油鸭",
+  "familyEn": "This Year Also Cheer Up Duck",
+  "fontFamily": "WF-Jnyyjyy",
+  "category": "handwriting",
+  "categoryZh": "手写体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Jnyyjyy",
+      "charCount": 7180,
+      "glyphCount": 7188
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": null,
+  "foundryName": null,
+  "designer": null,
+  "releaseYear": null,
+  "version": "1.0.0",
+  "copyright": null,
+  "license": {
+    "type": null,
+    "spdx": null,
+    "url": null,
+    "commercial": false,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans"
+  ],
+  "languagesZh": [
+    "简体中文"
+  ],
+  "tags": [
+    "硬笔手写",
+    "卡通创意"
+  ],
+  "keywords": [
+    "可爱",
+    "手写",
+    "网络流行",
+    "趣味"
+  ],
+  "useCases": [
+    "社交媒体图片",
+    "贺卡设计",
+    "文创产品标签",
+    "儿童内容标题"
+  ],
+  "description": "今年也要加油鸭是一款风格活泼、充满趣味性的中文手写字体。其名称和字形设计都带有网络流行语和卡通化的特征，笔画圆润，结构轻松，整体呈现出可爱、鼓励的视觉氛围。这款字体适用于需要传达亲切、活泼、年轻化情绪的设计场景，如社交媒体配图、贺卡、文创产品、儿童相关内容的标题等。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Jnyyjyy"
+}
