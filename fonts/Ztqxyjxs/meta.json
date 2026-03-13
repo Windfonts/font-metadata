@@ -1,0 +1,63 @@
+{
+  "id": "ztqxyjxs",
+  "normalizedName": "Ztqxyjxs",
+  "family": "字体圈-信谊吉祥宋",
+  "familyEn": "Fontquan XinYiJiXiangSong",
+  "fontFamily": "WF-Ztqxyjxs",
+  "category": "serif",
+  "categoryZh": "衬线",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Ztqxyjxs",
+      "charCount": 7237,
+      "glyphCount": 7238
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "zojitype",
+  "foundryName": "____Zojitype",
+  "designer": "微信公众号:字体圈",
+  "releaseYear": 2020,
+  "version": "1.0.0",
+  "copyright": "Copyright  2020 by Zoulewei. All rights reserved.",
+  "license": {
+    "type": "联系授权",
+    "spdx": null,
+    "url": null,
+    "commercial": false,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans",
+    "zh-Hant",
+    "en"
+  ],
+  "languagesZh": [
+    "简体中文",
+    "繁体中文",
+    "英语"
+  ],
+  "tags": [
+    "宋体"
+  ],
+  "keywords": [],
+  "useCases": [
+    "印刷品排版",
+    "书籍正文",
+    "品牌文化宣传",
+    "正式文档"
+  ],
+  "description": "Fontquan-XinYiJiXiangSong 是一款由微信公众号字体圈设计、____Zojitype 厂商发布的宋体字体。其名称信谊吉祥宋暗示了其设计可能融合了传统宋体的结构与吉祥、喜庆的视觉元素，适用于需要体现文化感与正式感的场景。字体版权归属于 Zoulewei，发布于2020年。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Ztqxyjxs"
+}
