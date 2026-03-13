@@ -1,0 +1,117 @@
+{
+  "id": "systcn",
+  "normalizedName": "Systcn",
+  "family": "思源宋体 CN",
+  "familyEn": "Source Han Serif CN",
+  "fontFamily": "WF-Systcn",
+  "category": "serif",
+  "categoryZh": "衬线",
+  "classifications": [],
+  "weights": [
+    200,
+    300,
+    400,
+    500,
+    600,
+    700,
+    900
+  ],
+  "weightDetails": {
+    "Heavy": {
+      "cssWeight": 900,
+      "fontFamily": "WF-Systcn-Heavy",
+      "charCount": 30847,
+      "glyphCount": 30995
+    },
+    "Light": {
+      "cssWeight": 300,
+      "fontFamily": "WF-Systcn-Light",
+      "charCount": 30847,
+      "glyphCount": 30995
+    },
+    "Bold": {
+      "cssWeight": 700,
+      "fontFamily": "WF-Systcn-Bold",
+      "charCount": 30847,
+      "glyphCount": 30995
+    },
+    "Extralight": {
+      "cssWeight": 200,
+      "fontFamily": "WF-Systcn-Extralight",
+      "charCount": 30847,
+      "glyphCount": 30995
+    },
+    "Semibold": {
+      "cssWeight": 600,
+      "fontFamily": "WF-Systcn-Semibold",
+      "charCount": 30847,
+      "glyphCount": 30995
+    },
+    "Medium": {
+      "cssWeight": 500,
+      "fontFamily": "WF-Systcn-Medium",
+      "charCount": 30847,
+      "glyphCount": 30995
+    },
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Systcn",
+      "charCount": 30847,
+      "glyphCount": 30995
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "adobe-systems-incorporated",
+  "foundryName": "Adobe Systems Incorporated",
+  "designer": "Ryoko NISHIZUKA 西塚涼子 (kana & ideographs); Frank Griehammer (Latin, Greek & Cyrillic); Wenlong ZHANG 张文龙 (bopomofo); Sandoll Communications , Soohyun PARK , Yejin WE  & Donghoon HAN  (hangul elements, letters & syllables)",
+  "releaseYear": 2017,
+  "version": "1.0.0",
+  "copyright": "Copyright  2017 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name 'Source'.",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans",
+    "zh-Hant",
+    "en",
+    "ja",
+    "ko"
+  ],
+  "languagesZh": [
+    "简体中文",
+    "繁体中文",
+    "英语",
+    "日文",
+    "韩文"
+  ],
+  "tags": [
+    "宋体"
+  ],
+  "keywords": [
+    "开源字体",
+    "Adobe",
+    "Google",
+    "CJK字体",
+    "多语言支持"
+  ],
+  "useCases": [
+    "网页设计与开发",
+    "品牌标识与包装",
+    "书籍与杂志印刷排版",
+    "移动应用用户界面",
+    "办公文档与演示文稿",
+    "广告与海报设计"
+  ],
+  "description": "Source Han Serif CN（思源宋体 CN）是Adobe与Google联合开发的开源泛中日韩（CJK）衬线字体家族。该字体由多位设计师合作完成，其中西塚涼子负责假名与表意文字，Frank Griehammer负责拉丁、希腊与西里尔字母，张文龙负责注音符号，Sandoll Communications等设计师负责韩文元素。项目架构由Ken Lunde博士负责，服部正貴负责生产与表意文字元素。该字体提供从ExtraLight到Heavy共七种字重，设计灵感融合了传统书法与现代排版需求，确保了跨平台（Windows、macOS、Linux）的完美兼容性与专业级显示效果，适用于网页设计、品牌包装、印刷出版、移动应用界面等多种场景。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Systcn"
+}
