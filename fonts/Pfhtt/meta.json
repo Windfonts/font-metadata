@@ -1,0 +1,73 @@
+{
+  "id": "pfhtt",
+  "normalizedName": "Pfhtt",
+  "family": "PF频凡胡涂体",
+  "familyEn": "PFanHuTuTi",
+  "fontFamily": "WF-Pfhtt",
+  "category": "handwriting",
+  "categoryZh": "手写体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Pfhtt",
+      "charCount": 4334,
+      "glyphCount": 4901
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "do-font-cpbyes",
+  "foundryName": "Do-Font & Cpbyes",
+  "designer": "Do-Font & Cpbyes",
+  "releaseYear": 2022,
+  "version": "0.357.0",
+  "copyright": "Copyright 2022 CPBYES (C) 2015 Do-Font",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans",
+    "zh-Hant",
+    "en",
+    "ja"
+  ],
+  "languagesZh": [
+    "简体中文",
+    "繁体中文",
+    "英语",
+    "日文"
+  ],
+  "tags": [
+    "硬笔手写",
+    "卡通创意"
+  ],
+  "keywords": [
+    "涂鸦",
+    "粉笔",
+    "手写",
+    "创意",
+    "文艺"
+  ],
+  "useCases": [
+    "动漫标题",
+    "海报设计",
+    "诗歌短文排版",
+    "社交媒体图片",
+    "品牌个性化宣传"
+  ],
+  "description": "PF频凡胡涂体是一款基于日文粉笔风格手写字体补充和扩展而来的中文字体，旨在弥补中文免费粉笔风格字体的空白。其视觉风格模仿油漆或蜡笔在不平整表面涂抹留下的斑驳厚重墨迹，具有粗糙中流露温柔、带有岁月感但不显沧桑的手写文艺气质。字体最初源于作者为儿子制作生日画面标题时的发现，因喜爱其风格而启动增补计划，逐步扩充字符集以支持简体中文常用字及部分繁体字。字体设计上平衡了原字随性浪漫的笔迹感与文本阅读的实用性，统一了字符宽高并调整了字形以更贴合简体中文规范。该字体授权为免费商用，适用于动漫标题、诗歌短文、海报设计等需要展现个性与文艺感的场景。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Pfhtt"
+}
