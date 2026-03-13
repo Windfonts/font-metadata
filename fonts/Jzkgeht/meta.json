@@ -1,0 +1,71 @@
+{
+  "id": "jzkgeht",
+  "normalizedName": "Jzkgeht",
+  "family": "瀞之库格尔黑体",
+  "familyEn": "Torono Kugel Sans",
+  "fontFamily": "WF-Jzkgeht",
+  "category": "sans-serif",
+  "categoryZh": "无衬线字体",
+  "classifications": [],
+  "weights": [
+    900
+  ],
+  "weightDetails": {
+    "Heavy": {
+      "cssWeight": 900,
+      "fontFamily": "WF-Jzkgeht-Heavy",
+      "charCount": 16732,
+      "glyphCount": 16733
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "raptortype",
+  "foundryName": "RAPTORTYPE",
+  "designer": "鴒(Amazusa Rei, amazusa0@gmail.com)",
+  "releaseYear": 2022,
+  "version": "1.0.0",
+  "copyright": "2022 RAPTORTYPE",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans",
+    "zh-Hant",
+    "en",
+    "ja"
+  ],
+  "languagesZh": [
+    "简体中文",
+    "繁体中文",
+    "英语",
+    "日文"
+  ],
+  "tags": [
+    "黑体"
+  ],
+  "keywords": [
+    "魔改字体",
+    "OFL",
+    "日系",
+    "开源字体"
+  ],
+  "useCases": [
+    "创意标题设计",
+    "社交媒体图片",
+    "商业海报与广告",
+    "免费商用设计项目",
+    "UI/UX 中的特色文字"
+  ],
+  "description": "Torono Kugel Sans 是一款由设计师鴒（Amazusa Rei）基于 Adobe 思源黑体（Source Han Sans）修改而成的无衬线字体。其核心设计特点是将字形处理为左扁右宽的独特风格，为传统黑体带来了新颖的视觉变化。该字体由 RAPTORTYPE 出品，于 2022 年 10 月 29 日发布首个版本。它遵循 SIL Open Font License 1.1 开源协议，允许个人和企业免费商用，并可自由传播、修改和再分发。字体支持简体中文、繁体中文、日文和英文等多种语言，适用于需要独特标题、创意设计、社交媒体视觉内容以及需要免费商用字体的各类商业和艺术项目。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Jzkgeht"
+}
