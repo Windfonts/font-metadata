@@ -1,0 +1,80 @@
+{
+  "id": "hcdht",
+  "normalizedName": "Hcdht",
+  "family": "寒蝉端黑体 特细体",
+  "familyEn": "ChillDuanSans ExtraLight",
+  "fontFamily": "WF-Hcdht",
+  "category": "sans-serif",
+  "categoryZh": "无衬线字体",
+  "classifications": [],
+  "weights": [
+    300,
+    900
+  ],
+  "weightDetails": {
+    "Light": {
+      "cssWeight": 300,
+      "fontFamily": "WF-Hcdht-Light",
+      "charCount": 30892,
+      "glyphCount": 31037
+    },
+    "Black": {
+      "cssWeight": 900,
+      "fontFamily": "WF-Hcdht-Black",
+      "charCount": 30892,
+      "glyphCount": 31037
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "chilltype-adobe",
+  "foundryName": "ChillType&Adobe",
+  "designer": "ChillDuanSans {Warren2060};  Source Han Sans {Ryoko NISHIZUKA 西塚涼子 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications , Soo-young JANG  & Joo-yeon KANG  (hangul elements, letters & syllables)}",
+  "releaseYear": 2023,
+  "version": "1.100",
+  "copyright": "2023 ChillType, with Reserved Font Name 'Duan'.  2014-2021 Adobe (http://www.adobe.com/), with Reserved Font Name 'Source'.",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans",
+    "zh-Hant",
+    "en",
+    "ja",
+    "ko"
+  ],
+  "languagesZh": [
+    "简体中文",
+    "繁体中文",
+    "英语",
+    "日文",
+    "韩文"
+  ],
+  "tags": [
+    "黑体"
+  ],
+  "keywords": [
+    "开源",
+    "免费商用",
+    "思源黑体衍生",
+    "多语言支持"
+  ],
+  "useCases": [
+    "网页设计",
+    "UI/UX界面",
+    "印刷出版",
+    "品牌标识",
+    "数字媒体内容"
+  ],
+  "description": "寒蝉端黑体是一款由ChillType（寒蝉字型）设计，基于Adobe思源黑体（Source Han Sans）进行改造和扩展的开源中文字体。该字体家族包含多种字重和宽度变体，支持简体中文、繁体中文、日文、韩文以及拉丁字母、希腊字母、西里尔字母等多种文字。其设计融合了现代黑体的简洁风格，旨在提供良好的屏幕可读性和印刷适用性。该字体采用SIL Open Font License授权，允许个人和商业免费使用。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Hcdht"
+}
