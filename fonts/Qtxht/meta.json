@@ -1,0 +1,63 @@
+{
+  "id": "qtxht",
+  "normalizedName": "Qtxht",
+  "family": "千图学画体",
+  "familyEn": "qiantuxuehuati",
+  "fontFamily": "WF-Qtxht",
+  "category": "sans-serif",
+  "categoryZh": "无衬线字体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Qtxht",
+      "charCount": 10476,
+      "glyphCount": 10490
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "shanghai-pintu-network-technology-co-ltd",
+  "foundryName": "Shanghai PinTu Network Technology Co.,Ltd.",
+  "designer": "Shanghai PinTu Network Technology Co.,Ltd.",
+  "releaseYear": null,
+  "version": "1.0.0",
+  "copyright": "Copyright Shanghai PinTu Network Technology Co.,Ltd.",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans"
+  ],
+  "languagesZh": [
+    "简体中文"
+  ],
+  "tags": [
+    "黑体"
+  ],
+  "keywords": [
+    "免费商用",
+    "黑体",
+    "现代"
+  ],
+  "useCases": [
+    "海报设计",
+    "UI界面",
+    "新媒体配图",
+    "印刷品"
+  ],
+  "description": "qiantuxuehuati 是一款由上海品图网络科技有限公司发布的免费商用字体。该字体属于黑体风格，字形结构清晰，适用于多种设计场景。其设计旨在提供一种现代、易读的视觉体验，适合用于标题、正文、UI界面、海报及新媒体内容制作。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Qtxht"
+}
