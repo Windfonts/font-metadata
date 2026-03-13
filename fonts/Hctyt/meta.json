@@ -1,0 +1,72 @@
+{
+  "id": "hctyt",
+  "normalizedName": "Hctyt",
+  "family": "寒蝉团圆体 Sans",
+  "familyEn": "Chill Reunion Sans",
+  "fontFamily": "WF-Hctyt",
+  "category": "sans-serif",
+  "categoryZh": "无衬线字体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Normal": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Hctyt",
+      "charCount": 7869,
+      "glyphCount": 7934
+    },
+    "Round": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Hctyt-Round",
+      "charCount": 7869,
+      "glyphCount": 7934
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "chilltype",
+  "foundryName": "ChillType",
+  "designer": "寒蝉字型",
+  "releaseYear": 2023,
+  "version": "2.700.0",
+  "copyright": "Copyright  2023 ChillType. All rights reserved.",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans"
+  ],
+  "languagesZh": [
+    "简体中文"
+  ],
+  "tags": [
+    "黑体",
+    "其他"
+  ],
+  "keywords": [
+    "开源",
+    "圆体",
+    "现代",
+    "友好"
+  ],
+  "useCases": [
+    "屏幕显示",
+    "社交媒体设计",
+    "品牌标识",
+    "UI/UX界面",
+    "宣传物料"
+  ],
+  "description": "寒蝉团圆体 Sans 是一款由寒蝉字型（ChillType）设计并发布的开源中文字体。其设计风格融合了黑体（无衬线体）的现代感与圆润的笔画处理，旨在提供温暖、亲切且易于阅读的视觉体验。字体名称中的团圆体现了其设计目标营造一种团聚、和谐的观感。该字体支持简体中文，并包含完整的拉丁字符集，适用于屏幕显示、社交媒体、品牌标识、UI界面以及需要营造友好氛围的各类设计场景。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Hctyt"
+}
