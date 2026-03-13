@@ -1,0 +1,69 @@
+{
+  "id": "ddxstyx",
+  "normalizedName": "Ddxstyx",
+  "family": "点点像素宋体圆",
+  "familyEn": "Dotted Songti Circle Regular",
+  "fontFamily": "WF-Ddxstyx",
+  "category": "sans-serif",
+  "categoryZh": "无衬线字体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Ddxstyx",
+      "charCount": 22791,
+      "glyphCount": 22792
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": null,
+  "foundryName": null,
+  "designer": "wixette",
+  "releaseYear": 2020,
+  "version": "0.1.0",
+  "copyright": "Copyright (C) 2020 wixette",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans",
+    "zh-Hant"
+  ],
+  "languagesZh": [
+    "简体中文",
+    "繁体中文"
+  ],
+  "tags": [
+    "宋体",
+    "卡通创意"
+  ],
+  "keywords": [
+    "像素艺术",
+    "开源",
+    "点阵",
+    "复古",
+    "GBK"
+  ],
+  "useCases": [
+    "游戏界面设计",
+    "复古风格海报",
+    "艺术创作",
+    "社交媒体配图",
+    "创意平面设计"
+  ],
+  "description": "Dotted Songti Circle 是一款基于 GPL 2.0 协议免费开源的中文像素艺术字体。该字体由设计师 wixette 于2020年发布，其设计灵感源于复古像素风格，旨在为设计作品增添独特的艺术感。字体基于著名的开源字体项目文泉驿点阵宋体衍生而来，通过自动化工具将点阵像素进行矢量化、变形和美化，形成了带有圆形修饰的像素风格。该字体家族支持超过22000个Unicode字形，全面覆盖GBK字符集中的简繁体汉字，确保了良好的字符覆盖范围。其设计特点在于将传统的点阵宋体转化为更具现代感和装饰性的像素艺术字体，适用于游戏界面、复古海报、艺术创作、社交媒体图像等需要怀旧或创意像素风格的设计场景。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Ddxstyx"
+}
