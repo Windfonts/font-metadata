@@ -1,0 +1,96 @@
+{
+  "id": "albbpht",
+  "normalizedName": "Albbpht",
+  "family": "阿里巴巴普惠体",
+  "familyEn": "Alibaba PuHuiTi",
+  "fontFamily": "WF-Albbpht",
+  "category": "sans-serif",
+  "categoryZh": "无衬线字体",
+  "classifications": [],
+  "weights": [
+    300,
+    400,
+    500,
+    900
+  ],
+  "weightDetails": {
+    "Heavy": {
+      "cssWeight": 900,
+      "fontFamily": "WF-Albbpht-Heavy",
+      "charCount": 8167,
+      "glyphCount": 8217
+    },
+    "Light": {
+      "cssWeight": 300,
+      "fontFamily": "WF-Albbpht-Light",
+      "charCount": 28937,
+      "glyphCount": 28987
+    },
+    "Medium": {
+      "cssWeight": 500,
+      "fontFamily": "WF-Albbpht-Medium",
+      "charCount": 28937,
+      "glyphCount": 28987
+    },
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Albbpht",
+      "charCount": 28937,
+      "glyphCount": 28987
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "alibaba-design-hanyi-fonts",
+  "foundryName": "Alibaba Design;Hanyi Fonts",
+  "designer": null,
+  "releaseYear": 2019,
+  "version": "1.0.0",
+  "copyright": "Copyright ?2019 Alibaba (China) Co., Ltd. All rights reserved.",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans",
+    "zh-Hant",
+    "en",
+    "ja",
+    "ko"
+  ],
+  "languagesZh": [
+    "简体中文",
+    "繁体中文",
+    "英语",
+    "日文",
+    "韩文"
+  ],
+  "tags": [
+    "黑体"
+  ],
+  "keywords": [
+    "免费商用",
+    "阿里巴巴",
+    "现代",
+    "屏幕优化",
+    "电商字体"
+  ],
+  "useCases": [
+    "电商平台店铺装修",
+    "商品详情页设计",
+    "品牌宣传与广告物料",
+    "UI/UX界面设计",
+    "PPT演示文稿",
+    "社交媒体内容制作"
+  ],
+  "description": "阿里巴巴普惠体是由阿里巴巴集团设计并于2019年正式发布的一款免费商用中文字体。其设计旨在为中小商家、设计师及个人用户提供一套合法、优质且免费的中文字体解决方案，降低字体版权使用门槛，推动设计普惠。字体风格简洁现代，线条干净利落，笔画结构清晰，兼具科技感与人文气息。字形略扁，中宫开阔，提升了小字号下的可读性，尤其适合手机屏幕等数字化场景显示。该字体家族包含多个字重，支持简体中文、繁体中文、日文、韩文及拉丁字母等多语种，覆盖广泛的全球市场设计需求。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Albbpht"
+}
