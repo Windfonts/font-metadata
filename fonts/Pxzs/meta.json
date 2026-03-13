@@ -1,0 +1,71 @@
+{
+  "id": "pxzs",
+  "normalizedName": "Pxzs",
+  "family": "屏显臻宋",
+  "familyEn": "Clear Han Serif",
+  "fontFamily": "WF-Pxzs",
+  "category": "serif",
+  "categoryZh": "衬线",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Pxzs",
+      "charCount": 30847,
+      "glyphCount": 30938
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": null,
+  "foundryName": null,
+  "designer": "chncwk",
+  "releaseYear": 2022,
+  "version": "1.0.7",
+  "copyright": "chncwk",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans",
+    "zh-Hant",
+    "en",
+    "ja",
+    "ko"
+  ],
+  "languagesZh": [
+    "简体中文",
+    "繁体中文",
+    "英语",
+    "日文",
+    "韩文"
+  ],
+  "tags": [
+    "宋体"
+  ],
+  "keywords": [
+    "开源",
+    "屏幕优化",
+    "CJK"
+  ],
+  "useCases": [
+    "网页设计",
+    "电子阅读",
+    "用户界面",
+    "数字出版"
+  ],
+  "description": "Clear Han Serif 是一款基于开源字体思源宋体（Source Han Serif）进行优化和调整的字体，旨在提升屏幕显示效果。其元信息显示版权归属 chncwk，版本为 1.07，发布于2022年2月2日。该字体继承了思源宋体对简体中文、繁体中文、日文和韩文等东亚文字以及拉丁字母的广泛支持，并提供多种字重。作为一款衍生字体，它遵循了思源宋体的 SIL Open Font License 开源协议，允许免费商用。字体设计风格为现代宋体，兼具传统印刷美感与屏幕显示清晰度，适用于网页设计、电子文档、用户界面以及需要高质量中文排版的各种数字媒体场景。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Pxzs"
+}
