@@ -1,0 +1,65 @@
+{
+  "id": "hxbsbt",
+  "normalizedName": "Hxbsbt",
+  "family": "胡晓波骚包体",
+  "familyEn": "HuXiaoBao-SaoBao",
+  "fontFamily": "WF-Hxbsbt",
+  "category": "handwriting",
+  "categoryZh": "手写体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Hxbsbt",
+      "charCount": 7414,
+      "glyphCount": 7465
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "",
+  "foundryName": "胡晓波工作室",
+  "designer": "胡晓波",
+  "releaseYear": 2019,
+  "version": "2.0.0",
+  "copyright": "(c) Copyright HuXiaoBo 2019",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans"
+  ],
+  "languagesZh": [
+    "简体中文"
+  ],
+  "tags": [
+    "硬笔手写",
+    "卡通创意"
+  ],
+  "keywords": [
+    "可爱",
+    "圆润",
+    "免费字体"
+  ],
+  "useCases": [
+    "母婴产品设计",
+    "儿童教育材料",
+    "卡通风格海报",
+    "电商促销标题",
+    "品牌可爱标识"
+  ],
+  "description": "胡晓波骚包体是一款由设计师胡晓波发布的免费商用中文字体。其字形设计圆润饱满，风格趣萌可爱，整体视觉效果讨喜。该字体特别适用于母婴、儿童主题，或任何偏向可爱风格的设计场景，如海报标题、电商页面、品牌标识等。字体于2019年发布，版权归胡晓波所有，允许个人和企业免费商用。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Hxbsbt"
+}
