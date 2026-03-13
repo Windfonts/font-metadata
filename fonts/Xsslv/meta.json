@@ -1,0 +1,68 @@
+{
+  "id": "xsslv",
+  "normalizedName": "Xsslv",
+  "family": "Silver",
+  "familyEn": "Silver",
+  "fontFamily": "WF-Xsslv",
+  "category": "sans-serif",
+  "categoryZh": "无衬线字体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Xsslv",
+      "charCount": 13709,
+      "glyphCount": 13711
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "poppy-works",
+  "foundryName": "Poppy Works",
+  "designer": "Itou Hiro, Yoon Design, Wolfgang Wozniak",
+  "releaseYear": 2019,
+  "version": "1.0.0",
+  "copyright": "2019 Poppy Works",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans",
+    "zh-Hant",
+    "en"
+  ],
+  "languagesZh": [
+    "简体中文",
+    "繁体中文",
+    "英语"
+  ],
+  "tags": [
+    "其他"
+  ],
+  "keywords": [
+    "像素风",
+    "游戏字体",
+    "创意字体"
+  ],
+  "useCases": [
+    "游戏界面",
+    "像素艺术",
+    "应用程序UI",
+    "创意设计",
+    "商业宣传物料"
+  ],
+  "description": "Silver 是一款由 Poppy Works 发布的像素风格字体，主要设计用于游戏项目。该字体内置了与 TRC 和 Lotcheck 兼容的游戏手柄按钮图标，以及完整的键盘和鼠标提示符号。其字形重心下移，笔画经过简化处理，呈现独特的像素连接效果，整体风格可爱、卡通感强。与其他像素字体相比，其字形尺寸相对较小。字体支持简体中文、繁体中文和英文，并采用知识共享署名相同方式共享 4.0 国际协议授权，允许个人和企业免费商用。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Xsslv"
+}
