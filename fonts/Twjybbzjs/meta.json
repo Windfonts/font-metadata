@@ -1,0 +1,65 @@
+{
+  "id": "twjybbzjs",
+  "normalizedName": "Twjybbzjs",
+  "family": "教育部標準楷書",
+  "familyEn": "Taiwan MOE Standard Kai",
+  "fontFamily": "WF-Twjybbzjs",
+  "category": "handwriting",
+  "categoryZh": "手写体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Twjybbzjs",
+      "charCount": 13840,
+      "glyphCount": 14054
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "",
+  "foundryName": "中华民国教育部",
+  "designer": null,
+  "releaseYear": 2019,
+  "version": "3.0.0",
+  "copyright": "(c) This license allows for redistribution, commercial and non-commercial, as long as it is passed along unchanged and in whole, with credit to MOE.",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hant"
+  ],
+  "languagesZh": [
+    "繁体中文"
+  ],
+  "tags": [
+    "楷体"
+  ],
+  "keywords": [
+    "繁体",
+    "标准",
+    "古典",
+    "中国风",
+    "官方"
+  ],
+  "useCases": [
+    "教育出版物",
+    "文化宣传材料",
+    "传统风格设计",
+    "需要繁体中文支持的商业设计"
+  ],
+  "description": "教育部標準楷書是由台湾地区教育主管部门（中华民国教育部）官方推出的一款标准楷书字体。该字体字形设计采用扁方结构，左右分展，化圆为方、化弧为直，整体端正秀美，具有古典中国风。其设计旨在提供实用性与文化传承价值，对繁体中文支持良好，但简体字存在缺字现象。该字体遵循台湾地区的国字标准字体规范，部分字形与传统楷书存在差异。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Twjybbzjs"
+}
