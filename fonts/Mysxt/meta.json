@@ -1,0 +1,64 @@
+{
+  "id": "mysxt",
+  "normalizedName": "Mysxt",
+  "family": "沐瑶软笔手写体",
+  "familyEn": "Muyao Softbrush Handwriting",
+  "fontFamily": "WF-Mysxt",
+  "category": "handwriting",
+  "categoryZh": "手写体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Mysxt",
+      "charCount": 6890,
+      "glyphCount": 6891
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "flexifont-co-ltd",
+  "foundryName": "FlexiFont Co.,Ltd.",
+  "designer": "春颜秋色",
+  "releaseYear": 2019,
+  "version": "2.20.0",
+  "copyright": "Copyright(c) FlexiFont Co.,Ltd.2016",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans"
+  ],
+  "languagesZh": [
+    "简体中文"
+  ],
+  "tags": [
+    "毛笔书法"
+  ],
+  "keywords": [
+    "公益字体",
+    "圆体",
+    "可爱"
+  ],
+  "useCases": [
+    "儿童书籍与包装设计",
+    "网页与海报标题",
+    "休闲插画与漫画",
+    "社交媒体图片",
+    "手账与个人创作"
+  ],
+  "description": "沐瑶软笔手写体是由设计师春颜秋色（网名）创作的一款免费可商用中文字体。该字体以软头毛笔书写，风格圆润可爱，笔画粗细不均，带有明显的手写痕迹。设计师以其女儿的名字沐瑶命名此字体，作为送给女儿的周岁生日礼物。字体基于GB2312标准，包含6763个汉字及常用符号。其设计初衷是为了填补休闲可爱风格中文字体的市场空白，适用于儿童设计、网页海报、休闲插画及个人创作等场景。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Mysxt"
+}
