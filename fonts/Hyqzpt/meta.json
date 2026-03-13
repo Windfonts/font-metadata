@@ -1,0 +1,65 @@
+{
+  "id": "hyqzpt",
+  "normalizedName": "Hyqzpt",
+  "family": "江西拙楷体",
+  "familyEn": "Jiangxi Zhuokai",
+  "fontFamily": "WF-Hyqzpt",
+  "category": "handwriting",
+  "categoryZh": "手写体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Hyqzpt",
+      "charCount": 8099,
+      "glyphCount": 8106
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": null,
+  "foundryName": null,
+  "designer": "黄煜臣",
+  "releaseYear": 2018,
+  "version": "1.0.0",
+  "copyright": "copyrighy By huangyinqi 2012,http://www.huangyinqi.com",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans"
+  ],
+  "languagesZh": [
+    "简体中文"
+  ],
+  "tags": [
+    "硬笔手写",
+    "楷体"
+  ],
+  "keywords": [
+    "国风",
+    "手写",
+    "斑驳肌理",
+    "江西"
+  ],
+  "useCases": [
+    "包装设计",
+    "海报设计",
+    "Banner设计",
+    "传统主题设计"
+  ],
+  "description": "江西拙楷体是由个人字体设计师黄煜臣发布的一款手写楷体字体。该字体旨在为江西做宣传，其设计特点是每个字都带有自然的斑驳肌理，笔画保留了手写的痕迹，字形不完全规范，从而营造出一种自然、拙朴的视觉感受。字体从手稿到成品历时近半年，经过精细调节。它适用于传统国风主题的包装设计、海报设计、Banner等场景，既可用于标题，也可作为正文字体。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Hyqzpt"
+}
