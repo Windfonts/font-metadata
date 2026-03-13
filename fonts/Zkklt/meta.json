@@ -1,0 +1,62 @@
+{
+  "id": "zkklt",
+  "normalizedName": "Zkklt",
+  "family": "站酷快乐体",
+  "familyEn": "HappyZcool-2016",
+  "fontFamily": "WF-Zkklt",
+  "category": "sans-serif",
+  "categoryZh": "无衬线字体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Zkklt",
+      "charCount": 7809,
+      "glyphCount": 7881
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": null,
+  "foundryName": null,
+  "designer": "LuiBingKe",
+  "releaseYear": 2016,
+  "version": "3.12.0",
+  "copyright": "(c) Copyright LuiBingKe 2016",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans"
+  ],
+  "languagesZh": [
+    "简体中文"
+  ],
+  "tags": [
+    "卡通创意"
+  ],
+  "keywords": [
+    "站酷字体",
+    "可爱",
+    "活泼"
+  ],
+  "useCases": [
+    "网页标题",
+    "促销主题设计",
+    "产品包装"
+  ],
+  "description": "站酷快乐体是一款由设计师刘兵克（LuiBingKe）及其学员和工作室团队制作的免费商用字体。该字体于2016年发布修订版，其设计风格可爱有趣、活泼俏皮，笔画结构和粗细处理灵活，营造出轻松简单的视觉效果。字体采用GB2312编码，收录了6763个汉字，适合用于欢乐主题的设计场景，如网页标题、促销活动和产品包装等。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Zkklt"
+}
