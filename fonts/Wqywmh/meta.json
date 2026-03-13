@@ -1,0 +1,78 @@
+{
+  "id": "wqywmh",
+  "normalizedName": "Wqywmh",
+  "family": "文泉驿微米黑",
+  "familyEn": "WenQuanYi Micro Hei",
+  "fontFamily": "WF-Wqywmh",
+  "category": "sans-serif",
+  "categoryZh": "无衬线字体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Wqywmh",
+      "charCount": 34600,
+      "glyphCount": 49531
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "ascender-corporation",
+  "foundryName": "Ascender Corporation",
+  "designer": "Qianqian Fang",
+  "releaseYear": 2008,
+  "version": "0.2.0-beta",
+  "copyright": "Digitized data copyright ?2007, Google Corporation. Copyright ?2008-2009 WenQuanYi Board of Trustees (http://wenq.org/) and Qianqian Fang",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans",
+    "zh-Hant",
+    "en",
+    "ja",
+    "ko"
+  ],
+  "languagesZh": [
+    "简体中文",
+    "繁体中文",
+    "英语",
+    "日文",
+    "韩文"
+  ],
+  "tags": [
+    "黑体"
+  ],
+  "keywords": [
+    "开源",
+    "轻量",
+    "多语言",
+    "界面字体",
+    "嵌入式"
+  ],
+  "useCases": [
+    "用户界面设计",
+    "电子文档",
+    "广告设计",
+    "平面杂志",
+    "书籍出版",
+    "包装印刷",
+    "网页开发",
+    "应用软件开发",
+    "嵌入式设备"
+  ],
+  "description": "文泉驿微米黑是一款开源的无衬线黑体字体，由方千千等人设计，并由Ascender Corporation进行数字化。该字体基于Google Droid Sans字体衍生而来，专为用户界面和电子通信设计。其特点是笔画棱角分明，风格严谨端正，文件体积小巧（约5MB），但包含了超过20932个汉字，完整覆盖GB2312、Big5及GBK标准字符集，并支持拉丁字母、日文、韩文等数十种语言符号。字体内置了Hinting和Kerning信息，在小字号下也有良好的显示效果。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Wqywmh"
+}
