@@ -1,0 +1,74 @@
+{
+  "id": "wqydkwmh",
+  "normalizedName": "Wqydkwmh",
+  "family": "文泉驿微米黑等宽体",
+  "familyEn": "WenQuanYi Micro Hei Mono",
+  "fontFamily": "WF-Wqydkwmh",
+  "category": "monospace",
+  "categoryZh": "Mono",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Wqydkwmh",
+      "charCount": 34599,
+      "glyphCount": 49531
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "ascender-corporation",
+  "foundryName": "Ascender Corporation",
+  "designer": "Qianqian Fang",
+  "releaseYear": 2008,
+  "version": "0.2.0",
+  "copyright": "Digitized data copyright ?2007, Google Corporation. Copyright ?2008-2009 WenQuanYi Board of Trustees (http://wenq.org/) and Qianqian Fang",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans",
+    "zh-Hant",
+    "en",
+    "ja",
+    "ko"
+  ],
+  "languagesZh": [
+    "简体中文",
+    "繁体中文",
+    "英语",
+    "日文",
+    "韩文"
+  ],
+  "tags": [
+    "黑体"
+  ],
+  "keywords": [
+    "开源",
+    "轻量级",
+    "等宽",
+    "CJK",
+    "嵌入式"
+  ],
+  "useCases": [
+    "代码编辑器",
+    "终端/命令行界面",
+    "嵌入式系统",
+    "桌面应用界面",
+    "多语言文档排版"
+  ],
+  "description": "WenQuanYi Micro Hei Mono 是一款基于 Google Droid Sans Fallback 扩展优化的开源等宽无衬线字体，是文泉驿微米黑字体的等宽变体。它专为现代数字环境设计，以极小的文件体积（约5MB）著称，同时支持完整的GBK汉字集（U+4E00-U+9FC3）及扩展A区字符，并完美兼容拉丁语、韩文、日文假名等多种语言字符。该字体继承了Droid系列字体的hinting和kerning技术，确保在小字号和低分辨率屏幕下也能清晰显示。其等宽特性使其特别适合在代码编辑器、终端和命令行界面中使用，为开发者提供清晰、工整的代码阅读体验。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Wqydkwmh"
+}
