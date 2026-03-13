@@ -1,0 +1,72 @@
+{
+  "id": "btxbt",
+  "normalizedName": "Btxbt",
+  "family": "包图小白体",
+  "familyEn": "Baotu Xiaobai Ti",
+  "fontFamily": "WF-Btxbt",
+  "category": "sans-serif",
+  "categoryZh": "无衬线字体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Btxbt",
+      "charCount": 7707,
+      "glyphCount": 7708
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "",
+  "foundryName": "上海包图网络科技有限公司",
+  "designer": "字体视界",
+  "releaseYear": 2018,
+  "version": "1.0.0",
+  "copyright": "Copyright(c) ibaotu",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans",
+    "en",
+    "ja"
+  ],
+  "languagesZh": [
+    "简体中文",
+    "英语",
+    "日文"
+  ],
+  "tags": [
+    "卡通创意"
+  ],
+  "keywords": [
+    "创意字体",
+    "可爱",
+    "童趣",
+    "镂空",
+    "免费商用"
+  ],
+  "useCases": [
+    "品牌标志",
+    "海报设计",
+    "包装设计",
+    "影视综艺",
+    "游戏",
+    "漫画",
+    "电商头图"
+  ],
+  "description": "包图小白体是一款由字体视界团队于2018年创作的创意字体，现由包图网与字体视界合作推出。该字体在字形笔画上进行了创新设计，去除了折笔的弧形，采用平直的笔画，并将竖弯钩转为竖折，弱化了钩笔画，使字体显得简洁、直白且充满童趣。其粗短的笔画形态和独特的镂空制作技巧增强了立体感，整体风格简约可爱。字体采用GB2312编码，包含6763个简体汉字及大量字母、数字和符号。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Btxbt"
+}
