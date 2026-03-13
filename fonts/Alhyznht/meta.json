@@ -1,0 +1,68 @@
+{
+  "id": "alhyznht",
+  "normalizedName": "Alhyznht",
+  "family": "阿里汉仪智能黑体",
+  "familyEn": "AliHYAiHei",
+  "fontFamily": "WF-Alhyznht",
+  "category": "sans-serif",
+  "categoryZh": "无衬线字体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Alhyznht",
+      "charCount": 7754,
+      "glyphCount": 7519
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "hanyi-fonts",
+  "foundryName": "Hanyi Fonts",
+  "designer": null,
+  "releaseYear": 2019,
+  "version": "5.0.0",
+  "copyright": "(c) Copyright Beijing HANYI KEYIN Information Technology Co.",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans",
+    "zh-Hant",
+    "en"
+  ],
+  "languagesZh": [
+    "简体中文",
+    "繁体中文",
+    "英语"
+  ],
+  "tags": [
+    "黑体"
+  ],
+  "keywords": [
+    "阿里巴巴",
+    "汉仪",
+    "AI字体",
+    "智能生成"
+  ],
+  "useCases": [
+    "电商平台UI/UX",
+    "数字营销物料",
+    "屏幕显示文本",
+    "企业文档"
+  ],
+  "description": "AliHYAiHei（阿里汉仪智能黑体）是一款由汉仪字库与阿里巴巴人机自然交互实验室合作开发的人工智能字体。该字体通过强大的计算能力自主生成，旨在为阿里巴巴平台用户提供免费使用的正版字体解决方案。其设计风格现代、简洁，属于无衬线黑体，具有良好的屏幕显示可读性和广泛的适用性。字体涵盖了6763个中文字符，支持简体中文、繁体中文和英文，适用于电商平台界面、营销素材、数字内容等多种商业场景。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Alhyznht"
+}
