@@ -1,0 +1,63 @@
+{
+  "id": "pmzdbtt",
+  "normalizedName": "Pmzdbtt",
+  "family": "庞门正道标题体",
+  "familyEn": "PangMenZhengDao",
+  "fontFamily": "WF-Pmzdbtt",
+  "category": "sans-serif",
+  "categoryZh": "无衬线字体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Pmzdbtt",
+      "charCount": 5563,
+      "glyphCount": 6230
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "",
+  "foundryName": "庞门正道",
+  "designer": "胡晓波",
+  "releaseYear": 2016,
+  "version": "3.12.0",
+  "copyright": "(c) PangMenZhengDao HuXiaoBo 2016",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans"
+  ],
+  "languagesZh": [
+    "简体中文"
+  ],
+  "tags": [
+    "黑体"
+  ],
+  "keywords": [
+    "标题",
+    "免费商用",
+    "现代"
+  ],
+  "useCases": [
+    "海报设计",
+    "电商广告",
+    "品牌宣传",
+    "标题文字"
+  ],
+  "description": "庞门正道标题体是由设计公众号《庞门正道》联合13位设计师于2016年推出的首款免费商用字体。该字体是一款个性鲜明的标题字体，字形大方稳重，笔画处理具有现代感，适用于海报、电商广告、品牌宣传等各类设计场景。字体自发布以来因其完全免费商用的授权和良好的视觉效果，在设计社区中广受欢迎。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Pmzdbtt"
+}
