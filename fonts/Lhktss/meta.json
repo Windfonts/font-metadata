@@ -1,0 +1,64 @@
+{
+  "id": "lhktss",
+  "normalizedName": "Lhktss",
+  "family": "刘欢卡通手书",
+  "familyEn": "Liu Huan KaTong ShouShu",
+  "fontFamily": "WF-Lhktss",
+  "category": "handwriting",
+  "categoryZh": "手写体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Lhktss",
+      "charCount": 6870,
+      "glyphCount": 6871
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": null,
+  "foundryName": null,
+  "designer": "Liu Huan",
+  "releaseYear": 2020,
+  "version": "1.0.0",
+  "copyright": "Typeface ?(your company). 2020. All Rights Reserved",
+  "license": {
+    "type": "付费授权",
+    "spdx": null,
+    "url": null,
+    "commercial": false,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans"
+  ],
+  "languagesZh": [
+    "简体中文"
+  ],
+  "tags": [
+    "硬笔手写",
+    "卡通创意"
+  ],
+  "keywords": [
+    "handwritten",
+    "casual",
+    "friendly"
+  ],
+  "useCases": [
+    "儿童读物",
+    "社交媒体设计",
+    "海报标题",
+    "品牌标识"
+  ],
+  "description": "Liu Huan KaTong ShouShu 是一款由设计师刘欢创作的卡通风格手写字体。该字体采用硬笔手写的笔触，线条圆润流畅，字形活泼可爱，带有明显的卡通创意特征。字体于2020年发布，使用FontCreator软件制作。其风格轻松俏皮，适用于儿童内容、社交媒体配图、海报标题、品牌标识等需要营造亲切、活泼氛围的场景。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Lhktss"
+}
