@@ -1,0 +1,72 @@
+{
+  "id": "lftsyh",
+  "normalizedName": "Lftsyh",
+  "family": "俐方体11号",
+  "familyEn": "Cubic 11",
+  "fontFamily": "WF-Lftsyh",
+  "category": "monospace",
+  "categoryZh": "Mono",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Lftsyh",
+      "charCount": 10244,
+      "glyphCount": 10338
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": null,
+  "foundryName": null,
+  "designer": "[Cubic 11]  Neo K. Shih-yin, Ke.  Cen-cyun, Liu. Luke Liu.  [M+ BITMAP FONTS]",
+  "releaseYear": 2025,
+  "version": "1.410",
+  "copyright": "[Cubic 11]  These fonts are free software.  Unlimited permission is granted to use, copy, and distribute them, with or without modification, either commercially or noncommercially.  THESE FONTS ARE PROVIDED \"AS IS\" WITHOUT WARRANTY.        [JF Dot M+H 12]  Copyright(c) 2005 M+ FONTS PROJECT  [M+ BITMAP FONTS]  Copyright (C) 2002-2004 COZ  These fonts are free software.  Unlimited permission is granted to use, copy, and distribute it, with or without modification, either commercially and noncommercially.  THESE FONTS ARE PROVIDED \"AS IS\" WITHOUT WARRANTY.",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hant",
+    "zh-Hans",
+    "en",
+    "ja"
+  ],
+  "languagesZh": [
+    "繁体中文",
+    "简体中文",
+    "英语",
+    "日文"
+  ],
+  "tags": [
+    "其他"
+  ],
+  "keywords": [
+    "开源",
+    "点阵字体",
+    "像素风",
+    "繁体中文",
+    "游戏字体"
+  ],
+  "useCases": [
+    "像素风格游戏开发",
+    "复古界面设计",
+    "像素艺术创作",
+    "教育软件",
+    "怀旧主题视觉设计"
+  ],
+  "description": "Cubic 11（俐方体11号）是一款免费开源的1111中文点阵字体，专为像素风格设计。该字体基于日文字型M gothic 12r衍生，针对繁体中文进行了字形调整与扩充，优化了符合台湾使用习惯的字形和标点符号。其字符集覆盖常用国字标准字体、Big5、台湾常用字、GB 2312一级字及元素周期表字符等，适用于复古游戏开发、像素艺术、界面设计等场景。字体采用SIL Open Font License 1.1授权，允许免费商业使用、修改和分发。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Lftsyh"
+}
