@@ -1,0 +1,74 @@
+{
+  "id": "light",
+  "normalizedName": "Light",
+  "family": "思源宋体 CN Light",
+  "familyEn": "Source Han Serif CN Light",
+  "fontFamily": "WF-Light",
+  "category": "serif",
+  "categoryZh": "衬线",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Systcn": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Light-Systcn",
+      "charCount": 30847,
+      "glyphCount": 30995
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "adobe-systems-incorporated",
+  "foundryName": "Adobe Systems Incorporated",
+  "designer": "Ryoko NISHIZUKA 西塚涼子 (kana & ideographs); Frank Griehammer (Latin, Greek & Cyrillic); Wenlong ZHANG 张文龙 (bopomofo); Sandoll Communications , Soohyun PARK , Yejin WE  & Donghoon HAN  (hangul elements, letters & syllables)",
+  "releaseYear": 2017,
+  "version": "1.0.0",
+  "copyright": "Copyright  2017 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name 'Source'.",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans",
+    "zh-Hant",
+    "en",
+    "ja",
+    "ko"
+  ],
+  "languagesZh": [
+    "简体中文",
+    "繁体中文",
+    "英语",
+    "日文",
+    "韩文"
+  ],
+  "tags": [
+    "宋体"
+  ],
+  "keywords": [
+    "开源",
+    "Google",
+    "Adobe",
+    "思源宋体",
+    "多语言"
+  ],
+  "useCases": [
+    "网页设计",
+    "移动应用界面",
+    "印刷出版物",
+    "品牌设计",
+    "技术文档"
+  ],
+  "description": "Source Han Serif CN（思源宋体）是由Google与Adobe联合开发的开源中文字体，提供专业级的中文排版解决方案。该字体家族包含7种字重，其中Light字重轻盈优雅，适合移动端界面和小字号显示。字体设计融合了传统宋体美学与现代数字排版需求，在保证汉字结构严谨性的同时，优化了屏幕显示效果。字体采用SIL Open Font License 1.1开源许可证，允许免费商用、修改和分发。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Light"
+}
