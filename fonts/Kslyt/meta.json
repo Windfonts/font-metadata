@@ -1,0 +1,68 @@
+{
+  "id": "kslyt",
+  "normalizedName": "Kslyt",
+  "family": "一点明体",
+  "familyEn": "I.Ming",
+  "fontFamily": "WF-Kslyt",
+  "category": "serif",
+  "categoryZh": "衬线",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Kslyt",
+      "charCount": 55352,
+      "glyphCount": 55328
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "ichiten-fonts-project",
+  "foundryName": "Ichiten Fonts Project",
+  "designer": "Ichiten Fonts Project",
+  "releaseYear": 2013,
+  "version": "5.0.0",
+  "copyright": "Copyright(c) Ichiten Fonts Project, 2013-2017; Information-technology Promotion Agency, Japan (IPA), 2011-2012. You must accept \"http://ipafont.ipa.go.jp/ipa_font_license_v1.html\" to use this product.",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans",
+    "zh-Hant",
+    "ja"
+  ],
+  "languagesZh": [
+    "简体中文",
+    "繁体中文",
+    "日文"
+  ],
+  "tags": [
+    "宋体"
+  ],
+  "keywords": [
+    "开源",
+    "明体",
+    "改造字体",
+    "多语言支持"
+  ],
+  "useCases": [
+    "屏幕显示",
+    "印刷排版",
+    "文档正文",
+    "用户界面"
+  ],
+  "description": "I.Ming (一点明体) 是一款基于日本 IPA 明体 (IPA Mincho) 改造的开源中文字体，由 Ichiten Fonts Project 维护。该项目旨在修复 IPA 明体在繁体中文和简体中文环境下的字形问题，并补充了大量汉字和标点符号。字体设计保留了明体 (宋体) 的经典衬线特征，字形清晰、结构严谨，适合用于屏幕显示和印刷排版。其授权基于 IPA Font License v1.0，允许免费商用。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Kslyt"
+}
