@@ -1,0 +1,63 @@
+{
+  "id": "hxbsb",
+  "normalizedName": "Hxbsb",
+  "family": "胡晓波骚包体",
+  "familyEn": "HuXiaoBao-SaoBao",
+  "fontFamily": "WF-Hxbsb",
+  "category": "sans-serif",
+  "categoryZh": "无衬线字体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Normal": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Hxbsb",
+      "charCount": 7414,
+      "glyphCount": 7465
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "",
+  "foundryName": "胡晓波工作室",
+  "designer": "胡晓波",
+  "releaseYear": 2019,
+  "version": "2.0.0",
+  "copyright": "(c) Copyright HuXiaoBo 2019",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans"
+  ],
+  "languagesZh": [
+    "简体中文"
+  ],
+  "tags": [
+    "黑体"
+  ],
+  "keywords": [
+    "综艺体",
+    "免费商用",
+    "胡晓波"
+  ],
+  "useCases": [
+    "电商设计",
+    "海报设计",
+    "游戏界面",
+    "广告宣传"
+  ],
+  "description": "胡晓波骚包体是由站酷人气设计师胡晓波设计并发布的一款免费可商用中文字体。该字体于2019年首次发布，其设计特点鲜明，笔画粗壮有力，结构稳健，具有现代感和视觉冲击力。字体风格偏向综艺、时尚，适用于电商页面、游戏界面、海报设计、广告宣传等需要醒目、活泼效果的商业设计场景。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Hxbsb"
+}
