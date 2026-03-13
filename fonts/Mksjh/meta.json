@@ -1,0 +1,70 @@
+{
+  "id": "mksjh",
+  "normalizedName": "Mksjh",
+  "family": "猫啃什锦黑",
+  "familyEn": "Maoken Assorted Sans",
+  "fontFamily": "WF-Mksjh",
+  "category": "sans-serif",
+  "categoryZh": "无衬线字体",
+  "classifications": [],
+  "weights": [
+    700
+  ],
+  "weightDetails": {
+    "Bold": {
+      "cssWeight": 700,
+      "fontFamily": "WF-Mksjh-Bold",
+      "charCount": 10382,
+      "glyphCount": 11760
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "",
+  "foundryName": "猫啃网",
+  "designer": "补简由ZERO子主导，白日月球、阿東東東東、荆南字坊、时光羊、帆影Shadow、频凡、Y^Lin、orunji",
+  "releaseYear": 2022,
+  "version": "1.10.0",
+  "copyright": "Copyright (c) 2022, Maoken (https://www.maoken.com/).",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans",
+    "zh-Hant",
+    "en"
+  ],
+  "languagesZh": [
+    "简体中文",
+    "繁体中文",
+    "英语"
+  ],
+  "tags": [
+    "黑体"
+  ],
+  "keywords": [
+    "开源",
+    "免费商用",
+    "黑体",
+    "补字",
+    "思源黑体衍生"
+  ],
+  "useCases": [
+    "网页设计",
+    "UI/UX界面",
+    "平面印刷",
+    "商业宣传物料",
+    "开源项目嵌入"
+  ],
+  "description": "Maoken Assorted Sans（猫啃什锦黑）是一款由猫啃网组织，由补简由ZERO子主导，多位设计师共同参与制作的开源免费商用中文字体。它基于思源黑体进行补字和优化，旨在解决开源字体中部分生僻字、网络流行字缺失的问题。字体风格现代、简洁，字形规整，具有良好的可读性，支持简体中文、繁体中文及英文。该字体遵循SIL Open Font License (OFL) 1.1授权协议，允许个人和商业使用。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Mksjh"
+}
