@@ -1,0 +1,65 @@
+{
+  "id": "zkkht",
+  "normalizedName": "Zkkht",
+  "family": "胡晓波酷黑体",
+  "familyEn": "HuXiaoBo KuHei",
+  "fontFamily": "WF-Zkkht",
+  "category": "sans-serif",
+  "categoryZh": "无衬线字体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Zkkht",
+      "charCount": 4369,
+      "glyphCount": 4427
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": null,
+  "foundryName": null,
+  "designer": "HuXiaoBo",
+  "releaseYear": 2016,
+  "version": "3.12.0",
+  "copyright": "(c) Copyright HuXiaoBo 2016",
+  "license": {
+    "type": null,
+    "spdx": null,
+    "url": null,
+    "commercial": false,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans",
+    "en"
+  ],
+  "languagesZh": [
+    "简体中文",
+    "英语"
+  ],
+  "tags": [
+    "黑体"
+  ],
+  "keywords": [
+    "现代",
+    "标题",
+    "醒目"
+  ],
+  "useCases": [
+    "品牌标识",
+    "网页标题",
+    "UI界面",
+    "广告海报"
+  ],
+  "description": "HuXiaoBo_KuHei 是一款由设计师胡晓波（HuXiaoBo）创作的无衬线黑体。字体文件创建于2016年，版本为3.12。其设计风格偏向现代、简洁的黑体，适用于标题、品牌标识、UI界面等需要醒目、清晰文字的场景。该字体支持简体中文和英文，字符集较为完整。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Zkkht"
+}
