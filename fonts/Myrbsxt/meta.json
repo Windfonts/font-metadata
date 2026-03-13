@@ -1,0 +1,65 @@
+{
+  "id": "myrbsxt",
+  "normalizedName": "Myrbsxt",
+  "family": "沐瑶软笔手写体",
+  "familyEn": "Muyao Softbrush",
+  "fontFamily": "WF-Myrbsxt",
+  "category": "handwriting",
+  "categoryZh": "手写体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Myrbsxt",
+      "charCount": 6890,
+      "glyphCount": 6891
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": null,
+  "foundryName": null,
+  "designer": "春颜秋色",
+  "releaseYear": 2018,
+  "version": "2.20",
+  "copyright": "Copyright(c) FlexiFont Co.,Ltd.2016",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans"
+  ],
+  "languagesZh": [
+    "简体中文"
+  ],
+  "tags": [
+    "毛笔书法"
+  ],
+  "keywords": [
+    "可爱",
+    "圆润",
+    "休闲",
+    "卡通"
+  ],
+  "useCases": [
+    "儿童书籍与包装设计",
+    "网页与海报标题",
+    "休闲插画与漫画",
+    "社交媒体图片",
+    "个人手账与字帖"
+  ],
+  "description": "沐瑶软笔手写体是由设计师春颜秋色为女儿周岁生日创作的免费可商用中文字体。该字体采用软头毛笔手写，风格可爱朴拙，笔画粗细不均且带有弯曲，方形部首多被处理为圆形，整体呈现出活泼、风趣的卡通风格。字体最初于2018年7月6日以版本2.20发布，后因制作工具授权问题，于2021年6月28日使用FontCreator重新制作并发布版本1.00。该字体包含GB2312标准的6763个汉字、英文字母及常用标点，适用于儿童设计、网页海报、休闲插画与漫画、个人手账等场景。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Myrbsxt"
+}
