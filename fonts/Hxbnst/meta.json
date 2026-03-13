@@ -1,0 +1,69 @@
+{
+  "id": "hxbnst",
+  "normalizedName": "Hxbnst",
+  "family": "胡晓波男神体",
+  "familyEn": "HuXiaoBo-NanShen",
+  "fontFamily": "WF-Hxbnst",
+  "category": "sans-serif",
+  "categoryZh": "无衬线字体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Hxbnst",
+      "charCount": 7315,
+      "glyphCount": 7317
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "",
+  "foundryName": "胡晓波工作室",
+  "designer": "胡晓波",
+  "releaseYear": 2019,
+  "version": "1.0.0",
+  "copyright": "copyright  HuXiaoBo",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans",
+    "en"
+  ],
+  "languagesZh": [
+    "简体中文",
+    "英语"
+  ],
+  "tags": [
+    "黑体",
+    "其他"
+  ],
+  "keywords": [
+    "现代",
+    "综艺",
+    "科技",
+    "标题",
+    "免费商用"
+  ],
+  "useCases": [
+    "户外广告",
+    "电商设计",
+    "综艺海报",
+    "游戏界面",
+    "标题设计"
+  ],
+  "description": "胡晓波男神体是由胡晓波工作室于2019年发布的一款免费可商用中文字体。其设计特点鲜明，横竖笔画对比强烈，展现出力量与结构的美感，同时转角处采用平滑圆润的柔和处理，赋予字体细腻与优雅的气质。提笔走向规律，角度统一，边缘整齐，增强了现代感和科技感。字体重心稍作提高，横竖比例相等，使字体显得稳重且高挑。对部分连笔笔画进行了简化，并对拥挤处笔画进行特殊处理，增加了空间的呼吸感，使整体更加简洁大方。该字体笔画粗壮厚重，醒目有力，适合用于户外广告、地铁广告、电商页面、综艺节目、游戏界面、明星介绍及运动主题设计等多种场景。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Hxbnst"
+}
