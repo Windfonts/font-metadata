@@ -1,0 +1,64 @@
+{
+  "id": "cexwz",
+  "normalizedName": "Cexwz",
+  "family": "仓耳小丸子",
+  "familyEn": "Tsanger Little Balls",
+  "fontFamily": "WF-Cexwz",
+  "category": "sans-serif",
+  "categoryZh": "无衬线字体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Cexwz",
+      "charCount": 7042,
+      "glyphCount": 7011
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "beijing-tsanger-character-technology-co-ltd",
+  "foundryName": "Beijing Tsanger Character Technology Co., Ltd.",
+  "designer": "Beijing Tsanger Character Technology Co., Ltd.",
+  "releaseYear": null,
+  "version": "1.0.0",
+  "copyright": "Copyright  Beijing Tsanger Character Technology Co., Ltd.. All rights reserved.",
+  "license": {
+    "type": "联系授权",
+    "spdx": null,
+    "url": null,
+    "commercial": false,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans"
+  ],
+  "languagesZh": [
+    "简体中文"
+  ],
+  "tags": [
+    "黑体",
+    "卡通创意"
+  ],
+  "keywords": [
+    "圆角",
+    "可爱",
+    "现代"
+  ],
+  "useCases": [
+    "儿童产品设计",
+    "卡通标题",
+    "亲和力品牌宣传",
+    "UI界面点缀"
+  ],
+  "description": "TsangerXWZ 是一款由北京仓耳文字技术有限公司设计的中文字体，其英文名称为 Tsanger Little Balls，中文名称为仓耳小丸子。该字体字形方正，结构均匀，重心线比中心线稍高，字面偏大，笔画纤细。其显著特点是在笔画的转角处都加上了小圆角，给人以亲切、可爱的视觉感受，风格偏向卡通创意。该字体设计旨在为任何系统提供中文显示支持。根据其版权信息，使用前需联系北京仓耳文字技术有限公司获得授权。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Cexwz"
+}
