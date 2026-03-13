@@ -1,0 +1,73 @@
+{
+  "id": "mspyt",
+  "normalizedName": "Mspyt",
+  "family": "萌神汉宋",
+  "familyEn": "Mengshen HanSerif",
+  "fontFamily": "WF-Mspyt",
+  "category": "serif",
+  "categoryZh": "衬线",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Mspyt",
+      "charCount": 30847,
+      "glyphCount": 60151
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "adobe-systems-incorporated",
+  "foundryName": "Adobe Systems Incorporated",
+  "designer": "[Source Han Sans] Ryoko NISHIZUKA (kana & ideographs); Frank Griehammer (Latin, Greek & Cyrillic); Wenlong ZHANG (bopomofo); Sandoll Communications , Soohyun PARK , Yejin WE & Donghoon HAN (hangul elements, letters & syllables) [mengshen project] Yuya Maruyama",
+  "releaseYear": 2020,
+  "version": "1.0.2",
+  "copyright": "Copyright  2017 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name 'Source'. [PROJECT] Copyright(c) 2020 mengshen project",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans",
+    "zh-Hant",
+    "en",
+    "ja",
+    "ko"
+  ],
+  "languagesZh": [
+    "简体中文",
+    "繁体中文",
+    "英语",
+    "日文",
+    "韩文"
+  ],
+  "tags": [
+    "宋体"
+  ],
+  "keywords": [
+    "开源",
+    "泛中日韩",
+    "思源宋体衍生",
+    "专业排版"
+  ],
+  "useCases": [
+    "印刷出版",
+    "数字阅读",
+    "品牌设计",
+    "用户界面设计",
+    "学术文档"
+  ],
+  "description": "Mengshen-HanSerif 是一款基于 Adobe 开源字体项目 Source Han Serif（思源宋体）进行二次创作和优化的中文字体。该字体继承了思源宋体专业、严谨的衬线设计，覆盖了泛中日韩（CJK）地区的庞大字符集，支持简体中文、繁体中文、日文和韩文，并包含完整的拉丁字母、希腊字母和西里尔字母。字体元信息显示其设计团队包含了思源宋体的原班核心成员（如 Ken Lunde、Masataka HATTORI 等）以及萌神项目（mengshen project）的贡献者 Yuya Maruyama。它提供了从细到粗的完整字重体系，适用于印刷出版、数字阅读、品牌标识、UI设计等多种专业场景。字体采用 SIL Open Font License 1.1 开源协议，允许个人和商业项目免费使用。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Mspyt"
+}
