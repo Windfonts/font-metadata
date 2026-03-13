@@ -1,0 +1,69 @@
+{
+  "id": "mkzyt",
+  "normalizedName": "Mkzyt",
+  "family": "猫啃竹圆体",
+  "familyEn": "Maoken Zhuyuan Ti",
+  "fontFamily": "WF-Mkzyt",
+  "category": "handwriting",
+  "categoryZh": "手写体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Mkzyt",
+      "charCount": 14329,
+      "glyphCount": 15122
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "longzhuti-project",
+  "foundryName": "LongZhuTi Project",
+  "designer": "Fontworks Inc & LongZhuTi team: ZERO子、时光羊、荆南、频凡、刘鹏、Little White Dog、帆影Magmeta、奈白不弍、白日月球、ChaoTawei、雨三（排名不分先后）",
+  "releaseYear": 2023,
+  "version": "1.0.0",
+  "copyright": "Copyright 2022-2023 LongZhuTi Project Authors. Copyright 2020 The RocknRoll Project Authors (https://github.com/fontworks-fonts/RocknRoll)",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans",
+    "zh-Hant",
+    "en"
+  ],
+  "languagesZh": [
+    "简体中文",
+    "繁体中文",
+    "英语"
+  ],
+  "tags": [
+    "硬笔手写"
+  ],
+  "keywords": [
+    "开源",
+    "圆体",
+    "可爱",
+    "改造字体"
+  ],
+  "useCases": [
+    "社交媒体设计",
+    "海报标题",
+    "品牌宣传物料",
+    "UI界面",
+    "儿童相关设计"
+  ],
+  "description": "猫啃竹圆体是一款基于日本Fontworks公司的RocknRoll字体改造的开源中文字体，由LongZhuTi项目团队开发。该字体在保留原版日文字体圆润、可爱风格的基础上，补充了大量中文字符，使其能够完整支持简体中文、繁体中文及常用拉丁字母。其设计特点是笔画圆滑、转角柔和，字面饱满，具有亲和力与活泼感。作为开源字体，它遵循SIL Open Font License (OFL) 1.1授权协议，允许个人及商业免费使用。适用于社交媒体配图、海报标题、品牌宣传物料、UI界面等需要轻松、友好氛围的设计场景。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Mkzyt"
+}
