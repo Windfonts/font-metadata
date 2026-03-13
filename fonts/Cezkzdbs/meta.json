@@ -1,0 +1,71 @@
+{
+  "id": "cezkzdbs",
+  "normalizedName": "Cezkzdbs",
+  "family": "仓耳周珂正大榜书",
+  "familyEn": "Tsanger Zhouke Zhengdabangshu",
+  "fontFamily": "WF-Cezkzdbs",
+  "category": "handwriting",
+  "categoryZh": "手写体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Cezkzdbs",
+      "charCount": 6943,
+      "glyphCount": 6912
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "beijing-tsanger-character-technology-co-ltd",
+  "foundryName": "仓耳字库 (Beijing Tsanger Character Technology Co., Ltd.)",
+  "designer": "Beijing Tsanger Character Technology Co., Ltd.",
+  "releaseYear": 2022,
+  "version": "1.0.0",
+  "copyright": "Copyright  Beijing Tsanger Character Technology Co., Ltd.. All rights reserved.",
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans",
+    "en"
+  ],
+  "languagesZh": [
+    "简体中文",
+    "英语"
+  ],
+  "tags": [
+    "毛笔书法"
+  ],
+  "keywords": [
+    "免费商用",
+    "书法体",
+    "艺术字体",
+    "标题字体",
+    "仓耳字库"
+  ],
+  "useCases": [
+    "艺术设计",
+    "平面宣传设计",
+    "网页设计",
+    "书法字帖",
+    "品牌标志",
+    "商业海报",
+    "影视传媒",
+    "信息展示"
+  ],
+  "description": "仓耳周珂正大榜书是由仓耳字库推出的一款永久免费商用的书法艺术字体。该字体笔触粗细适中，字形端正，结构严谨，视觉效果饱满有力。其设计基于GB2312-80字符集标准，包含6763个汉字和245个英文及常用标点符号。字体风格稳重，适合应用于艺术设计、平面宣传、网页设计、书法字帖、品牌标志、影视传媒及各类商业海报等广泛领域。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Cezkzdbs"
+}
