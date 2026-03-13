@@ -1,0 +1,64 @@
+{
+  "id": "lhls",
+  "normalizedName": "Lhls",
+  "family": "临海隶书",
+  "familyEn": "Linhai Clerical Script",
+  "fontFamily": "WF-Lhls",
+  "category": "handwriting",
+  "categoryZh": "手写体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Lhls",
+      "charCount": 9311,
+      "glyphCount": 9311
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "",
+  "foundryName": "临海市社发集团  乡立方",
+  "designer": null,
+  "releaseYear": 2023,
+  "version": "1.0.0",
+  "copyright": null,
+  "license": {
+    "type": "免费商用",
+    "spdx": null,
+    "url": null,
+    "commercial": true,
+    "attribution": false
+  },
+  "languages": [
+    "zh-Hans"
+  ],
+  "languagesZh": [
+    "简体中文"
+  ],
+  "tags": [
+    "隶书"
+  ],
+  "keywords": [
+    "城市字体",
+    "文化传播",
+    "隶书体"
+  ],
+  "useCases": [
+    "城市品牌宣传",
+    "文化旅游物料",
+    "广告设计",
+    "自媒体内容",
+    "电商平台"
+  ],
+  "description": "临海隶书是一款为浙江省临海市设计的城市品牌字体，旨在传播临海的历史文化。字体以隶书为基础，融合了临海千年古城、江南长城、紫阳古街等城市特质，风格厚重、古典、拙朴，体现了临海的人文底蕴。该字体由临海市社发集团与乡立方联合设计出品，旨在打造具有临海独特辨识度的城市符号化IP。",
+  "dateAdded": "2026-03-13",
+  "ossPath": "fonts-packages/Lhls"
+}
