@@ -46,10 +46,24 @@
     "简体中文",
     "繁体中文"
   ],
-  "tags": [],
-  "keywords": [],
-  "useCases": [],
-  "description": null,
+  "tags": [
+    "中文",
+    "无衬线",
+    "现代"
+  ],
+  "keywords": [
+    "JasonWriting2",
+    "UI",
+    "现代",
+    "简洁"
+  ],
+  "useCases": [
+    "UI 界面",
+    "品牌标识",
+    "海报标题",
+    "网页正文"
+  ],
+  "description": "JasonWriting2是一款无衬线字体，字重 400，支持英语、简体中文、繁体中文。特点：现代。",
   "dateAdded": null,
   "ossPath": "fonts-packages/JasonWriting2",
   "_extraction": {

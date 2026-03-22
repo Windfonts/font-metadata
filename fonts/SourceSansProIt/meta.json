@@ -63,7 +63,7 @@
   "version": "1.075.0",
   "copyright": "Copyright 2010, 2012, 2014 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name ‘Source’.",
   "license": {
-    "type": "联系授权",
+    "type": "免费商用",
     "spdx": null,
     "url": "http://scripts.sil.org/OFL",
     "commercial": null,
@@ -75,10 +75,28 @@
   "languagesZh": [
     "英语"
   ],
-  "tags": [],
-  "keywords": [],
-  "useCases": [],
-  "description": null,
+  "tags": [
+    "多字重",
+    "无衬线",
+    "现代",
+    "粗体"
+  ],
+  "keywords": [
+    "Source Sans Pro",
+    "UI",
+    "广告",
+    "强调",
+    "标题",
+    "现代",
+    "简洁"
+  ],
+  "useCases": [
+    "UI 界面",
+    "品牌标识",
+    "海报标题",
+    "网页正文"
+  ],
+  "description": "Source Sans Pro是一款无衬线字体，提供 6 个字重（200-900），支持英语。特点：多字重、现代、粗体。授权方式：免费商用。",
   "dateAdded": null,
   "ossPath": "fonts-packages/SourceSansProIt",
   "_extraction": {

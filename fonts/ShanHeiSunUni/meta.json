@@ -48,10 +48,32 @@
     "繁体中文",
     "日语"
   ],
-  "tags": [],
-  "keywords": [],
-  "useCases": [],
-  "description": null,
+  "tags": [
+    "中文",
+    "传统",
+    "印刷",
+    "宋体",
+    "日文",
+    "衬线"
+  ],
+  "keywords": [
+    "AR PL ShanHeiSun Uni",
+    "书籍",
+    "印刷",
+    "报纸",
+    "排版",
+    "文鼎PL細上海宋Uni",
+    "正式",
+    "阅读"
+  ],
+  "useCases": [
+    "书籍排版",
+    "学术论文",
+    "报纸正文",
+    "杂志正文",
+    "正式文档"
+  ],
+  "description": "文鼎PL細上海宋Uni是一款衬线字体，字重 400，支持英语、简体中文、繁体中文、日语。特点：传统、印刷、宋体。",
   "dateAdded": null,
   "ossPath": "fonts-packages/ShanHeiSunUni",
   "_extraction": {

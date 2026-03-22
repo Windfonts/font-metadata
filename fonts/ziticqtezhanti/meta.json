@@ -44,9 +44,24 @@
     "英语",
     "简体中文"
   ],
-  "tags": [],
-  "keywords": [],
-  "useCases": [],
+  "tags": [
+    "中文",
+    "无衬线",
+    "现代"
+  ],
+  "keywords": [
+    "UI",
+    "ziticqtezhanti",
+    "字体传奇特战体-免费商用",
+    "现代",
+    "简洁"
+  ],
+  "useCases": [
+    "UI 界面",
+    "品牌标识",
+    "海报标题",
+    "网页正文"
+  ],
   "description": "国家版权局登记字体作品",
   "dateAdded": null,
   "ossPath": "fonts-packages/ziticqtezhanti",

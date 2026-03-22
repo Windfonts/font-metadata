@@ -82,10 +82,28 @@
   "languagesZh": [
     "英语"
   ],
-  "tags": [],
-  "keywords": [],
-  "useCases": [],
-  "description": null,
+  "tags": [
+    "传统",
+    "多字重",
+    "粗体",
+    "衬线"
+  ],
+  "keywords": [
+    "IBM Plex Serif",
+    "印刷",
+    "广告",
+    "强调",
+    "标题",
+    "正式",
+    "阅读"
+  ],
+  "useCases": [
+    "书籍排版",
+    "学术论文",
+    "杂志正文",
+    "正式文档"
+  ],
+  "description": "IBM Plex Serif是一款衬线字体，提供 7 个字重（100-700），支持英语。特点：传统、多字重、粗体。",
   "dateAdded": null,
   "ossPath": "fonts-packages/IBMPlexSerifItalic",
   "_extraction": {

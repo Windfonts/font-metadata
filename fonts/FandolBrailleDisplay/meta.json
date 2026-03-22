@@ -35,9 +35,22 @@
   },
   "languages": [],
   "languagesZh": [],
-  "tags": [],
-  "keywords": [],
-  "useCases": [],
+  "tags": [
+    "无衬线",
+    "现代"
+  ],
+  "keywords": [
+    "Fandol Braille",
+    "UI",
+    "现代",
+    "简洁"
+  ],
+  "useCases": [
+    "UI 界面",
+    "品牌标识",
+    "海报标题",
+    "网页正文"
+  ],
   "description": "Braille fonts for TeX system.",
   "dateAdded": null,
   "ossPath": "fonts-packages/FandolBrailleDisplay",

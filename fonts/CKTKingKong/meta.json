@@ -30,7 +30,7 @@
   "version": "2.000.0",
   "copyright": "Copyright ?2019 www.chuangkit.com. All rights reserved.",
   "license": {
-    "type": "联系授权",
+    "type": "免费商用",
     "spdx": null,
     "url": null,
     "commercial": null,
@@ -46,10 +46,30 @@
     "简体中文",
     "日语"
   ],
-  "tags": [],
-  "keywords": [],
-  "useCases": [],
-  "description": null,
+  "tags": [
+    "中文",
+    "无衬线",
+    "日文",
+    "现代",
+    "粗体"
+  ],
+  "keywords": [
+    "CKTKingKong",
+    "UI",
+    "创客贴金刚体",
+    "广告",
+    "强调",
+    "标题",
+    "现代",
+    "简洁"
+  ],
+  "useCases": [
+    "UI 界面",
+    "品牌标识",
+    "海报标题",
+    "网页正文"
+  ],
+  "description": "创客贴金刚体是一款无衬线字体，字重 700，支持英语、简体中文、日语。特点：现代、粗体。授权方式：免费商用。",
   "dateAdded": null,
   "ossPath": "fonts-packages/CKTKingKong",
   "_extraction": {

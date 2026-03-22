@@ -30,7 +30,7 @@
   "version": "1.3.0",
   "copyright": "(C)Copyright Dr. Hann-Tzong Wang, 2002-2004.",
   "license": {
-    "type": "联系授权",
+    "type": "免费商用",
     "spdx": null,
     "url": "http://www.gnu.org/licenses/gpl.txt",
     "commercial": null,
@@ -46,9 +46,24 @@
     "简体中文",
     "繁体中文"
   ],
-  "tags": [],
-  "keywords": [],
-  "useCases": [],
+  "tags": [
+    "中文",
+    "无衬线",
+    "现代"
+  ],
+  "keywords": [
+    "HanWangYenLight",
+    "UI",
+    "王漢宗細圓體繁",
+    "现代",
+    "简洁"
+  ],
+  "useCases": [
+    "UI 界面",
+    "品牌标识",
+    "海报标题",
+    "网页正文"
+  ],
   "description": "HtWang Fonts(1), March 8, 2002; 1.00, initial release; HtWang Fonts(17), March 5, 2004; GJL(040519). Maintain by CLE Project.",
   "dateAdded": null,
   "ossPath": "fonts-packages/HanWangYenLight",

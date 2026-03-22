@@ -35,7 +35,7 @@
   "version": "3.303.0",
   "copyright": "Copyright 2015 The Cormorant Project Authors (github.com/CatharsisFonts/Cormorant)",
   "license": {
-    "type": "联系授权",
+    "type": "免费商用",
     "spdx": null,
     "url": "http://scripts.sil.org/OFL",
     "commercial": null,
@@ -47,10 +47,23 @@
   "languagesZh": [
     "英语"
   ],
-  "tags": [],
-  "keywords": [],
-  "useCases": [],
-  "description": null,
+  "tags": [
+    "无衬线",
+    "现代"
+  ],
+  "keywords": [
+    "Cormorant SC",
+    "UI",
+    "现代",
+    "简洁"
+  ],
+  "useCases": [
+    "UI 界面",
+    "品牌标识",
+    "海报标题",
+    "网页正文"
+  ],
+  "description": "Cormorant SC是一款无衬线字体，提供 2 个字重（300-400），支持英语。特点：现代。授权方式：免费商用。",
   "dateAdded": null,
   "ossPath": "fonts-packages/CormorantSCRegular",
   "_extraction": {

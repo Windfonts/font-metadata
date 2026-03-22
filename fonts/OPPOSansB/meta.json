@@ -30,7 +30,7 @@
   "version": "1.00.0",
   "copyright": "copyright (c) 2019 by OPPO. All rights reserved.",
   "license": {
-    "type": "联系授权",
+    "type": "免费商用",
     "spdx": null,
     "url": null,
     "commercial": null,
@@ -46,10 +46,24 @@
     "简体中文",
     "繁体中文"
   ],
-  "tags": [],
-  "keywords": [],
-  "useCases": [],
-  "description": null,
+  "tags": [
+    "中文",
+    "无衬线",
+    "现代"
+  ],
+  "keywords": [
+    "OPPOSans",
+    "UI",
+    "现代",
+    "简洁"
+  ],
+  "useCases": [
+    "UI 界面",
+    "品牌标识",
+    "海报标题",
+    "网页正文"
+  ],
+  "description": "OPPOSans是一款无衬线字体，字重 400，支持英语、简体中文、繁体中文。特点：现代。授权方式：免费商用。",
   "dateAdded": null,
   "ossPath": "fonts-packages/OPPOSansB",
   "_extraction": {

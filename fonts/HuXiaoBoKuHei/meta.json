@@ -29,7 +29,7 @@
   "version": "3.12.0",
   "copyright": "(c) Copyright HuXiaoBo 2016",
   "license": {
-    "type": "联系授权",
+    "type": "免费商用",
     "spdx": null,
     "url": null,
     "commercial": null,
@@ -45,10 +45,33 @@
     "简体中文",
     "日语"
   ],
-  "tags": [],
-  "keywords": [],
-  "useCases": [],
-  "description": null,
+  "tags": [
+    "中文",
+    "无衬线",
+    "日文",
+    "标题",
+    "现代",
+    "黑体"
+  ],
+  "keywords": [
+    "HuXiaoBo_KuHei",
+    "UI",
+    "广告",
+    "标题",
+    "海报",
+    "现代",
+    "站酷酷黑",
+    "简洁"
+  ],
+  "useCases": [
+    "UI 界面",
+    "品牌标识",
+    "导航菜单",
+    "标题设计",
+    "海报标题",
+    "网页正文"
+  ],
+  "description": "站酷酷黑是一款无衬线字体，字重 400，支持英语、简体中文、日语。特点：标题、现代、黑体。授权方式：免费商用。",
   "dateAdded": null,
   "ossPath": "fonts-packages/HuXiaoBoKuHei",
   "_extraction": {

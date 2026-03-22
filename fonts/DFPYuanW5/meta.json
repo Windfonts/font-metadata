@@ -46,10 +46,31 @@
     "简体中文",
     "日语"
   ],
-  "tags": [],
-  "keywords": [],
-  "useCases": [],
-  "description": null,
+  "tags": [
+    "中文",
+    "圆体",
+    "无衬线",
+    "日文",
+    "柔和",
+    "现代"
+  ],
+  "keywords": [
+    "DFPYuanW5-GB",
+    "UI",
+    "亲和",
+    "包装",
+    "华康圆体W5(P)",
+    "品牌",
+    "现代",
+    "简洁"
+  ],
+  "useCases": [
+    "UI 界面",
+    "品牌标识",
+    "海报标题",
+    "网页正文"
+  ],
+  "description": "华康圆体W5(P)是一款无衬线字体，字重 400，支持英语、简体中文、日语。特点：圆体、柔和、现代。",
   "dateAdded": null,
   "ossPath": "fonts-packages/DFPYuanW5",
   "_extraction": {

@@ -46,10 +46,26 @@
     "简体中文",
     "日语"
   ],
-  "tags": [],
-  "keywords": [],
-  "useCases": [],
-  "description": null,
+  "tags": [
+    "中文",
+    "无衬线",
+    "日文",
+    "现代"
+  ],
+  "keywords": [
+    "UI",
+    "huangyinqi zhaopai",
+    "现代",
+    "简洁",
+    "黄引齐招牌4aqq.com"
+  ],
+  "useCases": [
+    "UI 界面",
+    "品牌标识",
+    "海报标题",
+    "网页正文"
+  ],
+  "description": "黄引齐招牌4aqq.com是一款无衬线字体，字重 400，支持英语、简体中文、日语。特点：现代。",
   "dateAdded": null,
   "ossPath": "fonts-packages/huangyinqizhaopai",
   "_extraction": {

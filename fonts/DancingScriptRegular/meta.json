@@ -35,7 +35,7 @@
   "version": "2.000.0",
   "copyright": "Copyright 2016 The Dancing Script Project Authors (impallari@gmail.com), with Reserved Font Name 'Dancing Script’.",
   "license": {
-    "type": "联系授权",
+    "type": "免费商用",
     "spdx": null,
     "url": "http://scripts.sil.org/OFL",
     "commercial": null,
@@ -47,10 +47,32 @@
   "languagesZh": [
     "英语"
   ],
-  "tags": [],
-  "keywords": [],
-  "useCases": [],
-  "description": null,
+  "tags": [
+    "书法",
+    "手写",
+    "粗体"
+  ],
+  "keywords": [
+    "Dancing Script",
+    "个性",
+    "传统",
+    "国风",
+    "广告",
+    "强调",
+    "文化",
+    "文艺",
+    "标题",
+    "贺卡"
+  ],
+  "useCases": [
+    "个人博客",
+    "包装设计",
+    "国风设计",
+    "文化活动",
+    "文艺海报",
+    "贺卡设计"
+  ],
+  "description": "Dancing Script是一款手写体，提供 2 个字重（400-700），支持英语。特点：书法、粗体。授权方式：免费商用。",
   "dateAdded": null,
   "ossPath": "fonts-packages/DancingScriptRegular",
   "_extraction": {

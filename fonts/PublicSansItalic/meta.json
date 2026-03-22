@@ -84,7 +84,7 @@
   "version": "1.003.0",
   "copyright": null,
   "license": {
-    "type": "联系授权",
+    "type": "免费商用",
     "spdx": null,
     "url": "http://scripts.sil.org/OFL",
     "commercial": null,
@@ -96,9 +96,27 @@
   "languagesZh": [
     "英语"
   ],
-  "tags": [],
-  "keywords": [],
-  "useCases": [],
+  "tags": [
+    "多字重",
+    "无衬线",
+    "现代",
+    "粗体"
+  ],
+  "keywords": [
+    "Public Sans",
+    "UI",
+    "广告",
+    "强调",
+    "标题",
+    "现代",
+    "简洁"
+  ],
+  "useCases": [
+    "UI 界面",
+    "品牌标识",
+    "海报标题",
+    "网页正文"
+  ],
   "description": "Libre Franklin is a reinterpretation and expansion of the 1912 Morris Fuller Benton___s classic.",
   "dateAdded": null,
   "ossPath": "fonts-packages/PublicSansItalic",

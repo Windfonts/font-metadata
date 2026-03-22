@@ -65,7 +65,7 @@
   "version": "2.001.0",
   "copyright": "© 2014-2019 Adobe (http://www.adobe.com/), with Reserved Font Name 'Source'.",
   "license": {
-    "type": "联系授权",
+    "type": "免费商用",
     "spdx": null,
     "url": "http://scripts.sil.org/OFL",
     "commercial": null,
@@ -85,9 +85,36 @@
     "日语",
     "韩语"
   ],
-  "tags": [],
-  "keywords": [],
-  "useCases": [],
+  "tags": [
+    "中文",
+    "多字重",
+    "无衬线",
+    "日文",
+    "标题",
+    "现代",
+    "粗体",
+    "韩文",
+    "黑体"
+  ],
+  "keywords": [
+    "Source Han Sans HC",
+    "UI",
+    "广告",
+    "强调",
+    "思源黑體 香港",
+    "标题",
+    "海报",
+    "现代",
+    "简洁"
+  ],
+  "useCases": [
+    "UI 界面",
+    "品牌标识",
+    "导航菜单",
+    "标题设计",
+    "海报标题",
+    "网页正文"
+  ],
   "description": "Dr. Ken Lunde (project architect, glyph set definition & overall production); Masataka HATTORI 服部正貴 (production & ideograph elements)",
   "dateAdded": null,
   "ossPath": "fonts-packages/SourceHanSansHCRegular",

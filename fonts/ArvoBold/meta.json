@@ -28,7 +28,7 @@
   "version": "2.001.0",
   "copyright": "Copyright (c) 2013 by Anton Koovit.",
   "license": {
-    "type": "联系授权",
+    "type": "免费商用",
     "spdx": null,
     "url": "http://www.korkork.com/license/arvo/",
     "commercial": null,
@@ -40,9 +40,26 @@
   "languagesZh": [
     "英语"
   ],
-  "tags": [],
-  "keywords": [],
-  "useCases": [],
+  "tags": [
+    "传统",
+    "粗体",
+    "衬线"
+  ],
+  "keywords": [
+    "Arvo",
+    "印刷",
+    "广告",
+    "强调",
+    "标题",
+    "正式",
+    "阅读"
+  ],
+  "useCases": [
+    "书籍排版",
+    "学术论文",
+    "杂志正文",
+    "正式文档"
+  ],
   "description": "Copyright (c) 2013 by Anton Koovit. All rights reserved under SIL openfont License 1.1",
   "dateAdded": null,
   "ossPath": "fonts-packages/ArvoBold",

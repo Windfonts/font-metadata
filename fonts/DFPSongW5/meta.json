@@ -46,10 +46,32 @@
     "简体中文",
     "日语"
   ],
-  "tags": [],
-  "keywords": [],
-  "useCases": [],
-  "description": null,
+  "tags": [
+    "中文",
+    "传统",
+    "印刷",
+    "宋体",
+    "日文",
+    "衬线"
+  ],
+  "keywords": [
+    "DFPSongW5-GB",
+    "书籍",
+    "华康宋体W5(P)",
+    "印刷",
+    "报纸",
+    "排版",
+    "正式",
+    "阅读"
+  ],
+  "useCases": [
+    "书籍排版",
+    "学术论文",
+    "报纸正文",
+    "杂志正文",
+    "正式文档"
+  ],
+  "description": "华康宋体W5(P)是一款衬线字体，字重 400，支持英语、简体中文、日语。特点：传统、印刷、宋体。",
   "dateAdded": null,
   "ossPath": "fonts-packages/DFPSongW5",
   "_extraction": {

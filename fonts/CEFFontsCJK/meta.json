@@ -30,7 +30,7 @@
   "version": "0.1.0",
   "copyright": "派对大魔王(PartyBoss),All Rights Reserved",
   "license": {
-    "type": "联系授权",
+    "type": "免费商用",
     "spdx": null,
     "url": null,
     "commercial": null,
@@ -50,9 +50,26 @@
     "日语",
     "韩语"
   ],
-  "tags": [],
-  "keywords": [],
-  "useCases": [],
+  "tags": [
+    "中文",
+    "无衬线",
+    "日文",
+    "现代",
+    "韩文"
+  ],
+  "keywords": [
+    "CEF Fonts CJK",
+    "UI",
+    "快去寫作業-CJK",
+    "现代",
+    "简洁"
+  ],
+  "useCases": [
+    "UI 界面",
+    "品牌标识",
+    "海报标题",
+    "网页正文"
+  ],
   "description": "CJK统一汉字已补齐，正式进入Alpha阶段。期间的测试版更新会进行字形优化。字形由鼠标书写",
   "dateAdded": null,
   "ossPath": "fonts-packages/CEFFontsCJK",

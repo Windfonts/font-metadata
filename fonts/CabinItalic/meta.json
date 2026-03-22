@@ -49,7 +49,7 @@
   "version": "2.001.0",
   "copyright": "Copyright 2016 The Cabin Project Authors (impallari@gmail.com)",
   "license": {
-    "type": "联系授权",
+    "type": "免费商用",
     "spdx": null,
     "url": "http://scripts.sil.org/OFL",
     "commercial": null,
@@ -61,10 +61,27 @@
   "languagesZh": [
     "英语"
   ],
-  "tags": [],
-  "keywords": [],
-  "useCases": [],
-  "description": null,
+  "tags": [
+    "无衬线",
+    "现代",
+    "粗体"
+  ],
+  "keywords": [
+    "Cabin",
+    "UI",
+    "广告",
+    "强调",
+    "标题",
+    "现代",
+    "简洁"
+  ],
+  "useCases": [
+    "UI 界面",
+    "品牌标识",
+    "海报标题",
+    "网页正文"
+  ],
+  "description": "Cabin是一款无衬线字体，提供 4 个字重（400-700），支持英语。特点：现代、粗体。授权方式：免费商用。",
   "dateAdded": null,
   "ossPath": "fonts-packages/CabinItalic",
   "_extraction": {

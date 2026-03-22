@@ -65,7 +65,7 @@
   "version": "1.002.20150607",
   "copyright": "[Source Han Sans]\nCopyright © 2014, 2015 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name 'Source'.\n\n[M+ OUTLINE FONTS]\nCopyright(c) 2015 M+ FONTS PROJECT",
   "license": {
-    "type": "联系授权",
+    "type": "免费商用",
     "spdx": null,
     "url": "http://scripts.sil.org/OFL",
     "commercial": null,
@@ -83,9 +83,35 @@
     "繁体中文",
     "日语"
   ],
-  "tags": [],
-  "keywords": [],
-  "useCases": [],
+  "tags": [
+    "中文",
+    "代码",
+    "哥特",
+    "多字重",
+    "技术",
+    "无衬线",
+    "日文",
+    "等宽",
+    "粗体"
+  ],
+  "keywords": [
+    "Gen Shin Gothic Monospace",
+    "UI",
+    "广告",
+    "强调",
+    "技术",
+    "标题",
+    "现代",
+    "简洁",
+    "终端",
+    "编程"
+  ],
+  "useCases": [
+    "代码编辑器",
+    "技术文档",
+    "数据展示",
+    "终端界面"
+  ],
   "description": "Dr. Ken Lunde (project architect, glyph set definition & overall production); Masataka HATTORI  (production & ideograph elements)",
   "dateAdded": null,
   "ossPath": "fonts-packages/GenShinGothicMonospaceRegular",

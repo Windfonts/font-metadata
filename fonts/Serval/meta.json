@@ -28,7 +28,7 @@
   "version": "001.000.0",
   "copyright": "FREE FOR PERSONAL USE CONTACT ME FOR LICENCE PLEASE",
   "license": {
-    "type": "联系授权",
+    "type": "个人免费",
     "spdx": null,
     "url": null,
     "commercial": null,
@@ -40,10 +40,23 @@
   "languagesZh": [
     "英语"
   ],
-  "tags": [],
-  "keywords": [],
-  "useCases": [],
-  "description": null,
+  "tags": [
+    "传统",
+    "衬线"
+  ],
+  "keywords": [
+    "Serval",
+    "印刷",
+    "正式",
+    "阅读"
+  ],
+  "useCases": [
+    "书籍排版",
+    "学术论文",
+    "杂志正文",
+    "正式文档"
+  ],
+  "description": "Serval是一款衬线字体，字重 400，支持英语。特点：传统。授权方式：个人免费。",
   "dateAdded": null,
   "ossPath": "fonts-packages/Serval",
   "_extraction": {

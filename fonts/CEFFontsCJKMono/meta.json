@@ -50,9 +50,27 @@
     "日语",
     "韩语"
   ],
-  "tags": [],
-  "keywords": [],
-  "useCases": [],
+  "tags": [
+    "中文",
+    "代码",
+    "技术",
+    "日文",
+    "等宽",
+    "韩文"
+  ],
+  "keywords": [
+    "CEF Fonts CJK Mono",
+    "快去写代码-CJK",
+    "技术",
+    "终端",
+    "编程"
+  ],
+  "useCases": [
+    "代码编辑器",
+    "技术文档",
+    "数据展示",
+    "终端界面"
+  ],
   "description": "CEF Fonts CJK Mono是一套完全由滑鼠進行書寫的字型。",
   "dateAdded": null,
   "ossPath": "fonts-packages/CEFFontsCJKMono",

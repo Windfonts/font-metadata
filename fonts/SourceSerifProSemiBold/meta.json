@@ -28,7 +28,7 @@
   "version": "2.000.0",
   "copyright": "Copyright 2014, 2015, 2016 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name 'Source'.",
   "license": {
-    "type": "联系授权",
+    "type": "免费商用",
     "spdx": null,
     "url": "http://scripts.sil.org/OFL",
     "commercial": null,
@@ -40,10 +40,23 @@
   "languagesZh": [
     "英语"
   ],
-  "tags": [],
-  "keywords": [],
-  "useCases": [],
-  "description": null,
+  "tags": [
+    "传统",
+    "衬线"
+  ],
+  "keywords": [
+    "Source Serif Pro",
+    "印刷",
+    "正式",
+    "阅读"
+  ],
+  "useCases": [
+    "书籍排版",
+    "学术论文",
+    "杂志正文",
+    "正式文档"
+  ],
+  "description": "Source Serif Pro是一款衬线字体，字重 600，支持英语。特点：传统。授权方式：免费商用。",
   "dateAdded": null,
   "ossPath": "fonts-packages/SourceSerifProSemiBold",
   "_extraction": {

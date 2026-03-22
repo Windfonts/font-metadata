@@ -48,9 +48,25 @@
     "繁体中文",
     "日语"
   ],
-  "tags": [],
-  "keywords": [],
-  "useCases": [],
+  "tags": [
+    "中文",
+    "传统",
+    "日文",
+    "衬线"
+  ],
+  "keywords": [
+    "cwTeX 明體",
+    "cwTeXMing",
+    "印刷",
+    "正式",
+    "阅读"
+  ],
+  "useCases": [
+    "书籍排版",
+    "学术论文",
+    "杂志正文",
+    "正式文档"
+  ],
   "description": "Ministry of Education, R.O.C. All rights reserved.",
   "dateAdded": null,
   "ossPath": "fonts-packages/cwTeXMing",

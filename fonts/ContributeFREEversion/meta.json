@@ -40,10 +40,23 @@
   "languagesZh": [
     "英语"
   ],
-  "tags": [],
-  "keywords": [],
-  "useCases": [],
-  "description": null,
+  "tags": [
+    "传统",
+    "衬线"
+  ],
+  "keywords": [
+    "Contribute_FREE-version",
+    "印刷",
+    "正式",
+    "阅读"
+  ],
+  "useCases": [
+    "书籍排版",
+    "学术论文",
+    "杂志正文",
+    "正式文档"
+  ],
+  "description": "Contribute_FREE-version是一款衬线字体，字重 400，支持英语。特点：传统。",
   "dateAdded": null,
   "ossPath": "fonts-packages/ContributeFREEversion",
   "_extraction": {

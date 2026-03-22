@@ -44,7 +44,7 @@
   "version": "1.000.0",
   "copyright": "Taipei Sans TC is a modified font of Source Han Sans.",
   "license": {
-    "type": "联系授权",
+    "type": "免费商用",
     "spdx": null,
     "url": "http://scripts.sil.org/OFL",
     "commercial": null,
@@ -62,10 +62,29 @@
     "繁体中文",
     "日语"
   ],
-  "tags": [],
-  "keywords": [],
-  "useCases": [],
-  "description": null,
+  "tags": [
+    "中文",
+    "无衬线",
+    "日文",
+    "现代",
+    "粗体"
+  ],
+  "keywords": [
+    "Taipei Sans TC Beta",
+    "UI",
+    "广告",
+    "强调",
+    "标题",
+    "现代",
+    "简洁"
+  ],
+  "useCases": [
+    "UI 界面",
+    "品牌标识",
+    "海报标题",
+    "网页正文"
+  ],
+  "description": "Taipei Sans TC Beta是一款无衬线字体，提供 3 个字重（300-700），支持英语、简体中文、繁体中文、日语。特点：现代、粗体。授权方式：免费商用。",
   "dateAdded": null,
   "ossPath": "fonts-packages/TaipeiSansTCBetaRegular",
   "_extraction": {

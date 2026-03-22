@@ -30,7 +30,7 @@
   "version": "1.00.0",
   "copyright": "Copyright 2020 Maoken,XinYuGong \"MaoKenWangWenMingSong-L\" font is redistributed by maoken.com",
   "license": {
-    "type": "联系授权",
+    "type": "免费商用",
     "spdx": null,
     "url": "http://scripts.sil.org/OFL",
     "commercial": null,
@@ -48,10 +48,32 @@
     "繁体中文",
     "日语"
   ],
-  "tags": [],
-  "keywords": [],
-  "useCases": [],
-  "description": null,
+  "tags": [
+    "中文",
+    "传统",
+    "印刷",
+    "宋体",
+    "日文",
+    "衬线"
+  ],
+  "keywords": [
+    "MaoKenWangWenMingSong-L",
+    "书籍",
+    "印刷",
+    "报纸",
+    "排版",
+    "正式",
+    "猫啃网文明宋-L",
+    "阅读"
+  ],
+  "useCases": [
+    "书籍排版",
+    "学术论文",
+    "报纸正文",
+    "杂志正文",
+    "正式文档"
+  ],
+  "description": "猫啃网文明宋-L是一款衬线字体，字重 200，支持英语、简体中文、繁体中文、日语。特点：传统、印刷、宋体。授权方式：免费商用。",
   "dateAdded": null,
   "ossPath": "fonts-packages/XinYuGongHeXieSongLLight",
   "_extraction": {

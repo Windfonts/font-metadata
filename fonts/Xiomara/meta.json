@@ -28,7 +28,7 @@
   "version": "1.40.0",
   "copyright": "Typeface © (your company). 2013. All Rights Reserved",
   "license": {
-    "type": "联系授权",
+    "type": "个人免费",
     "spdx": null,
     "url": "http://www.nymfont.com/2009/07/terms-of-useend-user-license-agreement.html",
     "commercial": null,
@@ -42,9 +42,28 @@
     "英语",
     "日语"
   ],
-  "tags": [],
-  "keywords": [],
-  "useCases": [],
+  "tags": [
+    "书法",
+    "手写",
+    "日文"
+  ],
+  "keywords": [
+    "Xiomara",
+    "个性",
+    "传统",
+    "国风",
+    "文化",
+    "文艺",
+    "贺卡"
+  ],
+  "useCases": [
+    "个人博客",
+    "包装设计",
+    "国风设计",
+    "文化活动",
+    "文艺海报",
+    "贺卡设计"
+  ],
   "description": "This font was created using FontCreator 5.6 from High-Logic.com",
   "dateAdded": null,
   "ossPath": "fonts-packages/Xiomara",

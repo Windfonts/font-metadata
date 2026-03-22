@@ -48,10 +48,26 @@
     "繁体中文",
     "日语"
   ],
-  "tags": [],
-  "keywords": [],
-  "useCases": [],
-  "description": null,
+  "tags": [
+    "中文",
+    "无衬线",
+    "日文",
+    "现代"
+  ],
+  "keywords": [
+    "DFPLiShuW7-B5",
+    "UI",
+    "现代",
+    "简洁",
+    "華康隸書體W7(P)"
+  ],
+  "useCases": [
+    "UI 界面",
+    "品牌标识",
+    "海报标题",
+    "网页正文"
+  ],
+  "description": "華康隸書體W7(P)是一款无衬线字体，字重 400，支持英语、简体中文、繁体中文、日语。特点：现代。",
   "dateAdded": null,
   "ossPath": "fonts-packages/DFLiShuW7HKPBF",
   "_extraction": {

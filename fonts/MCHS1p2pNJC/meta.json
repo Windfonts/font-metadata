@@ -55,9 +55,28 @@
     "繁体中文",
     "日语"
   ],
-  "tags": [],
-  "keywords": [],
-  "useCases": [],
+  "tags": [
+    "中文",
+    "传统",
+    "日文",
+    "粗体",
+    "衬线"
+  ],
+  "keywords": [
+    "M+ CHS 1p2p NJC",
+    "印刷",
+    "广告",
+    "强调",
+    "标题",
+    "正式",
+    "阅读"
+  ],
+  "useCases": [
+    "书籍排版",
+    "学术论文",
+    "杂志正文",
+    "正式文档"
+  ],
   "description": "Õâ¸ö°M+“JK Gothic L”thic 2014ÖM+2c»ùÓÚ2014°æM+2M+©¸Ä¶ø“JK¬”ÇÖ±Ó´ÓÔ°æM+2016ÔM+ 2",
   "dateAdded": null,
   "ossPath": "fonts-packages/MCHS1p2pNJC",

@@ -35,7 +35,7 @@
   "version": "1.00.0",
   "copyright": "Digitized data copyright ?2007, Google Corporation.",
   "license": {
-    "type": "联系授权",
+    "type": "免费商用",
     "spdx": null,
     "url": "http://www.apache.org/licenses/LICENSE-2.0",
     "commercial": null,
@@ -47,9 +47,26 @@
   "languagesZh": [
     "英语"
   ],
-  "tags": [],
-  "keywords": [],
-  "useCases": [],
+  "tags": [
+    "无衬线",
+    "现代",
+    "粗体"
+  ],
+  "keywords": [
+    "Droid Sans",
+    "UI",
+    "广告",
+    "强调",
+    "标题",
+    "现代",
+    "简洁"
+  ],
+  "useCases": [
+    "UI 界面",
+    "品牌标识",
+    "海报标题",
+    "网页正文"
+  ],
   "description": "Droid Sans is a humanist sans serif typeface designed for user interfaces and electronic communication.",
   "dateAdded": null,
   "ossPath": "fonts-packages/DroidSans",

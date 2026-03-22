@@ -30,7 +30,7 @@
   "version": "3.11.0",
   "copyright": "Copyright © 2020 LXGW",
   "license": {
-    "type": "联系授权",
+    "type": "免费商用",
     "spdx": null,
     "url": "http://scripts.sil.org/OFL",
     "commercial": null,
@@ -50,9 +50,25 @@
     "日语",
     "韩语"
   ],
-  "tags": [],
-  "keywords": [],
-  "useCases": [],
+  "tags": [
+    "中文",
+    "无衬线",
+    "日文",
+    "现代",
+    "韩文"
+  ],
+  "keywords": [
+    "UI",
+    "小賴字體 SC",
+    "现代",
+    "简洁"
+  ],
+  "useCases": [
+    "UI 界面",
+    "品牌标识",
+    "海报标题",
+    "网页正文"
+  ],
   "description": "This font was created using FontCreator  from High-Logic.com",
   "dateAdded": null,
   "ossPath": "fonts-packages/XiaolaiSC",

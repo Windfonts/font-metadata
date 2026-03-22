@@ -65,7 +65,7 @@
   "version": "1.00.0",
   "copyright": "Copyright © 2014 Adobe Systems Incorporated. All Rights Reserved.",
   "license": {
-    "type": "联系授权",
+    "type": "免费商用",
     "spdx": null,
     "url": "http://www.apache.org/licenses/LICENSE-2.0.html",
     "commercial": null,
@@ -83,9 +83,34 @@
     "繁体中文",
     "日语"
   ],
-  "tags": [],
-  "keywords": [],
-  "useCases": [],
+  "tags": [
+    "中文",
+    "多字重",
+    "无衬线",
+    "日文",
+    "标题",
+    "现代",
+    "粗体",
+    "黑体"
+  ],
+  "keywords": [
+    "UI",
+    "广告",
+    "强调",
+    "思源黑体斜体",
+    "标题",
+    "海报",
+    "现代",
+    "简洁"
+  ],
+  "useCases": [
+    "UI 界面",
+    "品牌标识",
+    "导航菜单",
+    "标题设计",
+    "海报标题",
+    "网页正文"
+  ],
   "description": "Dr. Ken Lunde (project architect, glyph set definition & overall production); Masataka HATTORI 服部正貴 (production & ideograph elements)",
   "dateAdded": null,
   "ossPath": "fonts-packages/SourceHanSansXTRegular",

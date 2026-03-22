@@ -28,7 +28,7 @@
   "version": "1.007.0",
   "copyright": "Copyright (c) 2012, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name \"Capriola\".",
   "license": {
-    "type": "联系授权",
+    "type": "免费商用",
     "spdx": null,
     "url": "http://scripts.sil.org/OFL",
     "commercial": null,
@@ -40,9 +40,22 @@
   "languagesZh": [
     "英语"
   ],
-  "tags": [],
-  "keywords": [],
-  "useCases": [],
+  "tags": [
+    "传统",
+    "衬线"
+  ],
+  "keywords": [
+    "Capriola",
+    "印刷",
+    "正式",
+    "阅读"
+  ],
+  "useCases": [
+    "书籍排版",
+    "学术论文",
+    "杂志正文",
+    "正式文档"
+  ],
   "description": "Capriola is a sans-serif typeface whose unique style draws upon forms seen in handwriting and italic types. Skeletons of the most characteristic glyphs are inspired by quick handwriting and based on a single hand movement (G,a,g,k,e). Capriola ambitiously seeks to push the boundaries of originality in the genre without losing legibility. The unusual glyphs are quite noticeable in large sizes which allows for distinctive headlines. However in small sizes these gestures become less noticeable making it possible to set longer texts. The name \"Capriola\" means somersault in English. Such glyphs as \"a\", \"e\" or \"G\" are the real acrobats and the \"g\" makes a double salto! Capriola was spaced for web. Capriola's originality combined with utility makes it ideal for a wide range of uses.",
   "dateAdded": null,
   "ossPath": "fonts-packages/CapriolaRegular",

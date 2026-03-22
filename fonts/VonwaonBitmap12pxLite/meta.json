@@ -43,10 +43,25 @@
     "英语",
     "简体中文"
   ],
-  "tags": [],
-  "keywords": [],
-  "useCases": [],
-  "description": null,
+  "tags": [
+    "中文",
+    "创意",
+    "展示"
+  ],
+  "keywords": [
+    "VonwaonBitmap 12px Lite",
+    "凤凰点阵体 12px Lite",
+    "品牌",
+    "海报",
+    "设计"
+  ],
+  "useCases": [
+    "品牌 Logo",
+    "封面设计",
+    "广告设计",
+    "海报标题"
+  ],
+  "description": "凤凰点阵体 12px Lite是一款展示字体，字重 400，支持英语、简体中文。特点：创意、展示。",
   "dateAdded": null,
   "ossPath": "fonts-packages/VonwaonBitmap12pxLite",
   "_extraction": {

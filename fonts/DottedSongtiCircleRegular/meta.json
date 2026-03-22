@@ -30,7 +30,7 @@
   "version": "0.1.0",
   "copyright": "Copyright (C) 2020 wixette",
   "license": {
-    "type": "联系授权",
+    "type": "免费商用",
     "spdx": null,
     "url": null,
     "commercial": null,
@@ -48,10 +48,38 @@
     "繁体中文",
     "日语"
   ],
-  "tags": [],
-  "keywords": [],
-  "useCases": [],
-  "description": null,
+  "tags": [
+    "中文",
+    "像素",
+    "圆体",
+    "复古",
+    "无衬线",
+    "日文",
+    "柔和",
+    "游戏",
+    "现代"
+  ],
+  "keywords": [
+    "8bit",
+    "UI",
+    "亲和",
+    "包装",
+    "品牌",
+    "复古",
+    "游戏",
+    "点点像素体-圆形",
+    "现代",
+    "简洁"
+  ],
+  "useCases": [
+    "UI 界面",
+    "品牌标识",
+    "复古设计",
+    "海报标题",
+    "游戏界面",
+    "网页正文"
+  ],
+  "description": "点点像素体-圆形是一款无衬线字体，字重 500，支持英语、简体中文、繁体中文、日语。特点：像素、圆体、复古、柔和。授权方式：免费商用。",
   "dateAdded": null,
   "ossPath": "fonts-packages/DottedSongtiCircleRegular",
   "_extraction": {

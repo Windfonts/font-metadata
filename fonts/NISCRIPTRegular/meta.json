@@ -28,7 +28,7 @@
   "version": "1.0.0",
   "copyright": "\n",
   "license": {
-    "type": "联系授权",
+    "type": "免费商用",
     "spdx": null,
     "url": "http://scripts.sil.org/OFL",
     "commercial": null,
@@ -40,10 +40,28 @@
   "languagesZh": [
     "英语"
   ],
-  "tags": [],
-  "keywords": [],
-  "useCases": [],
-  "description": null,
+  "tags": [
+    "书法",
+    "手写"
+  ],
+  "keywords": [
+    "NISCRIPT",
+    "个性",
+    "传统",
+    "国风",
+    "文化",
+    "文艺",
+    "贺卡"
+  ],
+  "useCases": [
+    "个人博客",
+    "包装设计",
+    "国风设计",
+    "文化活动",
+    "文艺海报",
+    "贺卡设计"
+  ],
+  "description": "NISCRIPT是一款手写体，字重 400，支持英语。特点：书法。授权方式：免费商用。",
   "dateAdded": null,
   "ossPath": "fonts-packages/NISCRIPTRegular",
   "_extraction": {

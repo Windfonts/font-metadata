@@ -65,7 +65,7 @@
   "version": "1.00.0",
   "copyright": "Copyright © 2014 Adobe Systems Incorporated. All Rights Reserved.",
   "license": {
-    "type": "联系授权",
+    "type": "免费商用",
     "spdx": null,
     "url": "http://www.apache.org/licenses/LICENSE-2.0.html",
     "commercial": null,
@@ -85,9 +85,30 @@
     "日语",
     "韩语"
   ],
-  "tags": [],
-  "keywords": [],
-  "useCases": [],
+  "tags": [
+    "中文",
+    "多字重",
+    "无衬线",
+    "日文",
+    "现代",
+    "粗体",
+    "韩文"
+  ],
+  "keywords": [
+    "Source Han Sans K",
+    "UI",
+    "广告",
+    "强调",
+    "标题",
+    "现代",
+    "简洁"
+  ],
+  "useCases": [
+    "UI 界面",
+    "品牌标识",
+    "海报标题",
+    "网页正文"
+  ],
   "description": "Dr. Ken Lunde (project architect, glyph set definition & overall production); Masataka HATTORI  (production & ideograph elements)",
   "dateAdded": null,
   "ossPath": "fonts-packages/SourceHanSansKRegular",

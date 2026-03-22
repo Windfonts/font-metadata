@@ -28,7 +28,7 @@
   "version": "0.01.0",
   "copyright": "Created by Sebastian Kosch with FontForge 2.0 (http://fontforge.sf.net). License: Open Font License",
   "license": {
-    "type": "联系授权",
+    "type": "免费商用",
     "spdx": null,
     "url": "http://scripts.sil.org/OFL",
     "commercial": null,
@@ -40,10 +40,27 @@
   "languagesZh": [
     "英语"
   ],
-  "tags": [],
-  "keywords": [],
-  "useCases": [],
-  "description": null,
+  "tags": [
+    "传统",
+    "正文",
+    "衬线",
+    "阅读"
+  ],
+  "keywords": [
+    "Crimson Text",
+    "书籍",
+    "印刷",
+    "正式",
+    "长文",
+    "阅读"
+  ],
+  "useCases": [
+    "书籍排版",
+    "学术论文",
+    "杂志正文",
+    "正式文档"
+  ],
+  "description": "Crimson Text是一款衬线字体，字重 500，支持英语。特点：传统、正文、阅读。授权方式：免费商用。",
   "dateAdded": null,
   "ossPath": "fonts-packages/crimsontextroman",
   "_extraction": {

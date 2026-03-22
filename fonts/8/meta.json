@@ -43,10 +43,25 @@
     "英语",
     "简体中文"
   ],
-  "tags": [],
-  "keywords": [],
-  "useCases": [],
-  "description": null,
+  "tags": [
+    "中文",
+    "无衬线",
+    "现代"
+  ],
+  "keywords": [
+    "UI",
+    " ÈÃÂ∑",
+    "书体坊雪纯体3500",
+    "现代",
+    "简洁"
+  ],
+  "useCases": [
+    "UI 界面",
+    "品牌标识",
+    "海报标题",
+    "网页正文"
+  ],
+  "description": "书体坊雪纯体3500是一款无衬线字体，字重 400，支持英语、简体中文。特点：现代。",
   "dateAdded": null,
   "ossPath": "fonts-packages/8",
   "_extraction": {

@@ -28,7 +28,7 @@
   "version": "4.10.0",
   "copyright": "Typeface © Out Of Step Font Company. 2017. All Rights Reserved",
   "license": {
-    "type": "联系授权",
+    "type": "试用版",
     "spdx": null,
     "url": "http://outofstepfontco.com/pages/licensing",
     "commercial": null,
@@ -40,9 +40,22 @@
   "languagesZh": [
     "英语"
   ],
-  "tags": [],
-  "keywords": [],
-  "useCases": [],
+  "tags": [
+    "创意",
+    "展示"
+  ],
+  "keywords": [
+    "Batter Up Regular Demo",
+    "品牌",
+    "海报",
+    "设计"
+  ],
+  "useCases": [
+    "品牌 Logo",
+    "封面设计",
+    "广告设计",
+    "海报标题"
+  ],
   "description": "© Out Of Step Font Company 2017",
   "dateAdded": null,
   "ossPath": "fonts-packages/BatterUpRegularDemo",

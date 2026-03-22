@@ -72,7 +72,7 @@
   "version": "1.200.0",
   "copyright": "This is a modified font of Source Han Serif'.",
   "license": {
-    "type": "联系授权",
+    "type": "免费商用",
     "spdx": null,
     "url": "http://scripts.sil.org/OFL",
     "commercial": null,
@@ -90,10 +90,31 @@
     "繁体中文",
     "日语"
   ],
-  "tags": [],
-  "keywords": [],
-  "useCases": [],
-  "description": null,
+  "tags": [
+    "中文",
+    "传统",
+    "多字重",
+    "日文",
+    "粗体",
+    "衬线"
+  ],
+  "keywords": [
+    "GenRyuMin TW TTF",
+    "印刷",
+    "广告",
+    "强调",
+    "标题",
+    "正式",
+    "源流明體 TTF",
+    "阅读"
+  ],
+  "useCases": [
+    "书籍排版",
+    "学术论文",
+    "杂志正文",
+    "正式文档"
+  ],
+  "description": "源流明體 TTF是一款衬线字体，提供 7 个字重（200-900），支持英语、简体中文、繁体中文、日语。特点：传统、多字重、粗体。授权方式：免费商用。",
   "dateAdded": null,
   "ossPath": "fonts-packages/GenRyuMinTWRegularTTF",
   "_extraction": {

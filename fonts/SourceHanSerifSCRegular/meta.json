@@ -72,7 +72,7 @@
   "version": "1.000.0",
   "copyright": "Copyright © 2017 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name 'Source'.",
   "license": {
-    "type": "联系授权",
+    "type": "免费商用",
     "spdx": null,
     "url": "http://scripts.sil.org/OFL",
     "commercial": null,
@@ -92,9 +92,37 @@
     "日语",
     "韩语"
   ],
-  "tags": [],
-  "keywords": [],
-  "useCases": [],
+  "tags": [
+    "中文",
+    "传统",
+    "印刷",
+    "多字重",
+    "宋体",
+    "日文",
+    "粗体",
+    "衬线",
+    "韩文"
+  ],
+  "keywords": [
+    "Source Han Serif SC",
+    "书籍",
+    "印刷",
+    "广告",
+    "强调",
+    "思源宋体",
+    "报纸",
+    "排版",
+    "标题",
+    "正式",
+    "阅读"
+  ],
+  "useCases": [
+    "书籍排版",
+    "学术论文",
+    "报纸正文",
+    "杂志正文",
+    "正式文档"
+  ],
   "description": "Dr. Ken Lunde (project architect, glyph set definition & overall production); Masataka HATTORI 服部正貴 (production & ideograph elements)",
   "dateAdded": null,
   "ossPath": "fonts-packages/SourceHanSerifSCRegular",

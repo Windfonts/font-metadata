@@ -72,7 +72,7 @@
   "version": "1.000.0",
   "copyright": "Copyright © 2017 Adobe Systems Incorporated (http://www.adobe.com/).",
   "license": {
-    "type": "联系授权",
+    "type": "免费商用",
     "spdx": null,
     "url": "http://scripts.sil.org/OFL",
     "commercial": null,
@@ -92,9 +92,30 @@
     "日语",
     "韩语"
   ],
-  "tags": [],
-  "keywords": [],
-  "useCases": [],
+  "tags": [
+    "中文",
+    "传统",
+    "多字重",
+    "日文",
+    "粗体",
+    "衬线",
+    "韩文"
+  ],
+  "keywords": [
+    "Noto Serif CJK SC",
+    "印刷",
+    "广告",
+    "强调",
+    "标题",
+    "正式",
+    "阅读"
+  ],
+  "useCases": [
+    "书籍排版",
+    "学术论文",
+    "杂志正文",
+    "正式文档"
+  ],
   "description": "Dr. Ken Lunde (project architect, glyph set definition & overall production); Masataka HATTORI 服部正貴 (production & ideograph elements)",
   "dateAdded": null,
   "ossPath": "fonts-packages/NotoSerifCJKscRegular",

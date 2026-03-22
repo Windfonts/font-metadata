@@ -44,10 +44,31 @@
     "英语",
     "简体中文"
   ],
-  "tags": [],
-  "keywords": [],
-  "useCases": [],
-  "description": null,
+  "tags": [
+    "中文",
+    "传统",
+    "印刷",
+    "宋体",
+    "衬线"
+  ],
+  "keywords": [
+    "Fontquan-XinYiJiXiangSong",
+    "书籍",
+    "印刷",
+    "字体圈欣意吉祥宋",
+    "报纸",
+    "排版",
+    "正式",
+    "阅读"
+  ],
+  "useCases": [
+    "书籍排版",
+    "学术论文",
+    "报纸正文",
+    "杂志正文",
+    "正式文档"
+  ],
+  "description": "字体圈欣意吉祥宋是一款衬线字体，字重 400，支持英语、简体中文。特点：传统、印刷、宋体。",
   "dateAdded": null,
   "ossPath": "fonts-packages/FontquanXinYiJiXiangSongRegular",
   "_extraction": {

@@ -44,7 +44,7 @@
   "version": "2.001.0",
   "copyright": "(c) 2014-2019 Adobe (http://www.adobe.com/).",
   "license": {
-    "type": "联系授权",
+    "type": "免费商用",
     "spdx": null,
     "url": "http://scripts.sil.org/OFL",
     "commercial": null,
@@ -64,10 +64,36 @@
     "日语",
     "韩语"
   ],
-  "tags": [],
-  "keywords": [],
-  "useCases": [],
-  "description": null,
+  "tags": [
+    "中文",
+    "圆体",
+    "无衬线",
+    "日文",
+    "柔和",
+    "现代",
+    "粗体",
+    "韩文"
+  ],
+  "keywords": [
+    "975 圆体",
+    "975Maru SC",
+    "UI",
+    "亲和",
+    "包装",
+    "品牌",
+    "广告",
+    "强调",
+    "标题",
+    "现代",
+    "简洁"
+  ],
+  "useCases": [
+    "UI 界面",
+    "品牌标识",
+    "海报标题",
+    "网页正文"
+  ],
+  "description": "975 圆体是一款无衬线字体，提供 3 个字重（400-700），支持英语、简体中文、繁体中文、日语、韩语。特点：圆体、柔和、现代、粗体。授权方式：免费商用。",
   "dateAdded": null,
   "ossPath": "fonts-packages/975MaruSCRegular",
   "_extraction": {

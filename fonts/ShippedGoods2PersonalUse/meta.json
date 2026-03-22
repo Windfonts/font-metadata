@@ -40,9 +40,22 @@
   "languagesZh": [
     "英语"
   ],
-  "tags": [],
-  "keywords": [],
-  "useCases": [],
+  "tags": [
+    "无衬线",
+    "现代"
+  ],
+  "keywords": [
+    "Shipped Goods 2 (Personal Use)",
+    "UI",
+    "现代",
+    "简洁"
+  ],
+  "useCases": [
+    "UI 界面",
+    "品牌标识",
+    "海报标题",
+    "网页正文"
+  ],
   "description": "Copyright (c) 2011 by MÂns Greb‰ck. All rights reserved.",
   "dateAdded": null,
   "ossPath": "fonts-packages/ShippedGoods2PersonalUse",

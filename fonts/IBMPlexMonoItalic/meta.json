@@ -82,10 +82,29 @@
   "languagesZh": [
     "英语"
   ],
-  "tags": [],
-  "keywords": [],
-  "useCases": [],
-  "description": null,
+  "tags": [
+    "代码",
+    "多字重",
+    "技术",
+    "等宽",
+    "粗体"
+  ],
+  "keywords": [
+    "IBM Plex Mono",
+    "广告",
+    "强调",
+    "技术",
+    "标题",
+    "终端",
+    "编程"
+  ],
+  "useCases": [
+    "代码编辑器",
+    "技术文档",
+    "数据展示",
+    "终端界面"
+  ],
+  "description": "IBM Plex Mono是一款等宽字体，提供 7 个字重（100-700），支持英语。特点：代码、多字重、技术、粗体。",
   "dateAdded": null,
   "ossPath": "fonts-packages/IBMPlexMonoItalic",
   "_extraction": {

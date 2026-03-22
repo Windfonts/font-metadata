@@ -30,7 +30,7 @@
   "version": "1.00.0",
   "copyright": "Adobe Systems Incorporated",
   "license": {
-    "type": "联系授权",
+    "type": "免费商用",
     "spdx": null,
     "url": "http://scripts.sil.org/OFL",
     "commercial": null,
@@ -48,9 +48,25 @@
     "繁体中文",
     "日语"
   ],
-  "tags": [],
-  "keywords": [],
-  "useCases": [],
+  "tags": [
+    "中文",
+    "传统",
+    "日文",
+    "明朝",
+    "衬线"
+  ],
+  "keywords": [
+    "SoukouMincho",
+    "印刷",
+    "正式",
+    "阅读"
+  ],
+  "useCases": [
+    "书籍排版",
+    "学术论文",
+    "杂志正文",
+    "正式文档"
+  ],
   "description": "Dr. Ken Lunde (project architect, glyph set definition & overall production); Masataka HATTORI \\u670D \\u90E8 \\u6B63 \\u8CB4  (production & ideograph elements)",
   "dateAdded": null,
   "ossPath": "fonts-packages/SoukouMincho",

@@ -48,10 +48,25 @@
     "繁体中文",
     "日语"
   ],
-  "tags": [],
-  "keywords": [],
-  "useCases": [],
-  "description": null,
+  "tags": [
+    "中文",
+    "传统",
+    "日文",
+    "衬线"
+  ],
+  "keywords": [
+    "HanaMinA",
+    "印刷",
+    "正式",
+    "阅读"
+  ],
+  "useCases": [
+    "书籍排版",
+    "学术论文",
+    "杂志正文",
+    "正式文档"
+  ],
+  "description": "HanaMinA是一款衬线字体，字重 500，支持英语、简体中文、繁体中文、日语。特点：传统。",
   "dateAdded": null,
   "ossPath": "fonts-packages/HanaMinA",
   "_extraction": {

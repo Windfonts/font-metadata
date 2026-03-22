@@ -30,7 +30,7 @@
   "version": "1.00.0",
   "copyright": "Copyright Shanghai PinTu Network Technology Co.,Ltd.",
   "license": {
-    "type": "联系授权",
+    "type": "免费商用",
     "spdx": null,
     "url": null,
     "commercial": null,
@@ -48,9 +48,25 @@
     "繁体中文",
     "日语"
   ],
-  "tags": [],
-  "keywords": [],
-  "useCases": [],
+  "tags": [
+    "中文",
+    "无衬线",
+    "日文",
+    "现代"
+  ],
+  "keywords": [
+    "UI",
+    "qiantuxuehuati",
+    "千图雪花体",
+    "现代",
+    "简洁"
+  ],
+  "useCases": [
+    "UI 界面",
+    "品牌标识",
+    "海报标题",
+    "网页正文"
+  ],
   "description": "https://58pic.com/",
   "dateAdded": null,
   "ossPath": "fonts-packages/qiantuxuehuati",

@@ -30,7 +30,7 @@
   "version": "1.000.0",
   "copyright": "Copyright © Beijing Tsanger Character Technology Co., Ltd.. All rights reserved.",
   "license": {
-    "type": "联系授权",
+    "type": "免费商用",
     "spdx": null,
     "url": null,
     "commercial": null,
@@ -44,10 +44,24 @@
     "英语",
     "简体中文"
   ],
-  "tags": [],
-  "keywords": [],
-  "useCases": [],
-  "description": null,
+  "tags": [
+    "中文",
+    "传统",
+    "衬线"
+  ],
+  "keywords": [
+    "TsangerFeiBai",
+    "印刷",
+    "正式",
+    "阅读"
+  ],
+  "useCases": [
+    "书籍排版",
+    "学术论文",
+    "杂志正文",
+    "正式文档"
+  ],
+  "description": "TsangerFeiBai是一款衬线字体，字重 400，支持英语、简体中文。特点：传统。授权方式：免费商用。",
   "dateAdded": null,
   "ossPath": "fonts-packages/TsangerFeiBaiW01",
   "_extraction": {

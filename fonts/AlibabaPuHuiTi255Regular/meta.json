@@ -79,7 +79,7 @@
   "version": "2.00.0",
   "copyright": "Copyright ?2020-2021 Alibaba (China) Co., Ltd. All rights reserved.",
   "license": {
-    "type": "联系授权",
+    "type": "免费商用",
     "spdx": null,
     "url": null,
     "commercial": null,
@@ -97,9 +97,30 @@
     "繁体中文",
     "日语"
   ],
-  "tags": [],
-  "keywords": [],
-  "useCases": [],
+  "tags": [
+    "中文",
+    "多字重",
+    "无衬线",
+    "日文",
+    "现代",
+    "粗体"
+  ],
+  "keywords": [
+    "Alibaba PuHuiTi 2.0",
+    "UI",
+    "广告",
+    "强调",
+    "标题",
+    "现代",
+    "简洁",
+    "阿里巴巴普惠体 2.0"
+  ],
+  "useCases": [
+    "UI 界面",
+    "品牌标识",
+    "海报标题",
+    "网页正文"
+  ],
   "description": "GB18030-2000",
   "dateAdded": null,
   "ossPath": "fonts-packages/AlibabaPuHuiTi255Regular",

@@ -44,7 +44,7 @@
   "version": "0.85.0",
   "copyright": "Copyright (C) 2020 LXGW. Original Font Data Copyright (C) Y.OzVox.",
   "license": {
-    "type": "联系授权",
+    "type": "免费商用",
     "spdx": null,
     "url": "http://scripts.sil.org/OFL",
     "commercial": null,
@@ -62,9 +62,25 @@
     "繁体中文",
     "日语"
   ],
-  "tags": [],
-  "keywords": [],
-  "useCases": [],
+  "tags": [
+    "中文",
+    "无衬线",
+    "日文",
+    "现代"
+  ],
+  "keywords": [
+    "UI",
+    "Yozai",
+    "悠哉字体",
+    "现代",
+    "简洁"
+  ],
+  "useCases": [
+    "UI 界面",
+    "品牌标识",
+    "海报标题",
+    "网页正文"
+  ],
   "description": "This font was created using FontCreator  from High-Logic.com",
   "dateAdded": null,
   "ossPath": "fonts-packages/Yozai",

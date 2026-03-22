@@ -30,7 +30,7 @@
   "version": "1.004.0",
   "copyright": "(C) Dr. Hann-Tzong Wang, 1999-2004; (C) Ichiten Fonts Project, 2013-14. This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public Linense as published by the Free Software Foundation; either version 2 of the License, or any later version.",
   "license": {
-    "type": "联系授权",
+    "type": "免费商用",
     "spdx": null,
     "url": "http://www.gnu.org/licenses/gpl.txt",
     "commercial": null,
@@ -48,10 +48,25 @@
     "繁体中文",
     "日语"
   ],
-  "tags": [],
-  "keywords": [],
-  "useCases": [],
-  "description": null,
+  "tags": [
+    "中文",
+    "传统",
+    "日文",
+    "衬线"
+  ],
+  "keywords": [
+    "I.Ngaan",
+    "印刷",
+    "正式",
+    "阅读"
+  ],
+  "useCases": [
+    "书籍排版",
+    "学术论文",
+    "杂志正文",
+    "正式文档"
+  ],
+  "description": "I.Ngaan是一款衬线字体，字重 400，支持英语、简体中文、繁体中文、日语。特点：传统。授权方式：免费商用。",
   "dateAdded": null,
   "ossPath": "fonts-packages/INgaan",
   "_extraction": {

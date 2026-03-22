@@ -28,7 +28,7 @@
   "version": "2.000.0",
   "copyright": "Copyright 2011 The Sigmar One Project Authors (contact@sansoxygen.com)",
   "license": {
-    "type": "联系授权",
+    "type": "免费商用",
     "spdx": null,
     "url": "http://scripts.sil.org/OFL",
     "commercial": null,
@@ -40,10 +40,23 @@
   "languagesZh": [
     "英语"
   ],
-  "tags": [],
-  "keywords": [],
-  "useCases": [],
-  "description": null,
+  "tags": [
+    "无衬线",
+    "现代"
+  ],
+  "keywords": [
+    "Sigmar One",
+    "UI",
+    "现代",
+    "简洁"
+  ],
+  "useCases": [
+    "UI 界面",
+    "品牌标识",
+    "海报标题",
+    "网页正文"
+  ],
+  "description": "Sigmar One是一款无衬线字体，字重 400，支持英语。特点：现代。授权方式：免费商用。",
   "dateAdded": null,
   "ossPath": "fonts-packages/SigmarOneRegular",
   "_extraction": {

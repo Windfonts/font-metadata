@@ -46,10 +46,26 @@
     "简体中文",
     "日语"
   ],
-  "tags": [],
-  "keywords": [],
-  "useCases": [],
-  "description": null,
+  "tags": [
+    "中文",
+    "无衬线",
+    "日文",
+    "现代"
+  ],
+  "keywords": [
+    "DFZongYiW9-GB",
+    "UI",
+    "华康新综艺体W9",
+    "现代",
+    "简洁"
+  ],
+  "useCases": [
+    "UI 界面",
+    "品牌标识",
+    "海报标题",
+    "网页正文"
+  ],
+  "description": "华康新综艺体W9是一款无衬线字体，字重 400，支持英语、简体中文、日语。特点：现代。",
   "dateAdded": null,
   "ossPath": "fonts-packages/DFZongYiW9",
   "_extraction": {

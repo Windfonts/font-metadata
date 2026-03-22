@@ -28,7 +28,7 @@
   "version": "1.220.0",
   "copyright": "Copyright (c) 2013-2015 Gall Productions Pvt. Ltd (http://www.sticknobillsonline.com) Copyright (c) 2015 mooniak (http://mooniak.com)",
   "license": {
-    "type": "联系授权",
+    "type": "免费商用",
     "spdx": null,
     "url": "http://scripts.sil.org/OFL",
     "commercial": null,
@@ -40,10 +40,27 @@
   "languagesZh": [
     "英语"
   ],
-  "tags": [],
-  "keywords": [],
-  "useCases": [],
-  "description": null,
+  "tags": [
+    "传统",
+    "粗体",
+    "衬线"
+  ],
+  "keywords": [
+    "Post No Bills Colombo",
+    "印刷",
+    "广告",
+    "强调",
+    "标题",
+    "正式",
+    "阅读"
+  ],
+  "useCases": [
+    "书籍排版",
+    "学术论文",
+    "杂志正文",
+    "正式文档"
+  ],
+  "description": "Post No Bills Colombo是一款衬线字体，字重 800，支持英语。特点：传统、粗体。授权方式：免费商用。",
   "dateAdded": null,
   "ossPath": "fonts-packages/PostNoBillsColomboExtraBold",
   "_extraction": {

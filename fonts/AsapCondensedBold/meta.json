@@ -28,7 +28,7 @@
   "version": "1.006.0",
   "copyright": "Copyright 2016 The Asap Project Authors (omnibus.type@gmail.com), with Reserved Font Name 'Jaldi' and 'Asap'.",
   "license": {
-    "type": "联系授权",
+    "type": "免费商用",
     "spdx": null,
     "url": "http://scripts.sil.org/OFL",
     "commercial": null,
@@ -40,10 +40,27 @@
   "languagesZh": [
     "英语"
   ],
-  "tags": [],
-  "keywords": [],
-  "useCases": [],
-  "description": null,
+  "tags": [
+    "传统",
+    "粗体",
+    "衬线"
+  ],
+  "keywords": [
+    "Asap Condensed",
+    "印刷",
+    "广告",
+    "强调",
+    "标题",
+    "正式",
+    "阅读"
+  ],
+  "useCases": [
+    "书籍排版",
+    "学术论文",
+    "杂志正文",
+    "正式文档"
+  ],
+  "description": "Asap Condensed是一款衬线字体，字重 700，支持英语。特点：传统、粗体。授权方式：免费商用。",
   "dateAdded": null,
   "ossPath": "fonts-packages/AsapCondensedBold",
   "_extraction": {

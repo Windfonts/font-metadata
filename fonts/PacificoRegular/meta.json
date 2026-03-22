@@ -28,7 +28,7 @@
   "version": "1.000.0",
   "copyright": "Copyright (c) 2011 by Vernon Adams. All rights reserved.",
   "license": {
-    "type": "联系授权",
+    "type": "免费商用",
     "spdx": null,
     "url": "http://scripts.sil.org/OFL",
     "commercial": null,
@@ -40,9 +40,22 @@
   "languagesZh": [
     "英语"
   ],
-  "tags": [],
-  "keywords": [],
-  "useCases": [],
+  "tags": [
+    "传统",
+    "衬线"
+  ],
+  "keywords": [
+    "Pacifico",
+    "印刷",
+    "正式",
+    "阅读"
+  ],
+  "useCases": [
+    "书籍排版",
+    "学术论文",
+    "杂志正文",
+    "正式文档"
+  ],
   "description": "Copyright (c) 2011 by vernon adams. All rights reserved.",
   "dateAdded": null,
   "ossPath": "fonts-packages/PacificoRegular",

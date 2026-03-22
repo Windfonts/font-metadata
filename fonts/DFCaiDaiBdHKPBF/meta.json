@@ -35,10 +35,23 @@
   },
   "languages": [],
   "languagesZh": [],
-  "tags": [],
-  "keywords": [],
-  "useCases": [],
-  "description": null,
+  "tags": [
+    "无衬线",
+    "现代"
+  ],
+  "keywords": [
+    "UI",
+    "华康彩带体",
+    "现代",
+    "简洁"
+  ],
+  "useCases": [
+    "UI 界面",
+    "品牌标识",
+    "海报标题",
+    "网页正文"
+  ],
+  "description": "华康彩带体是一款无衬线字体，字重 400。特点：现代。",
   "dateAdded": null,
   "ossPath": "fonts-packages/DFCaiDaiBdHKPBF",
   "_extraction": {

@@ -49,7 +49,7 @@
   "version": "1.001.0",
   "copyright": "Copyright (c) 1996-2015 Pushpananda Ekanayake (pushpanandae@gmail.com) Copyright (c) 2015 Sol Matas (sol@sonnenshine.com.ar) Copyright (c) 2015 Mooniak (hello@mooniak.com)",
   "license": {
-    "type": "联系授权",
+    "type": "免费商用",
     "spdx": null,
     "url": "http://scripts.sil.org/OFL",
     "commercial": null,
@@ -61,10 +61,27 @@
   "languagesZh": [
     "英语"
   ],
-  "tags": [],
-  "keywords": [],
-  "useCases": [],
-  "description": null,
+  "tags": [
+    "传统",
+    "粗体",
+    "衬线"
+  ],
+  "keywords": [
+    "Gemunu Libre",
+    "印刷",
+    "广告",
+    "强调",
+    "标题",
+    "正式",
+    "阅读"
+  ],
+  "useCases": [
+    "书籍排版",
+    "学术论文",
+    "杂志正文",
+    "正式文档"
+  ],
+  "description": "Gemunu Libre是一款衬线字体，提供 4 个字重（300-800），支持英语。特点：传统、粗体。授权方式：免费商用。",
   "dateAdded": null,
   "ossPath": "fonts-packages/GemunuLibreRegular",
   "_extraction": {

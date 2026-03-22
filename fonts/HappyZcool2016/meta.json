@@ -30,7 +30,7 @@
   "version": "3.12.0",
   "copyright": "(c) Copyright LuiBingKe 2016",
   "license": {
-    "type": "联系授权",
+    "type": "免费商用",
     "spdx": null,
     "url": null,
     "commercial": null,
@@ -46,10 +46,26 @@
     "简体中文",
     "日语"
   ],
-  "tags": [],
-  "keywords": [],
-  "useCases": [],
-  "description": null,
+  "tags": [
+    "中文",
+    "无衬线",
+    "日文",
+    "现代"
+  ],
+  "keywords": [
+    "HappyZcool-2016",
+    "UI",
+    "现代",
+    "站酷快乐体2016修订版",
+    "简洁"
+  ],
+  "useCases": [
+    "UI 界面",
+    "品牌标识",
+    "海报标题",
+    "网页正文"
+  ],
+  "description": "站酷快乐体2016修订版是一款无衬线字体，字重 400，支持英语、简体中文、日语。特点：现代。授权方式：免费商用。",
   "dateAdded": null,
   "ossPath": "fonts-packages/HappyZcool2016",
   "_extraction": {

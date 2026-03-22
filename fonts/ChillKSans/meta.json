@@ -30,7 +30,7 @@
   "version": "1.000.0",
   "copyright": "Glow Sans (c) 2020 Project Welai. Source Han Sans (c) 2014-2019 Adobe (http://www.adobe.com/). Copyright 2011 The Montserrat Project Authors. ",
   "license": {
-    "type": "联系授权",
+    "type": "免费商用",
     "spdx": null,
     "url": "http://scripts.sil.org/OFL",
     "commercial": null,
@@ -48,10 +48,33 @@
     "繁体中文",
     "日语"
   ],
-  "tags": [],
-  "keywords": [],
-  "useCases": [],
-  "description": null,
+  "tags": [
+    "中文",
+    "无衬线",
+    "日文",
+    "标题",
+    "现代",
+    "黑体"
+  ],
+  "keywords": [
+    "Chill K Sans",
+    "UI",
+    "寒蝉宽黑体",
+    "广告",
+    "标题",
+    "海报",
+    "现代",
+    "简洁"
+  ],
+  "useCases": [
+    "UI 界面",
+    "品牌标识",
+    "导航菜单",
+    "标题设计",
+    "海报标题",
+    "网页正文"
+  ],
+  "description": "寒蝉宽黑体是一款无衬线字体，字重 500，支持英语、简体中文、繁体中文、日语。特点：标题、现代、黑体。授权方式：免费商用。",
   "dateAdded": null,
   "ossPath": "fonts-packages/ChillKSans",
   "_extraction": {

@@ -48,9 +48,25 @@
     "繁体中文",
     "日语"
   ],
-  "tags": [],
-  "keywords": [],
-  "useCases": [],
+  "tags": [
+    "中文",
+    "无衬线",
+    "日文",
+    "现代"
+  ],
+  "keywords": [
+    "HanziPen SC",
+    "UI",
+    "现代",
+    "简洁",
+    "翩翩體-簡"
+  ],
+  "useCases": [
+    "UI 界面",
+    "品牌标识",
+    "海报标题",
+    "网页正文"
+  ],
   "description": "HanziPen SC Regular is taken from Mac OSX 10.9 Mavericks native font set. A few minor descriptive tables are fixed for using on MS Windows.",
   "dateAdded": null,
   "ossPath": "fonts-packages/HanziPenSCW3",

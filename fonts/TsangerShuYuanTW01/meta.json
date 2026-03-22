@@ -30,7 +30,7 @@
   "version": "1.000.0",
   "copyright": "Copyright © Beijing Tsanger Character Technology Co., Ltd.. All rights reserved.",
   "license": {
-    "type": "联系授权",
+    "type": "免费商用",
     "spdx": null,
     "url": null,
     "commercial": null,
@@ -44,9 +44,29 @@
     "英语",
     "简体中文"
   ],
-  "tags": [],
-  "keywords": [],
-  "useCases": [],
+  "tags": [
+    "中文",
+    "圆体",
+    "无衬线",
+    "柔和",
+    "现代"
+  ],
+  "keywords": [
+    "TsangerShuYuanT",
+    "UI",
+    "亲和",
+    "仓耳舒圆体",
+    "包装",
+    "品牌",
+    "现代",
+    "简洁"
+  ],
+  "useCases": [
+    "UI 界面",
+    "品牌标识",
+    "海报标题",
+    "网页正文"
+  ],
   "description": "Chinese font for any system.",
   "dateAdded": null,
   "ossPath": "fonts-packages/TsangerShuYuanTW01",

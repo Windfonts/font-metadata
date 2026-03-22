@@ -35,10 +35,23 @@
   },
   "languages": [],
   "languagesZh": [],
-  "tags": [],
-  "keywords": [],
-  "useCases": [],
-  "description": null,
+  "tags": [
+    "传统",
+    "衬线"
+  ],
+  "keywords": [
+    "±–®|≥°¡ıÆ—",
+    "印刷",
+    "正式",
+    "阅读"
+  ],
+  "useCases": [
+    "书籍排版",
+    "学术论文",
+    "杂志正文",
+    "正式文档"
+  ],
+  "description": "±–®|≥°¡ıÆ—是一款衬线字体，字重 400。特点：传统。",
   "dateAdded": null,
   "ossPath": "fonts-packages/DFSTDLIMdHKBF",
   "_extraction": {

@@ -72,7 +72,7 @@
   "version": "1.23.0",
   "copyright": "»Œ∂´ ”æı.2017",
   "license": {
-    "type": "联系授权",
+    "type": "免费商用",
     "spdx": null,
     "url": null,
     "commercial": null,
@@ -86,9 +86,29 @@
     "英语",
     "简体中文"
   ],
-  "tags": [],
-  "keywords": [],
-  "useCases": [],
+  "tags": [
+    "中文",
+    "多字重",
+    "无衬线",
+    "现代",
+    "粗体"
+  ],
+  "keywords": [
+    "UI",
+    "YRDZST",
+    "广告",
+    "强调",
+    "杨任东竹石体",
+    "标题",
+    "现代",
+    "简洁"
+  ],
+  "useCases": [
+    "UI 界面",
+    "品牌标识",
+    "海报标题",
+    "网页正文"
+  ],
   "description": "请关注微信公众号“杨任东字体”，获取更多原创字体以及字体更新信息，感谢您的支持！",
   "dateAdded": null,
   "ossPath": "fonts-packages/YRDZSTRegular",
