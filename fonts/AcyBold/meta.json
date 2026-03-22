@@ -1,0 +1,112 @@
+{
+  "id": "acy-bold",
+  "normalizedName": "AcyBold",
+  "family": "Acy",
+  "familyEn": "Acy",
+  "fontFamily": "WF-AcyBold",
+  "category": "sans-serif",
+  "categoryZh": "无衬线字体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-AcyRegularS0-Regular",
+      "charCount": 7775,
+      "glyphCount": 7719
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": null,
+  "designer": "lxfly2000",
+  "releaseYear": 2019,
+  "version": "1.6.0",
+  "copyright": "Copyright (C) 2019-2022, lxfly2000 (lxfly2000@outlook.com)",
+  "license": {
+    "type": "联系授权",
+    "spdx": null,
+    "url": "https://github.com/lxfly2000/Acy-Font/blob/master/LICENSE.TXT",
+    "commercial": null,
+    "attribution": null
+  },
+  "languages": [
+    "en",
+    "zh-Hans",
+    "zh-Hant",
+    "ja"
+  ],
+  "languagesZh": [
+    "英语",
+    "简体中文",
+    "繁体中文",
+    "日语"
+  ],
+  "tags": [],
+  "keywords": [],
+  "useCases": [],
+  "description": null,
+  "dateAdded": null,
+  "ossPath": "fonts-packages/AcyBold",
+  "_extraction": {
+    "source": [
+      "/mnt/shared-context/fonts/字体文件/Acy手写体/Acy-Bold.otf",
+      "/mnt/shared-context/fonts/字体文件/Acy手写体/Acy-Medium.otf",
+      "/mnt/shared-context/fonts/字体文件/Acy手写体/Acy-Regular.otf",
+      "/mnt/shared-context/fonts/字体文件/Acy手写体/Acy手写体_猫啃网.ttf"
+    ],
+    "ttcIndex": null,
+    "extractedAt": "2026-03-22T12:30:11.191015+00:00",
+    "toolVersion": "1.0.0",
+    "isVariable": false,
+    "variableAxes": [],
+    "openTypeFeatures": [
+      "aalt",
+      "dlig",
+      "fwid",
+      "hwid",
+      "nalt",
+      "pwid",
+      "trad",
+      "vert",
+      "vrt2"
+    ],
+    "unitsPerEm": 1000,
+    "created": "2022-01-10",
+    "modified": "2022-01-10",
+    "achVendID": "UKWN",
+    "fsType": 4,
+    "panose": {
+      "familyKind": 0,
+      "serifStyle": 0,
+      "weight": 5,
+      "proportion": 0,
+      "contrast": 0
+    },
+    "cjkCoverage": {
+      "cjkUnified": 11911,
+      "gb2312Approx": 6763,
+      "gb2312Total": 6763,
+      "gb2312Pct": 100.0,
+      "gbk": 11912
+    },
+    "manufacturer": "lxfly2000",
+    "vendorURL": "https://github.com/lxfly2000",
+    "designerURL": "https://github.com/lxfly2000",
+    "licenseText": "SIL Open Font License, Version 1.1"
+  },
+  "_needs_enrichment": [
+    "tags",
+    "keywords",
+    "useCases",
+    "license.type",
+    "license.spdx",
+    "description"
+  ]
+}

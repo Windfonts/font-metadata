@@ -1,0 +1,108 @@
+{
+  "id": "kodomorounded",
+  "normalizedName": "KodomoRounded",
+  "family": "KodomoRounded",
+  "familyEn": "KodomoRounded",
+  "fontFamily": "WF-KodomoRounded",
+  "category": "serif",
+  "categoryZh": "衬线字体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-KodomoRounded-Regular",
+      "charCount": 8207,
+      "glyphCount": 9354
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": null,
+  "designer": null,
+  "releaseYear": null,
+  "version": "0.15.0",
+  "copyright": "Nakai Yoshihisa",
+  "license": {
+    "type": "联系授权",
+    "spdx": null,
+    "url": null,
+    "commercial": null,
+    "attribution": null
+  },
+  "languages": [
+    "en",
+    "zh-Hans",
+    "zh-Hant",
+    "ja"
+  ],
+  "languagesZh": [
+    "英语",
+    "简体中文",
+    "繁体中文",
+    "日语"
+  ],
+  "tags": [],
+  "keywords": [],
+  "useCases": [],
+  "description": null,
+  "dateAdded": null,
+  "ossPath": "fonts-packages/KodomoRounded",
+  "_extraction": {
+    "source": "/mnt/shared-context/fonts/700款免费商用字体合集/3-其它商用字体/日文字体12款/KodomoRounded.otf",
+    "ttcIndex": null,
+    "extractedAt": "2026-03-22T12:30:05.115938+00:00",
+    "toolVersion": "1.0.0",
+    "isVariable": false,
+    "variableAxes": [],
+    "openTypeFeatures": [
+      "aalt",
+      "dlig",
+      "expt",
+      "frac",
+      "fwid",
+      "hwid",
+      "jp78",
+      "trad",
+      "vert",
+      "vrt2"
+    ],
+    "unitsPerEm": 1000,
+    "created": "1969-12-31",
+    "modified": "1969-12-31",
+    "achVendID": "Take",
+    "fsType": 8,
+    "panose": {
+      "familyKind": 2,
+      "serifStyle": 0,
+      "weight": 6,
+      "proportion": 0,
+      "contrast": 0
+    },
+    "cjkCoverage": {
+      "cjkUnified": 6720,
+      "gb2312Approx": 6720,
+      "gb2312Total": 6763,
+      "gb2312Pct": 99.4,
+      "gbk": 6720
+    },
+    "manufacturer": null,
+    "vendorURL": null,
+    "designerURL": null,
+    "licenseText": null
+  },
+  "_needs_enrichment": [
+    "tags",
+    "keywords",
+    "useCases",
+    "license.type",
+    "license.spdx",
+    "description"
+  ]
+}

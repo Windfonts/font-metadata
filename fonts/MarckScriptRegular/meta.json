@@ -1,0 +1,91 @@
+{
+  "id": "marckscript-regular",
+  "normalizedName": "MarckScriptRegular",
+  "family": "Marck Script",
+  "familyEn": "Marck Script",
+  "fontFamily": "WF-MarckScriptRegular",
+  "category": "handwriting",
+  "categoryZh": "手写体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-MarckScriptRegular-Regular",
+      "charCount": 236,
+      "glyphCount": 239
+    }
+  },
+  "subsets": [
+    "full",
+    "en"
+  ],
+  "foundry": null,
+  "designer": "Denis Masharov, Marck Fogel",
+  "releaseYear": 2011,
+  "version": "1.002.0",
+  "copyright": "Copyright (c) 2011, Denis Masharov <denis.masharov@gmail.com>, Marck Fogel, with Reserved Font Names \"Marck Script\".",
+  "license": {
+    "type": "联系授权",
+    "spdx": null,
+    "url": "http://scripts.sil.org/OFL",
+    "commercial": null,
+    "attribution": null
+  },
+  "languages": [
+    "en"
+  ],
+  "languagesZh": [
+    "英语"
+  ],
+  "tags": [],
+  "keywords": [],
+  "useCases": [],
+  "description": null,
+  "dateAdded": null,
+  "ossPath": "fonts-packages/MarckScriptRegular",
+  "_extraction": {
+    "source": "/mnt/shared-context/fonts/700款免费商用字体合集/3-其它商用字体/英文字体112款/MarckScriptRegular.woff.ttf",
+    "ttcIndex": null,
+    "extractedAt": "2026-03-22T12:30:07.277394+00:00",
+    "toolVersion": "1.0.0",
+    "isVariable": false,
+    "variableAxes": [],
+    "openTypeFeatures": [
+      "kern"
+    ],
+    "unitsPerEm": 2048,
+    "created": "2011-10-10",
+    "modified": "2013-08-29",
+    "achVendID": "pyrs",
+    "fsType": 4,
+    "panose": {
+      "familyKind": 2,
+      "serifStyle": 0,
+      "weight": 0,
+      "proportion": 0,
+      "contrast": 0
+    },
+    "cjkCoverage": {
+      "cjkUnified": 0,
+      "gb2312Approx": 0,
+      "gb2312Total": 6763,
+      "gb2312Pct": 0,
+      "gbk": 0
+    },
+    "manufacturer": "Denis Masharov",
+    "vendorURL": "denis.masharov@gmail.com",
+    "designerURL": "denis.masharov@gmail.com",
+    "licenseText": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+  },
+  "_needs_enrichment": [
+    "tags",
+    "keywords",
+    "useCases",
+    "license.type",
+    "license.spdx",
+    "description"
+  ]
+}

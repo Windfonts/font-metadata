@@ -1,0 +1,116 @@
+{
+  "id": "publicsansitalicvf",
+  "normalizedName": "PublicSansItalicVF",
+  "family": "Public Sans Italic VF",
+  "familyEn": "Public Sans Italic VF",
+  "fontFamily": "WF-PublicSansItalicVF",
+  "category": "sans-serif",
+  "categoryZh": "无衬线字体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-PublicSansItalicVF-Regular",
+      "charCount": 562,
+      "glyphCount": 633
+    }
+  },
+  "subsets": [
+    "full",
+    "en"
+  ],
+  "foundry": null,
+  "designer": "Pablo Impallari, Rodrigo Fuenzalida (Modified by Dan O. Williams)",
+  "releaseYear": null,
+  "version": "1.003.0",
+  "copyright": null,
+  "license": {
+    "type": "联系授权",
+    "spdx": null,
+    "url": "http://scripts.sil.org/OFL",
+    "commercial": null,
+    "attribution": null
+  },
+  "languages": [
+    "en"
+  ],
+  "languagesZh": [
+    "英语"
+  ],
+  "tags": [],
+  "keywords": [],
+  "useCases": [],
+  "description": "Libre Franklin is a reinterpretation and expansion of the 1912 Morris Fuller Benton___s classic.",
+  "dateAdded": null,
+  "ossPath": "fonts-packages/PublicSansItalicVF",
+  "_extraction": {
+    "source": "/mnt/shared-context/fonts/700款免费商用字体合集/最近更新/Public Sans 可商用/ttf/PublicSans-Italic-VF.ttf",
+    "ttcIndex": null,
+    "extractedAt": "2026-03-22T12:30:10.646224+00:00",
+    "toolVersion": "1.0.0",
+    "isVariable": true,
+    "variableAxes": [
+      {
+        "tag": "wght",
+        "min": 100.0,
+        "default": 100.0,
+        "max": 900.0
+      }
+    ],
+    "openTypeFeatures": [
+      "aalt",
+      "ccmp",
+      "dnom",
+      "frac",
+      "kern",
+      "liga",
+      "lnum",
+      "locl",
+      "mark",
+      "mkmk",
+      "numr",
+      "onum",
+      "ordn",
+      "pnum",
+      "salt",
+      "sinf",
+      "ss01",
+      "subs",
+      "sups",
+      "tnum"
+    ],
+    "unitsPerEm": 2000,
+    "created": "2019-05-07",
+    "modified": "2019-05-07",
+    "achVendID": "IMPA",
+    "fsType": 0,
+    "panose": {
+      "familyKind": 0,
+      "serifStyle": 0,
+      "weight": 5,
+      "proportion": 0,
+      "contrast": 0
+    },
+    "cjkCoverage": {
+      "cjkUnified": 0,
+      "gb2312Approx": 0,
+      "gb2312Total": 6763,
+      "gb2312Pct": 0,
+      "gbk": 0
+    },
+    "manufacturer": null,
+    "vendorURL": null,
+    "designerURL": "https://designsystem.digital.gov",
+    "licenseText": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+  },
+  "_needs_enrichment": [
+    "tags",
+    "keywords",
+    "useCases",
+    "license.type",
+    "license.spdx"
+  ]
+}

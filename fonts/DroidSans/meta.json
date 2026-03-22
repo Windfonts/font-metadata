@@ -1,0 +1,100 @@
+{
+  "id": "droidsans",
+  "normalizedName": "DroidSans",
+  "family": "Droid Sans",
+  "familyEn": "Droid Sans",
+  "fontFamily": "WF-DroidSans",
+  "category": "sans-serif",
+  "categoryZh": "无衬线字体",
+  "classifications": [],
+  "weights": [
+    400,
+    700
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-DroidSans-Regular",
+      "charCount": 873,
+      "glyphCount": 901
+    },
+    "Bold": {
+      "cssWeight": 700,
+      "fontFamily": "WF-DroidSansBold-Bold",
+      "charCount": 873,
+      "glyphCount": 901
+    }
+  },
+  "subsets": [
+    "full",
+    "en"
+  ],
+  "foundry": "ascender",
+  "designer": null,
+  "releaseYear": 2007,
+  "version": "1.00.0",
+  "copyright": "Digitized data copyright ?2007, Google Corporation.",
+  "license": {
+    "type": "联系授权",
+    "spdx": null,
+    "url": "http://www.apache.org/licenses/LICENSE-2.0",
+    "commercial": null,
+    "attribution": null
+  },
+  "languages": [
+    "en"
+  ],
+  "languagesZh": [
+    "英语"
+  ],
+  "tags": [],
+  "keywords": [],
+  "useCases": [],
+  "description": "Droid Sans is a humanist sans serif typeface designed for user interfaces and electronic communication.",
+  "dateAdded": null,
+  "ossPath": "fonts-packages/DroidSans",
+  "_extraction": {
+    "source": [
+      "/mnt/shared-context/fonts/700款免费商用字体合集/3-其它商用字体/英文字体112款/Droid Sans.ttf",
+      "/mnt/shared-context/fonts/700款免费商用字体合集/3-其它商用字体/英文字体112款/DroidSans-Bold.ttf"
+    ],
+    "ttcIndex": null,
+    "extractedAt": "2026-03-22T12:30:06.765038+00:00",
+    "toolVersion": "1.0.0",
+    "isVariable": false,
+    "variableAxes": [],
+    "openTypeFeatures": [
+      "kern"
+    ],
+    "unitsPerEm": 2048,
+    "created": "2006-12-04",
+    "modified": "2012-06-23",
+    "achVendID": "1ASC",
+    "fsType": 8,
+    "panose": {
+      "familyKind": 2,
+      "serifStyle": 11,
+      "weight": 6,
+      "proportion": 6,
+      "contrast": 3
+    },
+    "cjkCoverage": {
+      "cjkUnified": 0,
+      "gb2312Approx": 0,
+      "gb2312Total": 6763,
+      "gb2312Pct": 0,
+      "gbk": 0
+    },
+    "manufacturer": "Ascender Corporation",
+    "vendorURL": "http://www.ascendercorp.com/",
+    "designerURL": "http://www.ascendercorp.com/typedesigners.html",
+    "licenseText": "Licensed under the Apache License, Version 2.0"
+  },
+  "_needs_enrichment": [
+    "tags",
+    "keywords",
+    "useCases",
+    "license.type",
+    "license.spdx"
+  ]
+}

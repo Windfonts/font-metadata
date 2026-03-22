@@ -1,0 +1,133 @@
+{
+  "id": "2-01",
+  "normalizedName": "201",
+  "family": "拾陆字濑户2.0-1",
+  "familyEn": "拾陆字濑户2.0-1",
+  "fontFamily": "WF-201",
+  "category": "sans-serif",
+  "categoryZh": "无衬线字体",
+  "classifications": [],
+  "weights": [
+    200,
+    300,
+    400,
+    500,
+    700
+  ],
+  "weightDetails": {
+    "ExtraLight": {
+      "cssWeight": 200,
+      "fontFamily": "WF-201Thin-ExtraLight",
+      "charCount": 42735,
+      "glyphCount": 42744
+    },
+    "Light": {
+      "cssWeight": 300,
+      "fontFamily": "WF-201Light-Light",
+      "charCount": 42735,
+      "glyphCount": 42744
+    },
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-201-Regular",
+      "charCount": 45973,
+      "glyphCount": 45975
+    },
+    "Medium": {
+      "cssWeight": 500,
+      "fontFamily": "WF-201Medium-Medium",
+      "charCount": 42292,
+      "glyphCount": 42294
+    },
+    "Bold": {
+      "cssWeight": 700,
+      "fontFamily": "WF-201Bold-Bold",
+      "charCount": 42740,
+      "glyphCount": 42750
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": null,
+  "designer": null,
+  "releaseYear": null,
+  "version": "2.001.0",
+  "copyright": "微信公众号-拾陆字",
+  "license": {
+    "type": "联系授权",
+    "spdx": null,
+    "url": null,
+    "commercial": null,
+    "attribution": null
+  },
+  "languages": [
+    "en",
+    "zh-Hans",
+    "zh-Hant",
+    "ja",
+    "ko"
+  ],
+  "languagesZh": [
+    "英语",
+    "简体中文",
+    "繁体中文",
+    "日语",
+    "韩语"
+  ],
+  "tags": [],
+  "keywords": [],
+  "useCases": [],
+  "description": null,
+  "dateAdded": null,
+  "ossPath": "fonts-packages/201",
+  "_extraction": {
+    "source": [
+      "/mnt/shared-context/fonts/字体文件/拾陆字濑户2.0/Bold.ttf",
+      "/mnt/shared-context/fonts/字体文件/拾陆字濑户2.0/Light.ttf",
+      "/mnt/shared-context/fonts/字体文件/拾陆字濑户2.0/Medium.ttf",
+      "/mnt/shared-context/fonts/字体文件/拾陆字濑户2.0/Regular.ttf",
+      "/mnt/shared-context/fonts/字体文件/拾陆字濑户2.0/Thin.ttf"
+    ],
+    "ttcIndex": null,
+    "extractedAt": "2026-03-22T10:51:24.975743+00:00",
+    "toolVersion": "1.0.0",
+    "isVariable": false,
+    "variableAxes": [],
+    "openTypeFeatures": [],
+    "unitsPerEm": 1024,
+    "created": "2020-10-19",
+    "modified": "2020-10-19",
+    "achVendID": "PFED",
+    "fsType": 8,
+    "panose": {
+      "familyKind": 0,
+      "serifStyle": 0,
+      "weight": 5,
+      "proportion": 0,
+      "contrast": 0
+    },
+    "cjkCoverage": {
+      "cjkUnified": 20945,
+      "gb2312Approx": 6763,
+      "gb2312Total": 6763,
+      "gb2312Pct": 100.0,
+      "gbk": 27527
+    },
+    "manufacturer": null,
+    "vendorURL": null,
+    "designerURL": null,
+    "licenseText": null
+  },
+  "_needs_enrichment": [
+    "tags",
+    "keywords",
+    "useCases",
+    "license.type",
+    "license.spdx",
+    "description"
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "id": "pottaone-regular",
+  "normalizedName": "PottaOneRegular",
+  "family": "Potta One",
+  "familyEn": "Potta One",
+  "fontFamily": "WF-PottaOneRegular",
+  "category": "sans-serif",
+  "categoryZh": "无衬线字体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-PottaOneRegular-Regular",
+      "charCount": 7286,
+      "glyphCount": 7365
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "fontzone108",
+  "designer": "108_,108go",
+  "releaseYear": 2020,
+  "version": "1.000.0",
+  "copyright": "Copyright 2020 The Potta Project Authors (https://github.com/go108go/Potta), all rights reserved.",
+  "license": {
+    "type": "联系授权",
+    "spdx": null,
+    "url": "https://scripts.sil.org/OFL",
+    "commercial": null,
+    "attribution": null
+  },
+  "languages": [
+    "en",
+    "zh-Hans",
+    "zh-Hant",
+    "ja"
+  ],
+  "languagesZh": [
+    "英语",
+    "简体中文",
+    "繁体中文",
+    "日语"
+  ],
+  "tags": [],
+  "keywords": [],
+  "useCases": [],
+  "description": null,
+  "dateAdded": null,
+  "ossPath": "fonts-packages/PottaOneRegular",
+  "_extraction": {
+    "source": "/mnt/shared-context/fonts/字体文件/波塔one体/BoTa-2.otf",
+    "ttcIndex": null,
+    "extractedAt": "2026-03-22T12:30:21.853878+00:00",
+    "toolVersion": "1.0.0",
+    "isVariable": false,
+    "variableAxes": [],
+    "openTypeFeatures": [
+      "aalt",
+      "case",
+      "ccmp",
+      "frac",
+      "fwid",
+      "kern",
+      "liga",
+      "locl",
+      "ordn",
+      "pnum",
+      "sups",
+      "tnum",
+      "twid",
+      "vert",
+      "vkna",
+      "vrt2"
+    ],
+    "unitsPerEm": 1000,
+    "created": "2020-12-13",
+    "modified": "2020-12-13",
+    "achVendID": "FONZ",
+    "fsType": 0,
+    "panose": {
+      "familyKind": 0,
+      "serifStyle": 0,
+      "weight": 5,
+      "proportion": 0,
+      "contrast": 0
+    },
+    "cjkCoverage": {
+      "cjkUnified": 6356,
+      "gb2312Approx": 6356,
+      "gb2312Total": 6763,
+      "gb2312Pct": 94.0,
+      "gbk": 6356
+    },
+    "manufacturer": "Font Zone 108",
+    "vendorURL": null,
+    "designerURL": null,
+    "licenseText": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL"
+  },
+  "_needs_enrichment": [
+    "tags",
+    "keywords",
+    "useCases",
+    "license.type",
+    "license.spdx",
+    "description"
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "id": "ibmplexmono-italic",
+  "normalizedName": "IBMPlexMonoItalic",
+  "family": "IBM Plex Mono",
+  "familyEn": "IBM Plex Mono",
+  "fontFamily": "WF-IBMPlexMonoItalic",
+  "category": "monospace",
+  "categoryZh": "等宽字体",
+  "classifications": [],
+  "weights": [
+    100,
+    200,
+    300,
+    400,
+    500,
+    600,
+    700
+  ],
+  "weightDetails": {
+    "Thin": {
+      "cssWeight": 100,
+      "fontFamily": "WF-IBMPlexMonoThinItalic-Thin",
+      "charCount": 582,
+      "glyphCount": 679
+    },
+    "ExtraLight": {
+      "cssWeight": 200,
+      "fontFamily": "WF-IBMPlexMonoExtraLightItalic-ExtraLight",
+      "charCount": 582,
+      "glyphCount": 679
+    },
+    "Light": {
+      "cssWeight": 300,
+      "fontFamily": "WF-IBMPlexMonoLightItalic-Light",
+      "charCount": 582,
+      "glyphCount": 679
+    },
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-IBMPlexMono-Regular",
+      "charCount": 582,
+      "glyphCount": 679
+    },
+    "Medium": {
+      "cssWeight": 500,
+      "fontFamily": "WF-IBMPlexMonoTextItalic-Medium",
+      "charCount": 582,
+      "glyphCount": 679
+    },
+    "SemiBold": {
+      "cssWeight": 600,
+      "fontFamily": "WF-IBMPlexMonoSemiBoldItalic-SemiBold",
+      "charCount": 582,
+      "glyphCount": 679
+    },
+    "Bold": {
+      "cssWeight": 700,
+      "fontFamily": "WF-IBMPlexMonoBoldItalic-Bold",
+      "charCount": 582,
+      "glyphCount": 679
+    }
+  },
+  "subsets": [
+    "full",
+    "en"
+  ],
+  "foundry": null,
+  "designer": "Mike Abbink, Bold Monday",
+  "releaseYear": 2017,
+  "version": "1.000.0",
+  "copyright": "© 2017 IBM Corp. All rights reserved.",
+  "license": {
+    "type": "联系授权",
+    "spdx": null,
+    "url": null,
+    "commercial": null,
+    "attribution": null
+  },
+  "languages": [
+    "en"
+  ],
+  "languagesZh": [
+    "英语"
+  ],
+  "tags": [],
+  "keywords": [],
+  "useCases": [],
+  "description": null,
+  "dateAdded": null,
+  "ossPath": "fonts-packages/IBMPlexMonoItalic",
+  "_extraction": {
+    "source": [
+      "/mnt/shared-context/fonts/700款免费商用字体合集/最近更新/IBM Plex 可商用/Mono/otf/IBMPlexMono-Bold.otf",
+      "/mnt/shared-context/fonts/700款免费商用字体合集/最近更新/IBM Plex 可商用/Mono/otf/IBMPlexMono-BoldItalic.otf",
+      "/mnt/shared-context/fonts/700款免费商用字体合集/最近更新/IBM Plex 可商用/Mono/otf/IBMPlexMono-ExtraLight.otf",
+      "/mnt/shared-context/fonts/700款免费商用字体合集/最近更新/IBM Plex 可商用/Mono/otf/IBMPlexMono-ExtraLightItalic.otf",
+      "/mnt/shared-context/fonts/700款免费商用字体合集/最近更新/IBM Plex 可商用/Mono/otf/IBMPlexMono-Italic.otf",
+      "/mnt/shared-context/fonts/700款免费商用字体合集/最近更新/IBM Plex 可商用/Mono/otf/IBMPlexMono-Light.otf",
+      "/mnt/shared-context/fonts/700款免费商用字体合集/最近更新/IBM Plex 可商用/Mono/otf/IBMPlexMono-LightItalic.otf",
+      "/mnt/shared-context/fonts/700款免费商用字体合集/最近更新/IBM Plex 可商用/Mono/otf/IBMPlexMono-Medium.otf",
+      "/mnt/shared-context/fonts/700款免费商用字体合集/最近更新/IBM Plex 可商用/Mono/otf/IBMPlexMono-MediumItalic.otf",
+      "/mnt/shared-context/fonts/700款免费商用字体合集/最近更新/IBM Plex 可商用/Mono/otf/IBMPlexMono-Regular.otf",
+      "/mnt/shared-context/fonts/700款免费商用字体合集/最近更新/IBM Plex 可商用/Mono/otf/IBMPlexMono-SemiBold.otf",
+      "/mnt/shared-context/fonts/700款免费商用字体合集/最近更新/IBM Plex 可商用/Mono/otf/IBMPlexMono-SemiBoldItalic.otf",
+      "/mnt/shared-context/fonts/700款免费商用字体合集/最近更新/IBM Plex 可商用/Mono/otf/IBMPlexMono-Text.otf",
+      "/mnt/shared-context/fonts/700款免费商用字体合集/最近更新/IBM Plex 可商用/Mono/otf/IBMPlexMono-TextItalic.otf",
+      "/mnt/shared-context/fonts/700款免费商用字体合集/最近更新/IBM Plex 可商用/Mono/otf/IBMPlexMono-Thin.otf",
+      "/mnt/shared-context/fonts/700款免费商用字体合集/最近更新/IBM Plex 可商用/Mono/otf/IBMPlexMono-ThinItalic.otf",
+      "/mnt/shared-context/fonts/700款免费商用字体合集/最近更新/IBM Plex 可商用/Mono/ttf/IBMPlexMono-Bold.ttf",
+      "/mnt/shared-context/fonts/700款免费商用字体合集/最近更新/IBM Plex 可商用/Mono/ttf/IBMPlexMono-BoldItalic.ttf",
+      "/mnt/shared-context/fonts/700款免费商用字体合集/最近更新/IBM Plex 可商用/Mono/ttf/IBMPlexMono-ExtraLight.ttf",
+      "/mnt/shared-context/fonts/700款免费商用字体合集/最近更新/IBM Plex 可商用/Mono/ttf/IBMPlexMono-ExtraLightItalic.ttf",
+      "/mnt/shared-context/fonts/700款免费商用字体合集/最近更新/IBM Plex 可商用/Mono/ttf/IBMPlexMono-Italic.ttf",
+      "/mnt/shared-context/fonts/700款免费商用字体合集/最近更新/IBM Plex 可商用/Mono/ttf/IBMPlexMono-Light.ttf",
+      "/mnt/shared-context/fonts/700款免费商用字体合集/最近更新/IBM Plex 可商用/Mono/ttf/IBMPlexMono-LightItalic.ttf",
+      "/mnt/shared-context/fonts/700款免费商用字体合集/最近更新/IBM Plex 可商用/Mono/ttf/IBMPlexMono-Medium.ttf",
+      "/mnt/shared-context/fonts/700款免费商用字体合集/最近更新/IBM Plex 可商用/Mono/ttf/IBMPlexMono-MediumItalic.ttf",
+      "/mnt/shared-context/fonts/700款免费商用字体合集/最近更新/IBM Plex 可商用/Mono/ttf/IBMPlexMono-Regular.ttf",
+      "/mnt/shared-context/fonts/700款免费商用字体合集/最近更新/IBM Plex 可商用/Mono/ttf/IBMPlexMono-SemiBold.ttf",
+      "/mnt/shared-context/fonts/700款免费商用字体合集/最近更新/IBM Plex 可商用/Mono/ttf/IBMPlexMono-SemiBoldItalic.ttf",
+      "/mnt/shared-context/fonts/700款免费商用字体合集/最近更新/IBM Plex 可商用/Mono/ttf/IBMPlexMono-Text.ttf",
+      "/mnt/shared-context/fonts/700款免费商用字体合集/最近更新/IBM Plex 可商用/Mono/ttf/IBMPlexMono-TextItalic.ttf",
+      "/mnt/shared-context/fonts/700款免费商用字体合集/最近更新/IBM Plex 可商用/Mono/ttf/IBMPlexMono-Thin.ttf",
+      "/mnt/shared-context/fonts/700款免费商用字体合集/最近更新/IBM Plex 可商用/Mono/ttf/IBMPlexMono-ThinItalic.ttf"
+    ],
+    "ttcIndex": null,
+    "extractedAt": "2026-03-22T12:30:08.757000+00:00",
+    "toolVersion": "1.0.0",
+    "isVariable": false,
+    "variableAxes": [],
+    "openTypeFeatures": [
+      "aalt",
+      "ccmp",
+      "dnom",
+      "frac",
+      "mark",
+      "numr",
+      "ordn",
+      "salt",
+      "sinf",
+      "ss01",
+      "ss02",
+      "ss03",
+      "ss04",
+      "ss05",
+      "sups",
+      "zero"
+    ],
+    "unitsPerEm": 1000,
+    "created": "2017-05-29",
+    "modified": "2017-05-29",
+    "achVendID": "IBM",
+    "fsType": 4,
+    "panose": {
+      "familyKind": 2,
+      "serifStyle": 11,
+      "weight": 5,
+      "proportion": 9,
+      "contrast": 5
+    },
+    "cjkCoverage": {
+      "cjkUnified": 0,
+      "gb2312Approx": 0,
+      "gb2312Total": 6763,
+      "gb2312Pct": 0,
+      "gbk": 0
+    },
+    "manufacturer": "Bold Monday",
+    "vendorURL": "http://www.boldmonday.com",
+    "designerURL": "http://www.ibm.com",
+    "licenseText": null
+  },
+  "_needs_enrichment": [
+    "tags",
+    "keywords",
+    "useCases",
+    "license.type",
+    "license.spdx",
+    "description"
+  ]
+}

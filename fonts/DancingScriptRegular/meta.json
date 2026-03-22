@@ -1,0 +1,115 @@
+{
+  "id": "dancingscript-regular",
+  "normalizedName": "DancingScriptRegular",
+  "family": "Dancing Script",
+  "familyEn": "Dancing Script",
+  "fontFamily": "WF-DancingScriptRegular",
+  "category": "handwriting",
+  "categoryZh": "手写体",
+  "classifications": [],
+  "weights": [
+    400,
+    700
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-DancingScriptRegular-Regular",
+      "charCount": 559,
+      "glyphCount": 643
+    },
+    "Bold": {
+      "cssWeight": 700,
+      "fontFamily": "WF-DancingScriptBold-Bold",
+      "charCount": 559,
+      "glyphCount": 643
+    }
+  },
+  "subsets": [
+    "full",
+    "en"
+  ],
+  "foundry": null,
+  "designer": "Pablo Impallari",
+  "releaseYear": 2016,
+  "version": "2.000.0",
+  "copyright": "Copyright 2016 The Dancing Script Project Authors (impallari@gmail.com), with Reserved Font Name 'Dancing Script’.",
+  "license": {
+    "type": "联系授权",
+    "spdx": null,
+    "url": "http://scripts.sil.org/OFL",
+    "commercial": null,
+    "attribution": null
+  },
+  "languages": [
+    "en"
+  ],
+  "languagesZh": [
+    "英语"
+  ],
+  "tags": [],
+  "keywords": [],
+  "useCases": [],
+  "description": null,
+  "dateAdded": null,
+  "ossPath": "fonts-packages/DancingScriptRegular",
+  "_extraction": {
+    "source": [
+      "/mnt/shared-context/fonts/700款免费商用字体合集/3-其它商用字体/英文字体112款/DancingScript-Bold.ttf",
+      "/mnt/shared-context/fonts/700款免费商用字体合集/3-其它商用字体/英文字体112款/DancingScript-Regular.ttf"
+    ],
+    "ttcIndex": null,
+    "extractedAt": "2026-03-22T12:30:06.652433+00:00",
+    "toolVersion": "1.0.0",
+    "isVariable": false,
+    "variableAxes": [],
+    "openTypeFeatures": [
+      "aalt",
+      "case",
+      "ccmp",
+      "dlig",
+      "fina",
+      "frac",
+      "init",
+      "kern",
+      "liga",
+      "locl",
+      "mark",
+      "mkmk",
+      "ordn",
+      "salt",
+      "sups"
+    ],
+    "unitsPerEm": 1000,
+    "created": "2016-09-28",
+    "modified": "2016-11-07",
+    "achVendID": "UKWN",
+    "fsType": 0,
+    "panose": {
+      "familyKind": 3,
+      "serifStyle": 8,
+      "weight": 6,
+      "proportion": 0,
+      "contrast": 4
+    },
+    "cjkCoverage": {
+      "cjkUnified": 0,
+      "gb2312Approx": 0,
+      "gb2312Total": 6763,
+      "gb2312Pct": 0,
+      "gbk": 0
+    },
+    "manufacturer": "Pablo Impallari",
+    "vendorURL": "http://www.impallari.com",
+    "designerURL": "http://www.impallari.com",
+    "licenseText": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+  },
+  "_needs_enrichment": [
+    "tags",
+    "keywords",
+    "useCases",
+    "license.type",
+    "license.spdx",
+    "description"
+  ]
+}

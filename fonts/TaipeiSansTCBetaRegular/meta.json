@@ -1,0 +1,135 @@
+{
+  "id": "taipeisanstcbeta-regular",
+  "normalizedName": "TaipeiSansTCBetaRegular",
+  "family": "Taipei Sans TC Beta",
+  "familyEn": "Taipei Sans TC Beta",
+  "fontFamily": "WF-TaipeiSansTCBetaRegular",
+  "category": "sans-serif",
+  "categoryZh": "无衬线字体",
+  "classifications": [],
+  "weights": [
+    300,
+    400,
+    700
+  ],
+  "weightDetails": {
+    "Light": {
+      "cssWeight": 300,
+      "fontFamily": "WF-TaipeiSansTCBetaLight-Light",
+      "charCount": 32762,
+      "glyphCount": 32817
+    },
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-TaipeiSansTCBetaRegular-Regular",
+      "charCount": 32731,
+      "glyphCount": 32806
+    },
+    "Bold": {
+      "cssWeight": 700,
+      "fontFamily": "WF-TaipeiSansTCBetaBold-Bold",
+      "charCount": 32732,
+      "glyphCount": 32807
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": null,
+  "designer": "JT Foundry",
+  "releaseYear": null,
+  "version": "1.000.0",
+  "copyright": "Taipei Sans TC is a modified font of Source Han Sans.",
+  "license": {
+    "type": "联系授权",
+    "spdx": null,
+    "url": "http://scripts.sil.org/OFL",
+    "commercial": null,
+    "attribution": null
+  },
+  "languages": [
+    "en",
+    "zh-Hans",
+    "zh-Hant",
+    "ja"
+  ],
+  "languagesZh": [
+    "英语",
+    "简体中文",
+    "繁体中文",
+    "日语"
+  ],
+  "tags": [],
+  "keywords": [],
+  "useCases": [],
+  "description": null,
+  "dateAdded": null,
+  "ossPath": "fonts-packages/TaipeiSansTCBetaRegular",
+  "_extraction": {
+    "source": [
+      "/mnt/shared-context/fonts/700款免费商用字体合集/最近更新/台北黑体 Taipei Sans 可商用/TaipeiSansTCBeta-Light.ttf",
+      "/mnt/shared-context/fonts/700款免费商用字体合集/最近更新/台北黑体 Taipei Sans 可商用/TaipeiSansTCBeta-Regular.ttf",
+      "/mnt/shared-context/fonts/字体文件/台北黑体/台北黑体/TaipeiSansTCBeta-Bold.ttf",
+      "/mnt/shared-context/fonts/字体文件/台北黑体/台北黑体/TaipeiSansTCBeta-Light.ttf",
+      "/mnt/shared-context/fonts/字体文件/台北黑体/台北黑体/TaipeiSansTCBeta-Regular.ttf"
+    ],
+    "ttcIndex": null,
+    "extractedAt": "2026-03-22T12:30:10.950532+00:00",
+    "toolVersion": "1.0.0",
+    "isVariable": false,
+    "variableAxes": [],
+    "openTypeFeatures": [
+      "aalt",
+      "ccmp",
+      "dlig",
+      "fwid",
+      "halt",
+      "hist",
+      "hwid",
+      "kern",
+      "liga",
+      "locl",
+      "palt",
+      "pwid",
+      "vert",
+      "vhal",
+      "vkrn",
+      "vpal",
+      "vrt2"
+    ],
+    "unitsPerEm": 1024,
+    "created": "2019-06-30",
+    "modified": "2019-07-04",
+    "achVendID": "",
+    "fsType": 0,
+    "panose": {
+      "familyKind": 0,
+      "serifStyle": 0,
+      "weight": 0,
+      "proportion": 0,
+      "contrast": 0
+    },
+    "cjkCoverage": {
+      "cjkUnified": 20945,
+      "gb2312Approx": 6763,
+      "gb2312Total": 6763,
+      "gb2312Pct": 100.0,
+      "gbk": 27527
+    },
+    "manufacturer": "JT Foundry",
+    "vendorURL": "bit.ly/jtfoundry",
+    "designerURL": "bit.ly/jtfoundry",
+    "licenseText": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software."
+  },
+  "_needs_enrichment": [
+    "tags",
+    "keywords",
+    "useCases",
+    "license.type",
+    "license.spdx",
+    "description"
+  ]
+}

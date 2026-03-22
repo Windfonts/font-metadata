@@ -1,0 +1,111 @@
+{
+  "id": "m-chs1p2pnjc",
+  "normalizedName": "MCHS1p2pNJC",
+  "family": "M+ CHS 1p2p NJC",
+  "familyEn": "M+ CHS 1p2p NJC",
+  "fontFamily": "WF-MCHS1p2pNJC",
+  "category": "serif",
+  "categoryZh": "衬线字体",
+  "classifications": [],
+  "weights": [
+    400,
+    700
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-MCHS1p2pNJC-Regular",
+      "charCount": 10965,
+      "glyphCount": 11067
+    },
+    "Bold": {
+      "cssWeight": 700,
+      "fontFamily": "WF-MCHS1p2pNJCBold-Bold",
+      "charCount": 10968,
+      "glyphCount": 11067
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": null,
+  "designer": null,
+  "releaseYear": 2014,
+  "version": "2.00.0",
+  "copyright": "Copyright(c) 2014 M+ FONTS PROJECT",
+  "license": {
+    "type": "联系授权",
+    "spdx": null,
+    "url": null,
+    "commercial": null,
+    "attribution": null
+  },
+  "languages": [
+    "en",
+    "zh-Hans",
+    "zh-Hant",
+    "ja"
+  ],
+  "languagesZh": [
+    "英语",
+    "简体中文",
+    "繁体中文",
+    "日语"
+  ],
+  "tags": [],
+  "keywords": [],
+  "useCases": [],
+  "description": "Õâ¸ö°M+“JK Gothic L”thic 2014ÖM+2c»ùÓÚ2014°æM+2M+©¸Ä¶ø“JK¬”ÇÖ±Ó´ÓÔ°æM+2016ÔM+ 2",
+  "dateAdded": null,
+  "ossPath": "fonts-packages/MCHS1p2pNJC",
+  "_extraction": {
+    "source": [
+      "/mnt/shared-context/fonts/字体文件/M+ CHS 1p2p NJC/OTF/M+b201026.otf",
+      "/mnt/shared-context/fonts/字体文件/M+ CHS 1p2p NJC/OTF/M+reg200630.otf"
+    ],
+    "ttcIndex": null,
+    "extractedAt": "2026-03-22T12:30:11.389592+00:00",
+    "toolVersion": "1.0.0",
+    "isVariable": false,
+    "variableAxes": [],
+    "openTypeFeatures": [
+      "dlig",
+      "kern",
+      "onum",
+      "vert"
+    ],
+    "unitsPerEm": 1024,
+    "created": "2016-12-31",
+    "modified": "2020-06-30",
+    "achVendID": "M+",
+    "fsType": 0,
+    "panose": {
+      "familyKind": 2,
+      "serifStyle": 0,
+      "weight": 3,
+      "proportion": 0,
+      "contrast": 0
+    },
+    "cjkCoverage": {
+      "cjkUnified": 9195,
+      "gb2312Approx": 6763,
+      "gb2312Total": 6763,
+      "gb2312Pct": 100.0,
+      "gbk": 9212
+    },
+    "manufacturer": null,
+    "vendorURL": null,
+    "designerURL": null,
+    "licenseText": null
+  },
+  "_needs_enrichment": [
+    "tags",
+    "keywords",
+    "useCases",
+    "license.type",
+    "license.spdx"
+  ]
+}

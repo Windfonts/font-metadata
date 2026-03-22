@@ -1,0 +1,167 @@
+{
+  "id": "notosanscjk-regular",
+  "normalizedName": "NotoSansCJKRegular",
+  "family": "Noto Sans CJK",
+  "familyEn": "Noto Sans CJK",
+  "fontFamily": "WF-NotoSansCJKRegular",
+  "category": "sans-serif",
+  "categoryZh": "无衬线字体",
+  "classifications": [],
+  "weights": [
+    100,
+    300,
+    400,
+    500,
+    700,
+    900
+  ],
+  "weightDetails": {
+    "Thin": {
+      "cssWeight": 100,
+      "fontFamily": "WF-NotoSansCJKThin-Thin",
+      "charCount": 44681,
+      "glyphCount": 65535
+    },
+    "Light": {
+      "cssWeight": 300,
+      "fontFamily": "WF-NotoSansCJKLight-Light",
+      "charCount": 44681,
+      "glyphCount": 65535
+    },
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-NotoSansCJKRegular-Regular",
+      "charCount": 44681,
+      "glyphCount": 65535
+    },
+    "Medium": {
+      "cssWeight": 500,
+      "fontFamily": "WF-NotoSansCJKMedium-Medium",
+      "charCount": 44681,
+      "glyphCount": 65535
+    },
+    "Bold": {
+      "cssWeight": 700,
+      "fontFamily": "WF-NotoSansCJKBold-Bold",
+      "charCount": 44681,
+      "glyphCount": 65535
+    },
+    "Black": {
+      "cssWeight": 900,
+      "fontFamily": "WF-NotoSansCJKBlack-Black",
+      "charCount": 44681,
+      "glyphCount": 65535
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "adobe",
+  "designer": "Ryoko NISHIZUKA (kana & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Wenlong ZHANG (bopomofo); Sandoll Communication, Soo-young JANG & Joo-yeon KANG (hangul elements, letters & syllables)",
+  "releaseYear": 2014,
+  "version": "1.000.0",
+  "copyright": "Copyright © 2014 Adobe Systems Incorporated. All Rights Reserved.",
+  "license": {
+    "type": "联系授权",
+    "spdx": null,
+    "url": "http://www.apache.org/licenses/LICENSE-2.0.html",
+    "commercial": null,
+    "attribution": null
+  },
+  "languages": [
+    "en",
+    "zh-Hans",
+    "zh-Hant",
+    "ja",
+    "ko"
+  ],
+  "languagesZh": [
+    "英语",
+    "简体中文",
+    "繁体中文",
+    "日语",
+    "韩语"
+  ],
+  "tags": [],
+  "keywords": [],
+  "useCases": [],
+  "description": "Dr. Ken Lunde (project architect, glyph set definition & overall production); Masataka HATTORI (production & ideograph elements)",
+  "dateAdded": null,
+  "ossPath": "fonts-packages/NotoSansCJKRegular",
+  "_extraction": {
+    "source": [
+      "/mnt/shared-context/fonts/700款免费商用字体合集/1-思源字体137款/思源黑体NotoSansCJK-Google自有版本/NotoSansCJK-Black.otf",
+      "/mnt/shared-context/fonts/700款免费商用字体合集/1-思源字体137款/思源黑体NotoSansCJK-Google自有版本/NotoSansCJK-Bold.otf",
+      "/mnt/shared-context/fonts/700款免费商用字体合集/1-思源字体137款/思源黑体NotoSansCJK-Google自有版本/NotoSansCJK-DemiLight.otf",
+      "/mnt/shared-context/fonts/700款免费商用字体合集/1-思源字体137款/思源黑体NotoSansCJK-Google自有版本/NotoSansCJK-Light.otf",
+      "/mnt/shared-context/fonts/700款免费商用字体合集/1-思源字体137款/思源黑体NotoSansCJK-Google自有版本/NotoSansCJK-Medium.otf",
+      "/mnt/shared-context/fonts/700款免费商用字体合集/1-思源字体137款/思源黑体NotoSansCJK-Google自有版本/NotoSansCJK-Regular.otf",
+      "/mnt/shared-context/fonts/700款免费商用字体合集/1-思源字体137款/思源黑体NotoSansCJK-Google自有版本/NotoSansCJK-Thin.otf"
+    ],
+    "ttcIndex": null,
+    "extractedAt": "2026-03-22T12:29:54.285013+00:00",
+    "toolVersion": "1.0.0",
+    "isVariable": false,
+    "variableAxes": [],
+    "openTypeFeatures": [
+      "aalt",
+      "calt",
+      "ccmp",
+      "dlig",
+      "fwid",
+      "halt",
+      "hngl",
+      "hwid",
+      "jp78",
+      "jp83",
+      "jp90",
+      "kern",
+      "liga",
+      "ljmo",
+      "locl",
+      "nlck",
+      "palt",
+      "pwid",
+      "tjmo",
+      "vert",
+      "vhal",
+      "vjmo",
+      "vkrn",
+      "vpal",
+      "vrt2"
+    ],
+    "unitsPerEm": 1000,
+    "created": "2014-06-24",
+    "modified": "2014-06-24",
+    "achVendID": "ADBE",
+    "fsType": 8,
+    "panose": {
+      "familyKind": 2,
+      "serifStyle": 11,
+      "weight": 5,
+      "proportion": 0,
+      "contrast": 0
+    },
+    "cjkCoverage": {
+      "cjkUnified": 20945,
+      "gb2312Approx": 6763,
+      "gb2312Total": 6763,
+      "gb2312Pct": 100.0,
+      "gbk": 27527
+    },
+    "manufacturer": "Adobe Systems Incorporated",
+    "vendorURL": "http://www.adobe.com/type/",
+    "designerURL": null,
+    "licenseText": "Copyright © 2014 Adobe Systems Incorporated\r\nLicensed under the Apache License, Version 2.0 (the \"License\"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0.html\r\nUnless required by applicable law or agreed to in writing, software distributed under the License is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.\r\n"
+  },
+  "_needs_enrichment": [
+    "tags",
+    "keywords",
+    "useCases",
+    "license.type",
+    "license.spdx"
+  ]
+}

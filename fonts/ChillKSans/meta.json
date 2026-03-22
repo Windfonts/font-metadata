@@ -1,0 +1,125 @@
+{
+  "id": "chill-k-sans",
+  "normalizedName": "ChillKSans",
+  "family": "寒蝉宽黑体",
+  "familyEn": "Chill K Sans",
+  "fontFamily": "WF-ChillKSans",
+  "category": "sans-serif",
+  "categoryZh": "无衬线字体",
+  "classifications": [],
+  "weights": [
+    500
+  ],
+  "weightDetails": {
+    "Medium": {
+      "cssWeight": 500,
+      "fontFamily": "WF-ChillKSans-Medium",
+      "charCount": 30274,
+      "glyphCount": 33395
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": null,
+  "designer": "Ryoko NISHIZUKA (kana, bopomofo & ideographs);Montserrat by Julieta Ulanovsky; Glow Sans is built by Celestial Phineas.",
+  "releaseYear": 2020,
+  "version": "1.000.0",
+  "copyright": "Glow Sans (c) 2020 Project Welai. Source Han Sans (c) 2014-2019 Adobe (http://www.adobe.com/). Copyright 2011 The Montserrat Project Authors. ",
+  "license": {
+    "type": "联系授权",
+    "spdx": null,
+    "url": "http://scripts.sil.org/OFL",
+    "commercial": null,
+    "attribution": null
+  },
+  "languages": [
+    "en",
+    "zh-Hans",
+    "zh-Hant",
+    "ja"
+  ],
+  "languagesZh": [
+    "英语",
+    "简体中文",
+    "繁体中文",
+    "日语"
+  ],
+  "tags": [],
+  "keywords": [],
+  "useCases": [],
+  "description": null,
+  "dateAdded": null,
+  "ossPath": "fonts-packages/ChillKSans",
+  "_extraction": {
+    "source": "/mnt/shared-context/fonts/字体文件/寒蝉宽黑体/寒蝉宽黑体.otf",
+    "ttcIndex": null,
+    "extractedAt": "2026-03-22T12:30:14.599291+00:00",
+    "toolVersion": "1.0.0",
+    "isVariable": false,
+    "variableAxes": [],
+    "openTypeFeatures": [
+      "aalt",
+      "c2sc",
+      "case",
+      "ccmp",
+      "dlig",
+      "dnom",
+      "frac",
+      "fwid",
+      "hist",
+      "hwid",
+      "kern",
+      "liga",
+      "lnum",
+      "locl",
+      "numr",
+      "onum",
+      "ordn",
+      "pnum",
+      "sinf",
+      "smcp",
+      "ss01",
+      "subs",
+      "sups",
+      "tnum",
+      "vert",
+      "vkrn",
+      "vrt2"
+    ],
+    "unitsPerEm": 1000,
+    "created": "2021-12-20",
+    "modified": "2021-12-20",
+    "achVendID": "UKWN",
+    "fsType": 0,
+    "panose": {
+      "familyKind": 2,
+      "serifStyle": 11,
+      "weight": 4,
+      "proportion": 0,
+      "contrast": 0
+    },
+    "cjkCoverage": {
+      "cjkUnified": 20976,
+      "gb2312Approx": 6763,
+      "gb2312Total": 6763,
+      "gb2312Pct": 100.0,
+      "gbk": 27558
+    },
+    "manufacturer": null,
+    "vendorURL": null,
+    "designerURL": null,
+    "licenseText": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software."
+  },
+  "_needs_enrichment": [
+    "tags",
+    "keywords",
+    "useCases",
+    "license.type",
+    "license.spdx",
+    "description"
+  ]
+}

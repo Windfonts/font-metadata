@@ -1,0 +1,89 @@
+{
+  "id": "fonsung16",
+  "normalizedName": "Fonsung16",
+  "family": "坊宋",
+  "familyEn": "Fonsung",
+  "fontFamily": "WF-Fonsung16",
+  "category": "serif",
+  "categoryZh": "衬线字体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Fonsung16-Regular",
+      "charCount": 7570,
+      "glyphCount": 7746
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": null,
+  "designer": null,
+  "releaseYear": 1988,
+  "version": "0.0.0",
+  "copyright": "Copyright (c) 1988  The Institute of Software, Academia Sinica,\n              2020  diaowinner <diaowinner 47 qq d07 com>",
+  "license": {
+    "type": "联系授权",
+    "spdx": null,
+    "url": null,
+    "commercial": null,
+    "attribution": null
+  },
+  "languages": [
+    "en",
+    "zh-Hans",
+    "ja"
+  ],
+  "languagesZh": [
+    "英语",
+    "简体中文",
+    "日语"
+  ],
+  "tags": [],
+  "keywords": [],
+  "useCases": [],
+  "description": null,
+  "dateAdded": null,
+  "ossPath": "fonts-packages/Fonsung16",
+  "_extraction": {
+    "source": "/mnt/shared-context/fonts/字体文件/坊宋/Fonsung-211030.ttf",
+    "ttcIndex": null,
+    "extractedAt": "2026-03-22T12:30:14.544341+00:00",
+    "toolVersion": "1.0.0",
+    "isVariable": false,
+    "variableAxes": [],
+    "openTypeFeatures": [],
+    "unitsPerEm": 1600,
+    "created": "2021-10-29",
+    "modified": "2021-10-30",
+    "achVendID": null,
+    "fsType": null,
+    "panose": null,
+    "cjkCoverage": {
+      "cjkUnified": 6763,
+      "gb2312Approx": 6763,
+      "gb2312Total": 6763,
+      "gb2312Pct": 100.0,
+      "gbk": 6763
+    },
+    "manufacturer": null,
+    "vendorURL": null,
+    "designerURL": null,
+    "licenseText": null
+  },
+  "_needs_enrichment": [
+    "tags",
+    "keywords",
+    "useCases",
+    "license.type",
+    "license.spdx",
+    "description"
+  ]
+}

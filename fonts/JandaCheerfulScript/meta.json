@@ -1,0 +1,90 @@
+{
+  "id": "jandacheerfulscript",
+  "normalizedName": "JandaCheerfulScript",
+  "family": "Janda Cheerful Script",
+  "familyEn": "Janda Cheerful Script",
+  "fontFamily": "WF-JandaCheerfulScript",
+  "category": "handwriting",
+  "categoryZh": "手写体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-JandaCheerfulScript-Regular",
+      "charCount": 338,
+      "glyphCount": 341
+    }
+  },
+  "subsets": [
+    "full",
+    "en"
+  ],
+  "foundry": null,
+  "designer": "Kimberly Geswein",
+  "releaseYear": 2012,
+  "version": "1.000.0",
+  "copyright": "Copyright (c) 2012 by Kimberly Geswein. All rights reserved.",
+  "license": {
+    "type": "联系授权",
+    "spdx": null,
+    "url": null,
+    "commercial": null,
+    "attribution": null
+  },
+  "languages": [
+    "en"
+  ],
+  "languagesZh": [
+    "英语"
+  ],
+  "tags": [],
+  "keywords": [],
+  "useCases": [],
+  "description": "Copyright (c) 2012 by Kimberly Geswein. All rights reserved.",
+  "dateAdded": null,
+  "ossPath": "fonts-packages/JandaCheerfulScript",
+  "_extraction": {
+    "source": "/mnt/shared-context/fonts/700款免费商用字体合集/最近更新/50款免费圣诞英文字体/31-JandaCheerfulScript.ttf",
+    "ttcIndex": null,
+    "extractedAt": "2026-03-22T12:30:08.618222+00:00",
+    "toolVersion": "1.0.0",
+    "isVariable": false,
+    "variableAxes": [],
+    "openTypeFeatures": [
+      "kern"
+    ],
+    "unitsPerEm": 1024,
+    "created": "2012-10-22",
+    "modified": "2012-10-22",
+    "achVendID": "",
+    "fsType": 0,
+    "panose": {
+      "familyKind": 2,
+      "serifStyle": 0,
+      "weight": 5,
+      "proportion": 5,
+      "contrast": 0
+    },
+    "cjkCoverage": {
+      "cjkUnified": 0,
+      "gb2312Approx": 0,
+      "gb2312Total": 6763,
+      "gb2312Pct": 0,
+      "gbk": 0
+    },
+    "manufacturer": "Kimberly Geswein",
+    "vendorURL": null,
+    "designerURL": "http://kimberlygeswein.com",
+    "licenseText": "http://kimberlygeswein.com"
+  },
+  "_needs_enrichment": [
+    "tags",
+    "keywords",
+    "useCases",
+    "license.type",
+    "license.spdx"
+  ]
+}

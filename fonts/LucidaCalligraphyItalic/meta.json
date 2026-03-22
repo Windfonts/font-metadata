@@ -1,0 +1,93 @@
+{
+  "id": "lucidacalligraphy-italic",
+  "normalizedName": "LucidaCalligraphyItalic",
+  "family": "Lucida Calligraphy",
+  "familyEn": "Lucida Calligraphy",
+  "fontFamily": "WF-LucidaCalligraphyItalic",
+  "category": "handwriting",
+  "categoryZh": "手写体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-LucidaCalligraphyItalic-Regular",
+      "charCount": 240,
+      "glyphCount": 244
+    }
+  },
+  "subsets": [
+    "full",
+    "en"
+  ],
+  "foundry": null,
+  "designer": null,
+  "releaseYear": 1991,
+  "version": "1.67.0",
+  "copyright": "?1991 Bigelow & Holmes. All Rights Reserved. ?1990-1991 Type Solutions, Inc. All Rights Reserved.",
+  "license": {
+    "type": "联系授权",
+    "spdx": null,
+    "url": null,
+    "commercial": null,
+    "attribution": null
+  },
+  "languages": [
+    "en"
+  ],
+  "languagesZh": [
+    "英语"
+  ],
+  "tags": [],
+  "keywords": [],
+  "useCases": [],
+  "description": "Copyright (c) 1991 by . All rights reserved.",
+  "dateAdded": null,
+  "ossPath": "fonts-packages/LucidaCalligraphyItalic",
+  "_extraction": {
+    "source": [
+      "/mnt/shared-context/fonts/700款免费商用字体合集/2-常用商用字体/站酷字体7款——不限平台与场景使用/站酷意大利体01.TTF",
+      "/mnt/shared-context/fonts/700款免费商用字体合集/2-常用商用字体/站酷字体7款——不限平台与场景使用/站酷意大利体02.TTF",
+      "/mnt/shared-context/fonts/字体文件/站酷免费商用字体/站酷免费商用字体/ZCOOL Addict Italic］站酷意大利体01.ttf",
+      "/mnt/shared-context/fonts/字体文件/站酷免费商用字体/站酷免费商用字体/ZCOOL Addict Italic］站酷意大利体02.ttf"
+    ],
+    "ttcIndex": null,
+    "extractedAt": "2026-03-22T12:30:00.867591+00:00",
+    "toolVersion": "1.0.0",
+    "isVariable": false,
+    "variableAxes": [],
+    "openTypeFeatures": [],
+    "unitsPerEm": 2048,
+    "created": "1991-01-25",
+    "modified": "2016-04-21",
+    "achVendID": "B&H",
+    "fsType": 8,
+    "panose": {
+      "familyKind": 2,
+      "serifStyle": 0,
+      "weight": 5,
+      "proportion": 5,
+      "contrast": 3
+    },
+    "cjkCoverage": {
+      "cjkUnified": 0,
+      "gb2312Approx": 0,
+      "gb2312Total": 6763,
+      "gb2312Pct": 0,
+      "gbk": 0
+    },
+    "manufacturer": null,
+    "vendorURL": null,
+    "designerURL": null,
+    "licenseText": null
+  },
+  "_needs_enrichment": [
+    "tags",
+    "keywords",
+    "useCases",
+    "license.type",
+    "license.spdx"
+  ]
+}

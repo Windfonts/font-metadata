@@ -1,0 +1,88 @@
+{
+  "id": "dolcevitaheavy-bold",
+  "normalizedName": "DolceVitaHeavyBold",
+  "family": "Dolce Vita Heavy",
+  "familyEn": "Dolce Vita Heavy",
+  "fontFamily": "WF-DolceVitaHeavyBold",
+  "category": "serif",
+  "categoryZh": "衬线字体",
+  "classifications": [],
+  "weights": [
+    700
+  ],
+  "weightDetails": {
+    "Bold": {
+      "cssWeight": 700,
+      "fontFamily": "WF-DolceVitaHeavyBold-Bold",
+      "charCount": 240,
+      "glyphCount": 236
+    }
+  },
+  "subsets": [
+    "full",
+    "en"
+  ],
+  "foundry": null,
+  "designer": null,
+  "releaseYear": null,
+  "version": "1.00.0",
+  "copyright": "Michael Muranaka",
+  "license": {
+    "type": "联系授权",
+    "spdx": null,
+    "url": null,
+    "commercial": null,
+    "attribution": null
+  },
+  "languages": [
+    "en"
+  ],
+  "languagesZh": [
+    "英语"
+  ],
+  "tags": [],
+  "keywords": [],
+  "useCases": [],
+  "description": "This font was created using FontCreator 6.0 from High-Logic.com",
+  "dateAdded": null,
+  "ossPath": "fonts-packages/DolceVitaHeavyBold",
+  "_extraction": {
+    "source": "/mnt/shared-context/fonts/700款免费商用字体合集/3-其它商用字体/英文字体112款/Dolce Vita Heavy Bold.ttf",
+    "ttcIndex": null,
+    "extractedAt": "2026-03-22T12:30:06.701045+00:00",
+    "toolVersion": "1.0.0",
+    "isVariable": false,
+    "variableAxes": [],
+    "openTypeFeatures": [],
+    "unitsPerEm": 2048,
+    "created": "2013-11-07",
+    "modified": "2013-11-07",
+    "achVendID": "HL",
+    "fsType": 8,
+    "panose": {
+      "familyKind": 2,
+      "serifStyle": 0,
+      "weight": 8,
+      "proportion": 0,
+      "contrast": 0
+    },
+    "cjkCoverage": {
+      "cjkUnified": 0,
+      "gb2312Approx": 0,
+      "gb2312Total": 6763,
+      "gb2312Pct": 0,
+      "gbk": 0
+    },
+    "manufacturer": null,
+    "vendorURL": null,
+    "designerURL": null,
+    "licenseText": null
+  },
+  "_needs_enrichment": [
+    "tags",
+    "keywords",
+    "useCases",
+    "license.type",
+    "license.spdx"
+  ]
+}

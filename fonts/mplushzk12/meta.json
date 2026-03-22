@@ -1,0 +1,97 @@
+{
+  "id": "mplus-hzk-12",
+  "normalizedName": "mplushzk12",
+  "family": "mplus_hzk_12",
+  "familyEn": "mplus_hzk_12",
+  "fontFamily": "WF-mplushzk12",
+  "category": "serif",
+  "categoryZh": "衬线字体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-mplushzk12-Regular",
+      "charCount": 10644,
+      "glyphCount": 10902
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": null,
+  "designer": null,
+  "releaseYear": 2020,
+  "version": "001.000.0",
+  "copyright": "Copyright (c) 2020, op",
+  "license": {
+    "type": "联系授权",
+    "spdx": null,
+    "url": null,
+    "commercial": null,
+    "attribution": null
+  },
+  "languages": [
+    "en",
+    "zh-Hans",
+    "zh-Hant",
+    "ja"
+  ],
+  "languagesZh": [
+    "英语",
+    "简体中文",
+    "繁体中文",
+    "日语"
+  ],
+  "tags": [],
+  "keywords": [],
+  "useCases": [],
+  "description": null,
+  "dateAdded": null,
+  "ossPath": "fonts-packages/mplushzk12",
+  "_extraction": {
+    "source": "/mnt/shared-context/fonts/字体文件/mplus_hzk中文像素字体/中文像素字体.ttf",
+    "ttcIndex": null,
+    "extractedAt": "2026-03-22T12:30:12.556619+00:00",
+    "toolVersion": "1.0.0",
+    "isVariable": false,
+    "variableAxes": [],
+    "openTypeFeatures": [],
+    "unitsPerEm": 1200,
+    "created": "2020-03-02",
+    "modified": "2020-12-18",
+    "achVendID": "PfEd",
+    "fsType": 0,
+    "panose": {
+      "familyKind": 2,
+      "serifStyle": 0,
+      "weight": 5,
+      "proportion": 3,
+      "contrast": 0
+    },
+    "cjkCoverage": {
+      "cjkUnified": 9788,
+      "gb2312Approx": 6763,
+      "gb2312Total": 6763,
+      "gb2312Pct": 100.0,
+      "gbk": 9788
+    },
+    "manufacturer": null,
+    "vendorURL": null,
+    "designerURL": null,
+    "licenseText": null
+  },
+  "_needs_enrichment": [
+    "tags",
+    "keywords",
+    "useCases",
+    "license.type",
+    "license.spdx",
+    "description"
+  ]
+}

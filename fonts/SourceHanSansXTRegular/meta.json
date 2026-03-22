@@ -1,0 +1,156 @@
+{
+  "id": "sourcehansansxt-regular",
+  "normalizedName": "SourceHanSansXTRegular",
+  "family": "思源黑体斜体",
+  "familyEn": "思源黑体斜体",
+  "fontFamily": "WF-SourceHanSansXTRegular",
+  "category": "sans-serif",
+  "categoryZh": "无衬线字体",
+  "classifications": [],
+  "weights": [
+    100,
+    300,
+    400,
+    500,
+    700,
+    900
+  ],
+  "weightDetails": {
+    "Thin": {
+      "cssWeight": 100,
+      "fontFamily": "WF-SourceHanSansXTExtraLightItalic-Thin",
+      "charCount": 30786,
+      "glyphCount": 30888
+    },
+    "Light": {
+      "cssWeight": 300,
+      "fontFamily": "WF-SourceHanSansXTNormalItalic-Light",
+      "charCount": 30786,
+      "glyphCount": 30888
+    },
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-SourceHanSansXTRegular-Regular",
+      "charCount": 30786,
+      "glyphCount": 30888
+    },
+    "Medium": {
+      "cssWeight": 500,
+      "fontFamily": "WF-SourceHanSansXTMediumItalic-Medium",
+      "charCount": 30786,
+      "glyphCount": 30888
+    },
+    "Bold": {
+      "cssWeight": 700,
+      "fontFamily": "WF-SourceHanSansXTBoldItalic-Bold",
+      "charCount": 30786,
+      "glyphCount": 30888
+    },
+    "Black": {
+      "cssWeight": 900,
+      "fontFamily": "WF-SourceHanSansXTHeavyItalic-Black",
+      "charCount": 30786,
+      "glyphCount": 30888
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": null,
+  "designer": "刘鹏优化分享",
+  "releaseYear": 2014,
+  "version": "1.00.0",
+  "copyright": "Copyright © 2014 Adobe Systems Incorporated. All Rights Reserved.",
+  "license": {
+    "type": "联系授权",
+    "spdx": null,
+    "url": "http://www.apache.org/licenses/LICENSE-2.0.html",
+    "commercial": null,
+    "attribution": null
+  },
+  "languages": [
+    "en",
+    "zh-Hans",
+    "zh-Hant",
+    "ja"
+  ],
+  "languagesZh": [
+    "英语",
+    "简体中文",
+    "繁体中文",
+    "日语"
+  ],
+  "tags": [],
+  "keywords": [],
+  "useCases": [],
+  "description": "Dr. Ken Lunde (project architect, glyph set definition & overall production); Masataka HATTORI 服部正貴 (production & ideograph elements)",
+  "dateAdded": null,
+  "ossPath": "fonts-packages/SourceHanSansXTRegular",
+  "_extraction": {
+    "source": [
+      "/mnt/shared-context/fonts/字体文件/思源黑体斜体/思源黑体斜体 Bold.ttf",
+      "/mnt/shared-context/fonts/字体文件/思源黑体斜体/思源黑体斜体 ExtraLight.ttf",
+      "/mnt/shared-context/fonts/字体文件/思源黑体斜体/思源黑体斜体 Heavy.ttf",
+      "/mnt/shared-context/fonts/字体文件/思源黑体斜体/思源黑体斜体 Light.ttf",
+      "/mnt/shared-context/fonts/字体文件/思源黑体斜体/思源黑体斜体 Medium.ttf",
+      "/mnt/shared-context/fonts/字体文件/思源黑体斜体/思源黑体斜体 Normal.ttf",
+      "/mnt/shared-context/fonts/字体文件/思源黑体斜体/思源黑体斜体 Regular.ttf"
+    ],
+    "ttcIndex": null,
+    "extractedAt": "2026-03-22T12:30:20.311216+00:00",
+    "toolVersion": "1.0.0",
+    "isVariable": false,
+    "variableAxes": [],
+    "openTypeFeatures": [
+      "aalt",
+      "ccmp",
+      "dlig",
+      "fwid",
+      "halt",
+      "hwid",
+      "kern",
+      "liga",
+      "locl",
+      "palt",
+      "pwid",
+      "vert",
+      "vhal",
+      "vkrn",
+      "vpal",
+      "vrt2"
+    ],
+    "unitsPerEm": 1000,
+    "created": "2014-06-24",
+    "modified": "2020-05-28",
+    "achVendID": "ADBE",
+    "fsType": 8,
+    "panose": {
+      "familyKind": 2,
+      "serifStyle": 11,
+      "weight": 5,
+      "proportion": 0,
+      "contrast": 0
+    },
+    "cjkCoverage": {
+      "cjkUnified": 20945,
+      "gb2312Approx": 6763,
+      "gb2312Total": 6763,
+      "gb2312Pct": 100.0,
+      "gbk": 27527
+    },
+    "manufacturer": null,
+    "vendorURL": null,
+    "designerURL": null,
+    "licenseText": "Copyright © 2014 Adobe Systems Incorporated\r\nLicensed under the Apache License, Version 2.0 (the \"License\"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0.html\r\nUnless required by applicable law or agreed to in writing, software distributed under the License is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License."
+  },
+  "_needs_enrichment": [
+    "tags",
+    "keywords",
+    "useCases",
+    "license.type",
+    "license.spdx"
+  ]
+}

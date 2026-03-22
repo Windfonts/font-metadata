@@ -1,0 +1,165 @@
+{
+  "id": "sourcehansanshc-regular",
+  "normalizedName": "SourceHanSansHCRegular",
+  "family": "思源黑體 香港",
+  "familyEn": "Source Han Sans HC",
+  "fontFamily": "WF-SourceHanSansHCRegular",
+  "category": "sans-serif",
+  "categoryZh": "无衬线字体",
+  "classifications": [],
+  "weights": [
+    200,
+    300,
+    400,
+    500,
+    700,
+    900
+  ],
+  "weightDetails": {
+    "ExtraLight": {
+      "cssWeight": 200,
+      "fontFamily": "WF-SourceHanSansHCExtraLight-ExtraLight",
+      "charCount": 44808,
+      "glyphCount": 65535
+    },
+    "Light": {
+      "cssWeight": 300,
+      "fontFamily": "WF-SourceHanSansHCNormal-Light",
+      "charCount": 44808,
+      "glyphCount": 65535
+    },
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-SourceHanSansHCRegular-Regular",
+      "charCount": 44808,
+      "glyphCount": 65535
+    },
+    "Medium": {
+      "cssWeight": 500,
+      "fontFamily": "WF-SourceHanSansHCMedium-Medium",
+      "charCount": 44808,
+      "glyphCount": 65535
+    },
+    "Bold": {
+      "cssWeight": 700,
+      "fontFamily": "WF-SourceHanSansHCBold-Bold",
+      "charCount": 44808,
+      "glyphCount": 65535
+    },
+    "Black": {
+      "cssWeight": 900,
+      "fontFamily": "WF-SourceHanSansHCHeavy-Black",
+      "charCount": 44808,
+      "glyphCount": 65535
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "google-adobe",
+  "designer": "Ryoko NISHIZUKA 西塚涼子 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications 산돌커뮤니케이션, Soo-young JANG 장수영 & Joo-yeon KANG 강주연 (hangul elements, letters & syllables)",
+  "releaseYear": 2014,
+  "version": "2.001.0",
+  "copyright": "© 2014-2019 Adobe (http://www.adobe.com/), with Reserved Font Name 'Source'.",
+  "license": {
+    "type": "联系授权",
+    "spdx": null,
+    "url": "http://scripts.sil.org/OFL",
+    "commercial": null,
+    "attribution": null
+  },
+  "languages": [
+    "en",
+    "zh-Hans",
+    "zh-Hant",
+    "ja",
+    "ko"
+  ],
+  "languagesZh": [
+    "英语",
+    "简体中文",
+    "繁体中文",
+    "日语",
+    "韩语"
+  ],
+  "tags": [],
+  "keywords": [],
+  "useCases": [],
+  "description": "Dr. Ken Lunde (project architect, glyph set definition & overall production); Masataka HATTORI 服部正貴 (production & ideograph elements)",
+  "dateAdded": null,
+  "ossPath": "fonts-packages/SourceHanSansHCRegular",
+  "_extraction": {
+    "source": [
+      "/mnt/shared-context/fonts/700款免费商用字体合集/1-思源字体137款/思源黑體SourceHanSansHC 香港版/SourceHanSansHC-Bold.ttf",
+      "/mnt/shared-context/fonts/700款免费商用字体合集/1-思源字体137款/思源黑體SourceHanSansHC 香港版/SourceHanSansHC-ExtraLight.ttf",
+      "/mnt/shared-context/fonts/700款免费商用字体合集/1-思源字体137款/思源黑體SourceHanSansHC 香港版/SourceHanSansHC-Heavy.ttf",
+      "/mnt/shared-context/fonts/700款免费商用字体合集/1-思源字体137款/思源黑體SourceHanSansHC 香港版/SourceHanSansHC-Light.ttf",
+      "/mnt/shared-context/fonts/700款免费商用字体合集/1-思源字体137款/思源黑體SourceHanSansHC 香港版/SourceHanSansHC-Medium.ttf",
+      "/mnt/shared-context/fonts/700款免费商用字体合集/1-思源字体137款/思源黑體SourceHanSansHC 香港版/SourceHanSansHC-Normal.ttf",
+      "/mnt/shared-context/fonts/700款免费商用字体合集/1-思源字体137款/思源黑體SourceHanSansHC 香港版/SourceHanSansHC-Regular.ttf"
+    ],
+    "ttcIndex": null,
+    "extractedAt": "2026-03-22T12:29:58.378418+00:00",
+    "toolVersion": "1.0.0",
+    "isVariable": false,
+    "variableAxes": [],
+    "openTypeFeatures": [
+      "aalt",
+      "calt",
+      "ccmp",
+      "dlig",
+      "fwid",
+      "halt",
+      "hist",
+      "hwid",
+      "kern",
+      "liga",
+      "ljmo",
+      "locl",
+      "mark",
+      "palt",
+      "pwid",
+      "ruby",
+      "tjmo",
+      "vert",
+      "vhal",
+      "vjmo",
+      "vkrn",
+      "vpal",
+      "vrt2"
+    ],
+    "unitsPerEm": 1000,
+    "created": "2019-04-04",
+    "modified": "2019-10-19",
+    "achVendID": "ADBO",
+    "fsType": 0,
+    "panose": {
+      "familyKind": 2,
+      "serifStyle": 11,
+      "weight": 5,
+      "proportion": 0,
+      "contrast": 0
+    },
+    "cjkCoverage": {
+      "cjkUnified": 20976,
+      "gb2312Approx": 6763,
+      "gb2312Total": 6763,
+      "gb2312Pct": 100.0,
+      "gbk": 27558
+    },
+    "manufacturer": "Adobe",
+    "vendorURL": "http://www.adobe.com/type/",
+    "designerURL": null,
+    "licenseText": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software."
+  },
+  "_needs_enrichment": [
+    "tags",
+    "keywords",
+    "useCases",
+    "license.type",
+    "license.spdx"
+  ]
+}

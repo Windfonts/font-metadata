@@ -1,0 +1,89 @@
+{
+  "id": "chopinscript",
+  "normalizedName": "ChopinScript",
+  "family": "Chopin Script",
+  "familyEn": "Chopin Script",
+  "fontFamily": "WF-ChopinScript",
+  "category": "handwriting",
+  "categoryZh": "手写体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-ChopinScript-Regular",
+      "charCount": 189,
+      "glyphCount": 190
+    }
+  },
+  "subsets": [
+    "full",
+    "en"
+  ],
+  "foundry": null,
+  "designer": null,
+  "releaseYear": 2000,
+  "version": "1.47.0",
+  "copyright": "Copyright (c) Typographer Mediengestaltung, 2000. All rights reserved. Full character set added by Dieter Steffmann, Kreuztal. (aka Polonaise)",
+  "license": {
+    "type": "联系授权",
+    "spdx": null,
+    "url": null,
+    "commercial": null,
+    "attribution": null
+  },
+  "languages": [
+    "en"
+  ],
+  "languagesZh": [
+    "英语"
+  ],
+  "tags": [],
+  "keywords": [],
+  "useCases": [],
+  "description": null,
+  "dateAdded": null,
+  "ossPath": "fonts-packages/ChopinScript",
+  "_extraction": {
+    "source": "/mnt/shared-context/fonts/700款免费商用字体合集/最近更新/50款免费圣诞英文字体/04-ChopinScript.ttf",
+    "ttcIndex": null,
+    "extractedAt": "2026-03-22T12:30:08.529689+00:00",
+    "toolVersion": "1.0.0",
+    "isVariable": false,
+    "variableAxes": [],
+    "openTypeFeatures": [],
+    "unitsPerEm": 1000,
+    "created": "2003-08-27",
+    "modified": "2003-08-27",
+    "achVendID": "DST\u0000",
+    "fsType": 0,
+    "panose": {
+      "familyKind": 2,
+      "serifStyle": 0,
+      "weight": 5,
+      "proportion": 5,
+      "contrast": 2
+    },
+    "cjkCoverage": {
+      "cjkUnified": 0,
+      "gb2312Approx": 0,
+      "gb2312Total": 6763,
+      "gb2312Pct": 0,
+      "gbk": 0
+    },
+    "manufacturer": null,
+    "vendorURL": null,
+    "designerURL": null,
+    "licenseText": null
+  },
+  "_needs_enrichment": [
+    "tags",
+    "keywords",
+    "useCases",
+    "license.type",
+    "license.spdx",
+    "description"
+  ]
+}

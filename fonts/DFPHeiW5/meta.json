@@ -1,0 +1,97 @@
+{
+  "id": "dfpheiw5",
+  "normalizedName": "DFPHeiW5",
+  "family": "华康黑体W5(P)",
+  "familyEn": "DFPHeiW5-GB",
+  "fontFamily": "WF-DFPHeiW5",
+  "category": "sans-serif",
+  "categoryZh": "无衬线字体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-DFPHeiW5-Regular",
+      "charCount": 7734,
+      "glyphCount": 7870
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": null,
+  "designer": null,
+  "releaseYear": 2002,
+  "version": "1.00.0",
+  "copyright": "(C)Copyright DynaComware Corp. 2002",
+  "license": {
+    "type": "联系授权",
+    "spdx": null,
+    "url": null,
+    "commercial": null,
+    "attribution": null
+  },
+  "languages": [
+    "en",
+    "zh-Hans",
+    "ja"
+  ],
+  "languagesZh": [
+    "英语",
+    "简体中文",
+    "日语"
+  ],
+  "tags": [],
+  "keywords": [],
+  "useCases": [],
+  "description": null,
+  "dateAdded": null,
+  "ossPath": "fonts-packages/DFPHeiW5",
+  "_extraction": {
+    "source": "/mnt/shared-context/fonts/700款免费商用字体合集/2-常用商用字体/华康字体45款——仅限阿里平台使用/12华康黑体W5.TTF",
+    "ttcIndex": null,
+    "extractedAt": "2026-03-22T12:29:59.146994+00:00",
+    "toolVersion": "1.0.0",
+    "isVariable": false,
+    "variableAxes": [],
+    "openTypeFeatures": [
+      "vert"
+    ],
+    "unitsPerEm": 1000,
+    "created": "2002-04-09",
+    "modified": "2002-04-09",
+    "achVendID": "DYNA",
+    "fsType": 4,
+    "panose": {
+      "familyKind": 2,
+      "serifStyle": 11,
+      "weight": 5,
+      "proportion": 0,
+      "contrast": 0
+    },
+    "cjkCoverage": {
+      "cjkUnified": 6763,
+      "gb2312Approx": 6763,
+      "gb2312Total": 6763,
+      "gb2312Pct": 100.0,
+      "gbk": 6763
+    },
+    "manufacturer": null,
+    "vendorURL": null,
+    "designerURL": null,
+    "licenseText": null
+  },
+  "_needs_enrichment": [
+    "tags",
+    "keywords",
+    "useCases",
+    "license.type",
+    "license.spdx",
+    "description"
+  ]
+}

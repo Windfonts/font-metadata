@@ -1,0 +1,102 @@
+{
+  "id": "elsie-regular",
+  "normalizedName": "ElsieRegular",
+  "family": "Elsie",
+  "familyEn": "Elsie",
+  "fontFamily": "WF-ElsieRegular",
+  "category": "serif",
+  "categoryZh": "衬线字体",
+  "classifications": [],
+  "weights": [
+    400,
+    900
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-ElsieRegular-Regular",
+      "charCount": 255,
+      "glyphCount": 293
+    },
+    "Black": {
+      "cssWeight": 900,
+      "fontFamily": "WF-ElsieBlackRegular-Black",
+      "charCount": 268,
+      "glyphCount": 306
+    }
+  },
+  "subsets": [
+    "full",
+    "en"
+  ],
+  "foundry": null,
+  "designer": "Alejandro Inler",
+  "releaseYear": 2010,
+  "version": "1.001.0",
+  "copyright": "Copyright (c) 2010-2012, Alejandro Inler (alejandroinler@gmail.com), with Reserved Font Name 'Elsie'",
+  "license": {
+    "type": "联系授权",
+    "spdx": null,
+    "url": "http://scripts.sil.org/OFL",
+    "commercial": null,
+    "attribution": null
+  },
+  "languages": [
+    "en"
+  ],
+  "languagesZh": [
+    "英语"
+  ],
+  "tags": [],
+  "keywords": [],
+  "useCases": [],
+  "description": null,
+  "dateAdded": null,
+  "ossPath": "fonts-packages/ElsieRegular",
+  "_extraction": {
+    "source": [
+      "/mnt/shared-context/fonts/700款免费商用字体合集/最近更新/50款免费圣诞英文字体/47-elsie/Elsie-Black.otf",
+      "/mnt/shared-context/fonts/700款免费商用字体合集/最近更新/50款免费圣诞英文字体/47-elsie/Elsie-Regular.otf"
+    ],
+    "ttcIndex": null,
+    "extractedAt": "2026-03-22T12:30:08.719224+00:00",
+    "toolVersion": "1.0.0",
+    "isVariable": false,
+    "variableAxes": [],
+    "openTypeFeatures": [
+      "liga",
+      "salt"
+    ],
+    "unitsPerEm": 1000,
+    "created": "2012-04-03",
+    "modified": "2012-12-02",
+    "achVendID": "pyrs",
+    "fsType": 0,
+    "panose": {
+      "familyKind": 2,
+      "serifStyle": 0,
+      "weight": 0,
+      "proportion": 0,
+      "contrast": 0
+    },
+    "cjkCoverage": {
+      "cjkUnified": 0,
+      "gb2312Approx": 0,
+      "gb2312Total": 6763,
+      "gb2312Pct": 0,
+      "gbk": 0
+    },
+    "manufacturer": "Alejandro Inler",
+    "vendorURL": null,
+    "designerURL": null,
+    "licenseText": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+  },
+  "_needs_enrichment": [
+    "tags",
+    "keywords",
+    "useCases",
+    "license.type",
+    "license.spdx",
+    "description"
+  ]
+}

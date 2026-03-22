@@ -1,0 +1,91 @@
+{
+  "id": "antrokasdemo",
+  "normalizedName": "Antrokasdemo",
+  "family": "Antrokasdemo",
+  "familyEn": "Antrokasdemo",
+  "fontFamily": "WF-Antrokasdemo",
+  "category": "serif",
+  "categoryZh": "衬线字体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Antrokasdemo-Regular",
+      "charCount": 64,
+      "glyphCount": 66
+    }
+  },
+  "subsets": [
+    "full",
+    "en"
+  ],
+  "foundry": null,
+  "designer": "Roci",
+  "releaseYear": 2012,
+  "version": "1.000.0",
+  "copyright": "Generated in 2012 by FontLab Studio. Copyright info pending.",
+  "license": {
+    "type": "联系授权",
+    "spdx": null,
+    "url": null,
+    "commercial": null,
+    "attribution": null
+  },
+  "languages": [
+    "en"
+  ],
+  "languagesZh": [
+    "英语"
+  ],
+  "tags": [],
+  "keywords": [],
+  "useCases": [],
+  "description": null,
+  "dateAdded": null,
+  "ossPath": "fonts-packages/Antrokasdemo",
+  "_extraction": {
+    "source": "/mnt/shared-context/fonts/700款免费商用字体合集/最近更新/50款免费圣诞英文字体/14-antrokas_demo.otf",
+    "ttcIndex": null,
+    "extractedAt": "2026-03-22T12:30:08.554652+00:00",
+    "toolVersion": "1.0.0",
+    "isVariable": false,
+    "variableAxes": [],
+    "openTypeFeatures": [
+      "kern"
+    ],
+    "unitsPerEm": 1000,
+    "created": "2012-01-03",
+    "modified": "2012-01-03",
+    "achVendID": "PYRS",
+    "fsType": 2,
+    "panose": {
+      "familyKind": 2,
+      "serifStyle": 0,
+      "weight": 5,
+      "proportion": 6,
+      "contrast": 2
+    },
+    "cjkCoverage": {
+      "cjkUnified": 0,
+      "gb2312Approx": 0,
+      "gb2312Total": 6763,
+      "gb2312Pct": 0,
+      "gbk": 0
+    },
+    "manufacturer": "Roci",
+    "vendorURL": null,
+    "designerURL": "http://www.roci.lt",
+    "licenseText": null
+  },
+  "_needs_enrichment": [
+    "tags",
+    "keywords",
+    "useCases",
+    "license.type",
+    "license.spdx",
+    "description"
+  ]
+}

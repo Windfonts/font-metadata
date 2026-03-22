@@ -1,0 +1,90 @@
+{
+  "id": "lot",
+  "normalizedName": "Lot",
+  "family": "Lot",
+  "familyEn": "Lot",
+  "fontFamily": "WF-Lot",
+  "category": "serif",
+  "categoryZh": "衬线字体",
+  "classifications": [],
+  "weights": [
+    900
+  ],
+  "weightDetails": {
+    "Black": {
+      "cssWeight": 900,
+      "fontFamily": "WF-Lot-Black",
+      "charCount": 78,
+      "glyphCount": 80
+    }
+  },
+  "subsets": [
+    "full",
+    "en"
+  ],
+  "foundry": null,
+  "designer": "Svetoslav Simov",
+  "releaseYear": 2009,
+  "version": "1.000.0",
+  "copyright": "Copyright (c) 2009 by © 2009 Designed by Svetoslav Simov © Fontfabric, Inc. All rights reserved.",
+  "license": {
+    "type": "联系授权",
+    "spdx": null,
+    "url": null,
+    "commercial": null,
+    "attribution": null
+  },
+  "languages": [
+    "en"
+  ],
+  "languagesZh": [
+    "英语"
+  ],
+  "tags": [],
+  "keywords": [],
+  "useCases": [],
+  "description": "Copyright (c) 2009 by © 2009 Designed by Svetoslav Simov © Fontfabric, Inc. All rights reserved.",
+  "dateAdded": null,
+  "ossPath": "fonts-packages/Lot",
+  "_extraction": {
+    "source": "/mnt/shared-context/fonts/700款免费商用字体合集/3-其它商用字体/英文字体112款/lot.otf",
+    "ttcIndex": null,
+    "extractedAt": "2026-03-22T12:30:08.509917+00:00",
+    "toolVersion": "1.0.0",
+    "isVariable": false,
+    "variableAxes": [],
+    "openTypeFeatures": [
+      "kern"
+    ],
+    "unitsPerEm": 1000,
+    "created": "2009-11-16",
+    "modified": "2009-11-16",
+    "achVendID": "FBRC",
+    "fsType": 4,
+    "panose": {
+      "familyKind": 2,
+      "serifStyle": 0,
+      "weight": 0,
+      "proportion": 0,
+      "contrast": 0
+    },
+    "cjkCoverage": {
+      "cjkUnified": 0,
+      "gb2312Approx": 0,
+      "gb2312Total": 6763,
+      "gb2312Pct": 0,
+      "gbk": 0
+    },
+    "manufacturer": "© 2009 Designed by Svetoslav Simov © Fontfabric, Inc",
+    "vendorURL": "http://fontfabric.com/",
+    "designerURL": "http://fontfabric.com/",
+    "licenseText": null
+  },
+  "_needs_enrichment": [
+    "tags",
+    "keywords",
+    "useCases",
+    "license.type",
+    "license.spdx"
+  ]
+}

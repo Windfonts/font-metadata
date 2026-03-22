@@ -1,0 +1,104 @@
+{
+  "id": "learningcurve",
+  "normalizedName": "LearningCurve",
+  "family": "Learning Curve",
+  "familyEn": "Learning Curve",
+  "fontFamily": "WF-LearningCurve",
+  "category": "handwriting",
+  "categoryZh": "手写体",
+  "classifications": [],
+  "weights": [
+    400,
+    700
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-LearningCurve-Regular",
+      "charCount": 368,
+      "glyphCount": 388
+    },
+    "Bold": {
+      "cssWeight": 700,
+      "fontFamily": "WF-LearningCurveBold-Bold",
+      "charCount": 368,
+      "glyphCount": 388
+    }
+  },
+  "subsets": [
+    "full",
+    "en"
+  ],
+  "foundry": null,
+  "designer": "Jess Latham",
+  "releaseYear": 2016,
+  "version": "4.000.0",
+  "copyright": "Copyright (c) 2016 by Blue Vinyl Fonts. All rights reserved.",
+  "license": {
+    "type": "联系授权",
+    "spdx": null,
+    "url": null,
+    "commercial": null,
+    "attribution": null
+  },
+  "languages": [
+    "en"
+  ],
+  "languagesZh": [
+    "英语"
+  ],
+  "tags": [],
+  "keywords": [],
+  "useCases": [],
+  "description": "Copyright (c) 2016 by Blue Vinyl Fonts. All rights reserved.",
+  "dateAdded": null,
+  "ossPath": "fonts-packages/LearningCurve",
+  "_extraction": {
+    "source": [
+      "/mnt/shared-context/fonts/700款免费商用字体合集/最近更新/50款免费圣诞英文字体/20-learning_curve_4.0/OpenType PostScript/learning_curve_bold_ot_ps.otf",
+      "/mnt/shared-context/fonts/700款免费商用字体合集/最近更新/50款免费圣诞英文字体/20-learning_curve_4.0/OpenType PostScript/learning_curve_regular_ot_ps.otf",
+      "/mnt/shared-context/fonts/700款免费商用字体合集/最近更新/50款免费圣诞英文字体/20-learning_curve_4.0/OpenType TrueType/learning_curve_bold_ot_tt.ttf",
+      "/mnt/shared-context/fonts/700款免费商用字体合集/最近更新/50款免费圣诞英文字体/20-learning_curve_4.0/OpenType TrueType/learning_curve_regular_ot_tt.ttf"
+    ],
+    "ttcIndex": null,
+    "extractedAt": "2026-03-22T12:30:08.569766+00:00",
+    "toolVersion": "1.0.0",
+    "isVariable": false,
+    "variableAxes": [],
+    "openTypeFeatures": [
+      "calt",
+      "kern",
+      "liga"
+    ],
+    "unitsPerEm": 1000,
+    "created": "2017-01-09",
+    "modified": "2017-01-09",
+    "achVendID": "PYRS",
+    "fsType": 0,
+    "panose": {
+      "familyKind": 3,
+      "serifStyle": 5,
+      "weight": 0,
+      "proportion": 0,
+      "contrast": 0
+    },
+    "cjkCoverage": {
+      "cjkUnified": 0,
+      "gb2312Approx": 0,
+      "gb2312Total": 6763,
+      "gb2312Pct": 0,
+      "gbk": 0
+    },
+    "manufacturer": "Blue Vinyl Fonts",
+    "vendorURL": null,
+    "designerURL": "bvfonts.com",
+    "licenseText": null
+  },
+  "_needs_enrichment": [
+    "tags",
+    "keywords",
+    "useCases",
+    "license.type",
+    "license.spdx"
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": "batterupregulardemo",
+  "normalizedName": "BatterUpRegularDemo",
+  "family": "Batter Up Regular Demo",
+  "familyEn": "Batter Up Regular Demo",
+  "fontFamily": "WF-BatterUpRegularDemo",
+  "category": "display",
+  "categoryZh": "展示字体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-BatterUpRegularDemo-Regular",
+      "charCount": 29,
+      "glyphCount": 30
+    }
+  },
+  "subsets": [
+    "full",
+    "en"
+  ],
+  "foundry": null,
+  "designer": "Out of Step Font Company",
+  "releaseYear": 2017,
+  "version": "4.10.0",
+  "copyright": "Typeface © Out Of Step Font Company. 2017. All Rights Reserved",
+  "license": {
+    "type": "联系授权",
+    "spdx": null,
+    "url": "http://outofstepfontco.com/pages/licensing",
+    "commercial": null,
+    "attribution": null
+  },
+  "languages": [
+    "en"
+  ],
+  "languagesZh": [
+    "英语"
+  ],
+  "tags": [],
+  "keywords": [],
+  "useCases": [],
+  "description": "© Out Of Step Font Company 2017",
+  "dateAdded": null,
+  "ossPath": "fonts-packages/BatterUpRegularDemo",
+  "_extraction": {
+    "source": "/mnt/shared-context/fonts/700款免费商用字体合集/最近更新/50款免费圣诞英文字体/43-Batter-Up-Regular-Demo.ttf",
+    "ttcIndex": null,
+    "extractedAt": "2026-03-22T12:30:08.707599+00:00",
+    "toolVersion": "1.0.0",
+    "isVariable": false,
+    "variableAxes": [],
+    "openTypeFeatures": [],
+    "unitsPerEm": 1024,
+    "created": "2014-10-09",
+    "modified": "2017-06-21",
+    "achVendID": "OSFC",
+    "fsType": 4,
+    "panose": {
+      "familyKind": 4,
+      "serifStyle": 2,
+      "weight": 6,
+      "proportion": 5,
+      "contrast": 2
+    },
+    "cjkCoverage": {
+      "cjkUnified": 0,
+      "gb2312Approx": 0,
+      "gb2312Total": 6763,
+      "gb2312Pct": 0,
+      "gbk": 0
+    },
+    "manufacturer": "Out of Step Font Company",
+    "vendorURL": "https://outofstepfontco.com",
+    "designerURL": "https://outofstepfontco.com",
+    "licenseText": "Demo"
+  },
+  "_needs_enrichment": [
+    "tags",
+    "keywords",
+    "useCases",
+    "license.type",
+    "license.spdx"
+  ]
+}

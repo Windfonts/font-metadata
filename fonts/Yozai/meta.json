@@ -1,0 +1,117 @@
+{
+  "id": "yozai",
+  "normalizedName": "Yozai",
+  "family": "悠哉字体",
+  "familyEn": "Yozai",
+  "fontFamily": "WF-Yozai",
+  "category": "sans-serif",
+  "categoryZh": "无衬线字体",
+  "classifications": [],
+  "weights": [
+    300,
+    400,
+    500
+  ],
+  "weightDetails": {
+    "Light": {
+      "cssWeight": 300,
+      "fontFamily": "WF-YozaiLight-Light",
+      "charCount": 20905,
+      "glyphCount": 20707
+    },
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Yozai-Regular",
+      "charCount": 20905,
+      "glyphCount": 20709
+    },
+    "Medium": {
+      "cssWeight": 500,
+      "fontFamily": "WF-YozaiMedium-Medium",
+      "charCount": 20905,
+      "glyphCount": 20707
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "lxgw",
+  "designer": null,
+  "releaseYear": 2020,
+  "version": "0.85.0",
+  "copyright": "Copyright (C) 2020 LXGW. Original Font Data Copyright (C) Y.OzVox.",
+  "license": {
+    "type": "联系授权",
+    "spdx": null,
+    "url": "http://scripts.sil.org/OFL",
+    "commercial": null,
+    "attribution": null
+  },
+  "languages": [
+    "en",
+    "zh-Hans",
+    "zh-Hant",
+    "ja"
+  ],
+  "languagesZh": [
+    "英语",
+    "简体中文",
+    "繁体中文",
+    "日语"
+  ],
+  "tags": [],
+  "keywords": [],
+  "useCases": [],
+  "description": "This font was created using FontCreator  from High-Logic.com",
+  "dateAdded": null,
+  "ossPath": "fonts-packages/Yozai",
+  "_extraction": {
+    "source": [
+      "/mnt/shared-context/fonts/字体文件/悠哉字体0.85/Yozai-Light.ttf",
+      "/mnt/shared-context/fonts/字体文件/悠哉字体0.85/Yozai-Medium.ttf",
+      "/mnt/shared-context/fonts/字体文件/悠哉字体0.85/Yozai-Regular.ttf"
+    ],
+    "ttcIndex": null,
+    "extractedAt": "2026-03-22T12:30:21.151664+00:00",
+    "toolVersion": "1.0.0",
+    "isVariable": false,
+    "variableAxes": [],
+    "openTypeFeatures": [
+      "dlig",
+      "vert"
+    ],
+    "unitsPerEm": 1000,
+    "created": "2020-06-24",
+    "modified": "2020-10-01",
+    "achVendID": "LXGW",
+    "fsType": 0,
+    "panose": {
+      "familyKind": 2,
+      "serifStyle": 0,
+      "weight": 6,
+      "proportion": 0,
+      "contrast": 0
+    },
+    "cjkCoverage": {
+      "cjkUnified": 17629,
+      "gb2312Approx": 6763,
+      "gb2312Total": 6763,
+      "gb2312Pct": 100.0,
+      "gbk": 17888
+    },
+    "manufacturer": null,
+    "vendorURL": null,
+    "designerURL": null,
+    "licenseText": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software."
+  },
+  "_needs_enrichment": [
+    "tags",
+    "keywords",
+    "useCases",
+    "license.type",
+    "license.spdx"
+  ]
+}

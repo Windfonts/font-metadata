@@ -1,0 +1,97 @@
+{
+  "id": "scf-9jiangxs",
+  "normalizedName": "SCF9jiangxs",
+  "family": "书体坊赵九江钢笔行书",
+  "familyEn": "SCF-9jiangxs",
+  "fontFamily": "WF-SCF9jiangxs",
+  "category": "handwriting",
+  "categoryZh": "手写体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-SCF9jiangxs-Regular",
+      "charCount": 7804,
+      "glyphCount": 7938
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": null,
+  "designer": null,
+  "releaseYear": 2008,
+  "version": "1.00.0",
+  "copyright": "Copyright(c) SCF.2008-2012 »´¡¶¥Ú‘Ï È∑®◊÷ÃÂ£¨ ÈÃÂ∑ª“Ú",
+  "license": {
+    "type": "联系授权",
+    "spdx": null,
+    "url": null,
+    "commercial": null,
+    "attribution": null
+  },
+  "languages": [
+    "en",
+    "zh-Hans",
+    "ja"
+  ],
+  "languagesZh": [
+    "英语",
+    "简体中文",
+    "日语"
+  ],
+  "tags": [],
+  "keywords": [],
+  "useCases": [],
+  "description": null,
+  "dateAdded": null,
+  "ossPath": "fonts-packages/SCF9jiangxs",
+  "_extraction": {
+    "source": "/mnt/shared-context/fonts/700款免费商用字体合集/3-其它商用字体/书体坊字体8款/书体坊赵九江钢笔行书.TTF",
+    "ttcIndex": null,
+    "extractedAt": "2026-03-22T12:30:01.654432+00:00",
+    "toolVersion": "1.0.0",
+    "isVariable": false,
+    "variableAxes": [],
+    "openTypeFeatures": [
+      "vert"
+    ],
+    "unitsPerEm": 256,
+    "created": "2000-06-25",
+    "modified": "2008-11-27",
+    "achVendID": "BDFZ",
+    "fsType": 8,
+    "panose": {
+      "familyKind": 3,
+      "serifStyle": 0,
+      "weight": 5,
+      "proportion": 9,
+      "contrast": 0
+    },
+    "cjkCoverage": {
+      "cjkUnified": 6763,
+      "gb2312Approx": 6763,
+      "gb2312Total": 6763,
+      "gb2312Pct": 100.0,
+      "gbk": 6763
+    },
+    "manufacturer": null,
+    "vendorURL": null,
+    "designerURL": null,
+    "licenseText": null
+  },
+  "_needs_enrichment": [
+    "tags",
+    "keywords",
+    "useCases",
+    "license.type",
+    "license.spdx",
+    "description"
+  ]
+}

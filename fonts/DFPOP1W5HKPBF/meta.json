@@ -1,0 +1,97 @@
+{
+  "id": "dfpop1-w5-hkp-bf",
+  "normalizedName": "DFPOP1W5HKPBF",
+  "family": "華康POP1體W5(P)",
+  "familyEn": "DFPPOP1W5-B5",
+  "fontFamily": "WF-DFPOP1W5HKPBF",
+  "category": "sans-serif",
+  "categoryZh": "无衬线字体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-DFPOP1W5HKPBF-Regular",
+      "charCount": 14982,
+      "glyphCount": 15217
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": null,
+  "designer": null,
+  "releaseYear": 1992,
+  "version": "2.00.0",
+  "copyright": "(C)Copyright DynaLab Inc. 1992-2000",
+  "license": {
+    "type": "联系授权",
+    "spdx": null,
+    "url": null,
+    "commercial": null,
+    "attribution": null
+  },
+  "languages": [
+    "en",
+    "zh-Hans",
+    "zh-Hant",
+    "ja"
+  ],
+  "languagesZh": [
+    "英语",
+    "简体中文",
+    "繁体中文",
+    "日语"
+  ],
+  "tags": [],
+  "keywords": [],
+  "useCases": [],
+  "description": null,
+  "dateAdded": null,
+  "ossPath": "fonts-packages/DFPOP1W5HKPBF",
+  "_extraction": {
+    "source": "/mnt/shared-context/fonts/700款免费商用字体合集/2-常用商用字体/华康字体45款——仅限阿里平台使用/23华康POP1体.TTC",
+    "ttcIndex": 1,
+    "extractedAt": "2026-03-22T12:29:59.475777+00:00",
+    "toolVersion": "1.0.0",
+    "isVariable": false,
+    "variableAxes": [],
+    "openTypeFeatures": [],
+    "unitsPerEm": 1024,
+    "created": "1993-06-30",
+    "modified": "1994-09-30",
+    "achVendID": "DYNA",
+    "fsType": 4,
+    "panose": {
+      "familyKind": 4,
+      "serifStyle": 11,
+      "weight": 5,
+      "proportion": 0,
+      "contrast": 0
+    },
+    "cjkCoverage": {
+      "cjkUnified": 13717,
+      "gb2312Approx": 6763,
+      "gb2312Total": 6763,
+      "gb2312Pct": 100.0,
+      "gbk": 13739
+    },
+    "manufacturer": null,
+    "vendorURL": null,
+    "designerURL": null,
+    "licenseText": null
+  },
+  "_needs_enrichment": [
+    "tags",
+    "keywords",
+    "useCases",
+    "license.type",
+    "license.spdx",
+    "description"
+  ]
+}

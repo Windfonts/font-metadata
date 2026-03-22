@@ -1,0 +1,91 @@
+{
+  "id": "arvo-bold",
+  "normalizedName": "ArvoBold",
+  "family": "Arvo",
+  "familyEn": "Arvo",
+  "fontFamily": "WF-ArvoBold",
+  "category": "serif",
+  "categoryZh": "衬线字体",
+  "classifications": [],
+  "weights": [
+    700
+  ],
+  "weightDetails": {
+    "Bold": {
+      "cssWeight": 700,
+      "fontFamily": "WF-ArvoBold-Bold",
+      "charCount": 433,
+      "glyphCount": 450
+    }
+  },
+  "subsets": [
+    "full",
+    "en"
+  ],
+  "foundry": null,
+  "designer": "Anton Koovit",
+  "releaseYear": 2013,
+  "version": "2.001.0",
+  "copyright": "Copyright (c) 2013 by Anton Koovit.",
+  "license": {
+    "type": "联系授权",
+    "spdx": null,
+    "url": "http://www.korkork.com/license/arvo/",
+    "commercial": null,
+    "attribution": null
+  },
+  "languages": [
+    "en"
+  ],
+  "languagesZh": [
+    "英语"
+  ],
+  "tags": [],
+  "keywords": [],
+  "useCases": [],
+  "description": "Copyright (c) 2013 by Anton Koovit. All rights reserved under SIL openfont License 1.1",
+  "dateAdded": null,
+  "ossPath": "fonts-packages/ArvoBold",
+  "_extraction": {
+    "source": "/mnt/shared-context/fonts/700款免费商用字体合集/3-其它商用字体/英文字体112款/Arvo-Bold.ttf",
+    "ttcIndex": null,
+    "extractedAt": "2026-03-22T12:30:06.148897+00:00",
+    "toolVersion": "1.0.0",
+    "isVariable": false,
+    "variableAxes": [],
+    "openTypeFeatures": [
+      "kern",
+      "ss01"
+    ],
+    "unitsPerEm": 2048,
+    "created": "2010-10-18",
+    "modified": "2013-12-04",
+    "achVendID": "KORK",
+    "fsType": 0,
+    "panose": {
+      "familyKind": 2,
+      "serifStyle": 6,
+      "weight": 9,
+      "proportion": 3,
+      "contrast": 4
+    },
+    "cjkCoverage": {
+      "cjkUnified": 0,
+      "gb2312Approx": 0,
+      "gb2312Total": 6763,
+      "gb2312Pct": 0,
+      "gbk": 0
+    },
+    "manufacturer": "Anton Koovit",
+    "vendorURL": "http://www.korkork.com/",
+    "designerURL": "http://www.kork.ee",
+    "licenseText": "SIL openfont License 1.1"
+  },
+  "_needs_enrichment": [
+    "tags",
+    "keywords",
+    "useCases",
+    "license.type",
+    "license.spdx"
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "id": "opposans-b",
+  "normalizedName": "OPPOSansB",
+  "family": "OPPOSans",
+  "familyEn": "OPPOSans",
+  "fontFamily": "WF-OPPOSansB",
+  "category": "sans-serif",
+  "categoryZh": "无衬线字体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-OPPOSansR-Regular",
+      "charCount": 28441,
+      "glyphCount": 28488
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "hanyi",
+  "designer": null,
+  "releaseYear": 2019,
+  "version": "1.00.0",
+  "copyright": "copyright (c) 2019 by OPPO. All rights reserved.",
+  "license": {
+    "type": "联系授权",
+    "spdx": null,
+    "url": null,
+    "commercial": null,
+    "attribution": null
+  },
+  "languages": [
+    "en",
+    "zh-Hans",
+    "zh-Hant"
+  ],
+  "languagesZh": [
+    "英语",
+    "简体中文",
+    "繁体中文"
+  ],
+  "tags": [],
+  "keywords": [],
+  "useCases": [],
+  "description": null,
+  "dateAdded": null,
+  "ossPath": "fonts-packages/OPPOSansB",
+  "_extraction": {
+    "source": [
+      "/mnt/shared-context/fonts/字体文件/OPPO Sans/OPPO Sans/OPPOSans-B.ttf",
+      "/mnt/shared-context/fonts/字体文件/OPPO Sans/OPPO Sans/OPPOSans-H.ttf",
+      "/mnt/shared-context/fonts/字体文件/OPPO Sans/OPPO Sans/OPPOSans-L.ttf",
+      "/mnt/shared-context/fonts/字体文件/OPPO Sans/OPPO Sans/OPPOSans-M.ttf",
+      "/mnt/shared-context/fonts/字体文件/OPPO Sans/OPPO Sans/OPPOSans-R.ttf"
+    ],
+    "ttcIndex": null,
+    "extractedAt": "2026-03-22T12:30:11.457341+00:00",
+    "toolVersion": "1.0.0",
+    "isVariable": false,
+    "variableAxes": [],
+    "openTypeFeatures": [
+      "aalt",
+      "dnom",
+      "frac",
+      "fwid",
+      "hwid",
+      "kern",
+      "liga",
+      "locl",
+      "mark",
+      "mkmk",
+      "numr",
+      "ordn",
+      "pnum",
+      "sinf",
+      "subs",
+      "sups",
+      "tnum",
+      "vert",
+      "vrt2"
+    ],
+    "unitsPerEm": 1000,
+    "created": "2019-06-20",
+    "modified": "2019-10-11",
+    "achVendID": "HNYI",
+    "fsType": 8,
+    "panose": {
+      "familyKind": 0,
+      "serifStyle": 2,
+      "weight": 6,
+      "proportion": 0,
+      "contrast": 4
+    },
+    "cjkCoverage": {
+      "cjkUnified": 20902,
+      "gb2312Approx": 6763,
+      "gb2312Total": 6763,
+      "gb2312Pct": 100.0,
+      "gbk": 27484
+    },
+    "manufacturer": "Hanyi Fonts",
+    "vendorURL": null,
+    "designerURL": null,
+    "licenseText": null
+  },
+  "_needs_enrichment": [
+    "tags",
+    "keywords",
+    "useCases",
+    "license.type",
+    "license.spdx",
+    "description"
+  ]
+}

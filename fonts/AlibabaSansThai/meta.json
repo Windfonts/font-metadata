@@ -1,0 +1,133 @@
+{
+  "id": "alibabasansthai",
+  "normalizedName": "AlibabaSansThai",
+  "family": "Alibaba Sans Thai",
+  "familyEn": "Alibaba Sans Thai",
+  "fontFamily": "WF-AlibabaSansThai",
+  "category": "sans-serif",
+  "categoryZh": "无衬线字体",
+  "classifications": [],
+  "weights": [
+    400,
+    500,
+    700
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-AlibabaSansThai-Regular",
+      "charCount": 966,
+      "glyphCount": 1079
+    },
+    "Medium": {
+      "cssWeight": 500,
+      "fontFamily": "WF-AlibabaSansThaiMedium-Medium",
+      "charCount": 966,
+      "glyphCount": 1079
+    },
+    "Bold": {
+      "cssWeight": 700,
+      "fontFamily": "WF-AlibabaSansThaiBold-Bold",
+      "charCount": 966,
+      "glyphCount": 1079
+    }
+  },
+  "subsets": [
+    "full",
+    "en"
+  ],
+  "foundry": null,
+  "designer": "Monotype Studio",
+  "releaseYear": 2020,
+  "version": "1.00.0",
+  "copyright": "Copyright © 2020 Alibaba (China) Co., Ltd. All rights reserved.",
+  "license": {
+    "type": "联系授权",
+    "spdx": null,
+    "url": "http://www.monotype.com",
+    "commercial": null,
+    "attribution": null
+  },
+  "languages": [
+    "en"
+  ],
+  "languagesZh": [
+    "英语"
+  ],
+  "tags": [],
+  "keywords": [],
+  "useCases": [],
+  "description": null,
+  "dateAdded": null,
+  "ossPath": "fonts-packages/AlibabaSansThai",
+  "_extraction": {
+    "source": [
+      "/mnt/shared-context/fonts/字体文件/PuHuiTi2.0 for Mac/Alibaba Sans Thai 泰文/ot_cff/AlibabaSansThai-Bd.otf",
+      "/mnt/shared-context/fonts/字体文件/PuHuiTi2.0 for Mac/Alibaba Sans Thai 泰文/ot_cff/AlibabaSansThai-Md.otf",
+      "/mnt/shared-context/fonts/字体文件/PuHuiTi2.0 for Mac/Alibaba Sans Thai 泰文/ot_cff/AlibabaSansThai-Rg.otf",
+      "/mnt/shared-context/fonts/字体文件/PuHuiTi2.0 for Mac/Alibaba Sans Thai 泰文/ot_ttf/AlibabaSansThai-Bd.ttf",
+      "/mnt/shared-context/fonts/字体文件/PuHuiTi2.0 for Mac/Alibaba Sans Thai 泰文/ot_ttf/AlibabaSansThai-Md.ttf",
+      "/mnt/shared-context/fonts/字体文件/PuHuiTi2.0 for Win/Alibaba Sans Thai 泰文/ot_ttf/AlibabaSansThai-Rg.ttf"
+    ],
+    "ttcIndex": null,
+    "extractedAt": "2026-03-22T12:30:11.726672+00:00",
+    "toolVersion": "1.0.0",
+    "isVariable": false,
+    "variableAxes": [],
+    "openTypeFeatures": [
+      "aalt",
+      "calt",
+      "case",
+      "ccmp",
+      "cpsp",
+      "dnom",
+      "frac",
+      "kern",
+      "liga",
+      "locl",
+      "mark",
+      "mkmk",
+      "numr",
+      "ordn",
+      "pnum",
+      "salt",
+      "sinf",
+      "ss01",
+      "ss02",
+      "subs",
+      "sups",
+      "tnum"
+    ],
+    "unitsPerEm": 1000,
+    "created": "2020-05-07",
+    "modified": "2020-05-08",
+    "achVendID": "MONO",
+    "fsType": 8,
+    "panose": {
+      "familyKind": 2,
+      "serifStyle": 11,
+      "weight": 5,
+      "proportion": 3,
+      "contrast": 2
+    },
+    "cjkCoverage": {
+      "cjkUnified": 0,
+      "gb2312Approx": 0,
+      "gb2312Total": 6763,
+      "gb2312Pct": 0,
+      "gbk": 0
+    },
+    "manufacturer": "Monotype Imaging Inc.",
+    "vendorURL": "http://www.monotype.com",
+    "designerURL": "http://www.monotype.com",
+    "licenseText": "This font software is the property of Monotype Imaging Inc., or one of its affiliated entities (collectively, Monotype) and its use by you is covered under the terms of a license agreement. You have obtained this font software either directly from Monotype or together with software distributed by one of the licensees of Monotype. This software is a valuable asset of Monotype. Unless you have entered into a specific license agreement granting you additional rights, your use of this software is limited by the terms of the actual license agreement you have entered into with Monotype. You may not copy or distribute this software. If you have any questions concerning your rights you should review the license agreement you received with the software. You can learn more about Monotype here: www.monotype.com"
+  },
+  "_needs_enrichment": [
+    "tags",
+    "keywords",
+    "useCases",
+    "license.type",
+    "license.spdx",
+    "description"
+  ]
+}

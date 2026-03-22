@@ -1,0 +1,100 @@
+{
+  "id": "wenquanyimicrohei",
+  "normalizedName": "WenQuanYiMicroHei",
+  "family": "文泉驛微米黑",
+  "familyEn": "WenQuanYi Micro Hei",
+  "fontFamily": "WF-WenQuanYiMicroHei",
+  "category": "sans-serif",
+  "categoryZh": "无衬线字体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-WenQuanYiMicroHei-Regular",
+      "charCount": 34600,
+      "glyphCount": 49531
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "ascender",
+  "designer": null,
+  "releaseYear": 2007,
+  "version": "0.2.0",
+  "copyright": "Digitized data copyright ?2007, Google Corporation.\nCopyright ?2008-2009 WenQuanYi Board of Trustees (http://wenq.org/) and Qianqian Fang",
+  "license": {
+    "type": "联系授权",
+    "spdx": null,
+    "url": "http://www.apache.org/licenses/LICENSE-2.0",
+    "commercial": null,
+    "attribution": null
+  },
+  "languages": [
+    "en",
+    "zh-Hans",
+    "zh-Hant",
+    "ja",
+    "ko"
+  ],
+  "languagesZh": [
+    "英语",
+    "简体中文",
+    "繁体中文",
+    "日语",
+    "韩语"
+  ],
+  "tags": [],
+  "keywords": [],
+  "useCases": [],
+  "description": "WenQuanYi Micro Hei is a humanist sans serif typeface designed for user interfaces and electronic communication.",
+  "dateAdded": null,
+  "ossPath": "fonts-packages/WenQuanYiMicroHei",
+  "_extraction": {
+    "source": "/mnt/shared-context/fonts/700款免费商用字体合集/2-常用商用字体/文泉驿字体4款——不限平台与场景使用/文泉驿微米黑.TTF",
+    "ttcIndex": null,
+    "extractedAt": "2026-03-22T12:30:00.293044+00:00",
+    "toolVersion": "1.0.0",
+    "isVariable": false,
+    "variableAxes": [],
+    "openTypeFeatures": [
+      "kern"
+    ],
+    "unitsPerEm": 2048,
+    "created": "2009-05-25",
+    "modified": "2009-05-25",
+    "achVendID": "WQYF",
+    "fsType": 8,
+    "panose": {
+      "familyKind": 2,
+      "serifStyle": 11,
+      "weight": 6,
+      "proportion": 6,
+      "contrast": 3
+    },
+    "cjkCoverage": {
+      "cjkUnified": 20932,
+      "gb2312Approx": 6763,
+      "gb2312Total": 6763,
+      "gb2312Pct": 100.0,
+      "gbk": 20934
+    },
+    "manufacturer": "Ascender Corporation",
+    "vendorURL": "http://www.ascendercorp.com/",
+    "designerURL": "http://www.ascendercorp.com/typedesigners.html",
+    "licenseText": "Licensed under the Apache License, Version 2.0"
+  },
+  "_needs_enrichment": [
+    "tags",
+    "keywords",
+    "useCases",
+    "license.type",
+    "license.spdx"
+  ]
+}

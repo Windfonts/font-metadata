@@ -1,0 +1,90 @@
+{
+  "id": "onestarrynight",
+  "normalizedName": "OneStarryNight",
+  "family": "One Starry Night",
+  "familyEn": "One Starry Night",
+  "fontFamily": "WF-OneStarryNight",
+  "category": "sans-serif",
+  "categoryZh": "无衬线字体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-OneStarryNight-Regular",
+      "charCount": 203,
+      "glyphCount": 203
+    }
+  },
+  "subsets": [
+    "full",
+    "en"
+  ],
+  "foundry": null,
+  "designer": "Brittney Murphy",
+  "releaseYear": 2011,
+  "version": "1.000.0",
+  "copyright": "Copyright (c) 2011 by Brittney Murphy. All rights reserved.",
+  "license": {
+    "type": "联系授权",
+    "spdx": null,
+    "url": null,
+    "commercial": null,
+    "attribution": null
+  },
+  "languages": [
+    "en"
+  ],
+  "languagesZh": [
+    "英语"
+  ],
+  "tags": [],
+  "keywords": [],
+  "useCases": [],
+  "description": "Copyright (c) 2011 by Brittney Murphy. All rights reserved.",
+  "dateAdded": null,
+  "ossPath": "fonts-packages/OneStarryNight",
+  "_extraction": {
+    "source": "/mnt/shared-context/fonts/700款免费商用字体合集/最近更新/50款免费圣诞英文字体/01-One Starry Night Font.ttf",
+    "ttcIndex": null,
+    "extractedAt": "2026-03-22T12:30:08.515984+00:00",
+    "toolVersion": "1.0.0",
+    "isVariable": false,
+    "variableAxes": [],
+    "openTypeFeatures": [
+      "kern"
+    ],
+    "unitsPerEm": 1000,
+    "created": "2011-12-07",
+    "modified": "2014-09-26",
+    "achVendID": "PYRS",
+    "fsType": 0,
+    "panose": {
+      "familyKind": 0,
+      "serifStyle": 0,
+      "weight": 0,
+      "proportion": 0,
+      "contrast": 0
+    },
+    "cjkCoverage": {
+      "cjkUnified": 0,
+      "gb2312Approx": 0,
+      "gb2312Total": 6763,
+      "gb2312Pct": 0,
+      "gbk": 0
+    },
+    "manufacturer": "Brittney Murphy",
+    "vendorURL": "http://www.brittneymurphydesign.com/",
+    "designerURL": "http://www.brittneymurphydesign.com/",
+    "licenseText": null
+  },
+  "_needs_enrichment": [
+    "tags",
+    "keywords",
+    "useCases",
+    "license.type",
+    "license.spdx"
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "id": "thirstyscriptextrabolddemo",
+  "normalizedName": "ThirstyScriptExtraboldDemo",
+  "family": "Thirsty Script Extrabold Demo",
+  "familyEn": "Thirsty Script Extrabold Demo",
+  "fontFamily": "WF-ThirstyScriptExtraboldDemo",
+  "category": "handwriting",
+  "categoryZh": "手写体",
+  "classifications": [],
+  "weights": [
+    700
+  ],
+  "weightDetails": {
+    "Bold": {
+      "cssWeight": 700,
+      "fontFamily": "WF-ThirstyScriptExtraboldDemo-Bold",
+      "charCount": 286,
+      "glyphCount": 373
+    }
+  },
+  "subsets": [
+    "full",
+    "en"
+  ],
+  "foundry": null,
+  "designer": "Ryan Martinson",
+  "releaseYear": 2012,
+  "version": "1.003.0",
+  "copyright": "Copyright (c) 2012 by Yellow Design Studio. All rights reserved.",
+  "license": {
+    "type": "联系授权",
+    "spdx": null,
+    "url": null,
+    "commercial": null,
+    "attribution": null
+  },
+  "languages": [
+    "en"
+  ],
+  "languagesZh": [
+    "英语"
+  ],
+  "tags": [],
+  "keywords": [],
+  "useCases": [],
+  "description": "Copyright (c) 2012 by Yellow Design Studio. All rights reserved.",
+  "dateAdded": null,
+  "ossPath": "fonts-packages/ThirstyScriptExtraboldDemo",
+  "_extraction": {
+    "source": "/mnt/shared-context/fonts/700款免费商用字体合集/最近更新/50款免费圣诞英文字体/37-ThirstyScriptExtraBoldDemo.otf",
+    "ttcIndex": null,
+    "extractedAt": "2026-03-22T12:30:08.667353+00:00",
+    "toolVersion": "1.0.0",
+    "isVariable": false,
+    "variableAxes": [],
+    "openTypeFeatures": [
+      "aalt",
+      "calt",
+      "kern",
+      "liga",
+      "onum",
+      "salt",
+      "sinf",
+      "ss01",
+      "sups"
+    ],
+    "unitsPerEm": 1000,
+    "created": "2012-10-10",
+    "modified": "2014-02-05",
+    "achVendID": "YDS\u0000",
+    "fsType": 4,
+    "panose": {
+      "familyKind": 3,
+      "serifStyle": 0,
+      "weight": 9,
+      "proportion": 0,
+      "contrast": 0
+    },
+    "cjkCoverage": {
+      "cjkUnified": 0,
+      "gb2312Approx": 0,
+      "gb2312Total": 6763,
+      "gb2312Pct": 0,
+      "gbk": 0
+    },
+    "manufacturer": "Ryan Martinson",
+    "vendorURL": null,
+    "designerURL": "www.yellowdesignstudio.com",
+    "licenseText": null
+  },
+  "_needs_enrichment": [
+    "tags",
+    "keywords",
+    "useCases",
+    "license.type",
+    "license.spdx"
+  ]
+}

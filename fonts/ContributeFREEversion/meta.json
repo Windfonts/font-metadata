@@ -1,0 +1,89 @@
+{
+  "id": "contribute-free-version",
+  "normalizedName": "ContributeFREEversion",
+  "family": "Contribute_FREE-version",
+  "familyEn": "Contribute_FREE-version",
+  "fontFamily": "WF-ContributeFREEversion",
+  "category": "serif",
+  "categoryZh": "衬线字体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-ContributeFREEversion-Regular",
+      "charCount": 54,
+      "glyphCount": 56
+    }
+  },
+  "subsets": [
+    "full",
+    "en"
+  ],
+  "foundry": null,
+  "designer": "Fontscafe.com",
+  "releaseYear": 2011,
+  "version": "1.00.0",
+  "copyright": "Typeface © (fontscafe.com). <2011>. All Rights Reserved",
+  "license": {
+    "type": "联系授权",
+    "spdx": null,
+    "url": null,
+    "commercial": null,
+    "attribution": null
+  },
+  "languages": [
+    "en"
+  ],
+  "languagesZh": [
+    "英语"
+  ],
+  "tags": [],
+  "keywords": [],
+  "useCases": [],
+  "description": null,
+  "dateAdded": null,
+  "ossPath": "fonts-packages/ContributeFREEversion",
+  "_extraction": {
+    "source": "/mnt/shared-context/fonts/700款免费商用字体合集/最近更新/50款免费圣诞英文字体/26-Contribute_FREE-version.ttf",
+    "ttcIndex": null,
+    "extractedAt": "2026-03-22T12:30:08.600704+00:00",
+    "toolVersion": "1.0.0",
+    "isVariable": false,
+    "variableAxes": [],
+    "openTypeFeatures": [],
+    "unitsPerEm": 2048,
+    "created": "2012-02-18",
+    "modified": "2012-04-22",
+    "achVendID": "HL",
+    "fsType": 8,
+    "panose": {
+      "familyKind": 2,
+      "serifStyle": 0,
+      "weight": 5,
+      "proportion": 0,
+      "contrast": 0
+    },
+    "cjkCoverage": {
+      "cjkUnified": 0,
+      "gb2312Approx": 0,
+      "gb2312Total": 6763,
+      "gb2312Pct": 0,
+      "gbk": 0
+    },
+    "manufacturer": "Fontscafe.com",
+    "vendorURL": "http://www.fontscafe.com",
+    "designerURL": "http://www.fontscafe.com",
+    "licenseText": null
+  },
+  "_needs_enrichment": [
+    "tags",
+    "keywords",
+    "useCases",
+    "license.type",
+    "license.spdx",
+    "description"
+  ]
+}

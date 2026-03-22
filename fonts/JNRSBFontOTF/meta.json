@@ -1,0 +1,110 @@
+{
+  "id": "jnr-sb-fontotf",
+  "normalizedName": "JNRSBFontOTF",
+  "family": "JNR-SB-FontOTF",
+  "familyEn": "JNR-SB-FontOTF",
+  "fontFamily": "WF-JNRSBFontOTF",
+  "category": "serif",
+  "categoryZh": "衬线字体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-JNRSBFontOTF-Regular",
+      "charCount": 9804,
+      "glyphCount": 15444
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": null,
+  "designer": null,
+  "releaseYear": 2005,
+  "version": "1.21.0",
+  "copyright": "NUKATA KANRI(C)2005-2010",
+  "license": {
+    "type": "联系授权",
+    "spdx": null,
+    "url": null,
+    "commercial": null,
+    "attribution": null
+  },
+  "languages": [
+    "en",
+    "zh-Hans",
+    "zh-Hant",
+    "ja"
+  ],
+  "languagesZh": [
+    "英语",
+    "简体中文",
+    "繁体中文",
+    "日语"
+  ],
+  "tags": [],
+  "keywords": [],
+  "useCases": [],
+  "description": null,
+  "dateAdded": null,
+  "ossPath": "fonts-packages/JNRSBFontOTF",
+  "_extraction": {
+    "source": "/mnt/shared-context/fonts/700款免费商用字体合集/最近更新/国鉄方向幕書体 可商用/国鉄方向幕書体.otf",
+    "ttcIndex": null,
+    "extractedAt": "2026-03-22T12:30:10.972831+00:00",
+    "toolVersion": "1.0.0",
+    "isVariable": false,
+    "variableAxes": [],
+    "openTypeFeatures": [
+      "aalt",
+      "afrc",
+      "dlig",
+      "expt",
+      "frac",
+      "fwid",
+      "hwid",
+      "jp78",
+      "jp83",
+      "trad",
+      "vert",
+      "vrt2"
+    ],
+    "unitsPerEm": 1000,
+    "created": "1969-12-31",
+    "modified": "1969-12-31",
+    "achVendID": "Take",
+    "fsType": 8,
+    "panose": {
+      "familyKind": 2,
+      "serifStyle": 0,
+      "weight": 6,
+      "proportion": 0,
+      "contrast": 0
+    },
+    "cjkCoverage": {
+      "cjkUnified": 7919,
+      "gb2312Approx": 6763,
+      "gb2312Total": 6763,
+      "gb2312Pct": 100.0,
+      "gbk": 7944
+    },
+    "manufacturer": null,
+    "vendorURL": null,
+    "designerURL": null,
+    "licenseText": null
+  },
+  "_needs_enrichment": [
+    "tags",
+    "keywords",
+    "useCases",
+    "license.type",
+    "license.spdx",
+    "description"
+  ]
+}

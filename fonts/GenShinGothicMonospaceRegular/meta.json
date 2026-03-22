@@ -1,0 +1,150 @@
+{
+  "id": "genshingothic-monospace-regular",
+  "normalizedName": "GenShinGothicMonospaceRegular",
+  "family": "Gen Shin Gothic Monospace",
+  "familyEn": "Gen Shin Gothic Monospace",
+  "fontFamily": "WF-GenShinGothicMonospaceRegular",
+  "category": "monospace",
+  "categoryZh": "等宽字体",
+  "classifications": [],
+  "weights": [
+    200,
+    300,
+    400,
+    500,
+    700,
+    800
+  ],
+  "weightDetails": {
+    "ExtraLight": {
+      "cssWeight": 200,
+      "fontFamily": "WF-GenShinGothicMonospaceExtraLight-ExtraLight",
+      "charCount": 17712,
+      "glyphCount": 19275
+    },
+    "Light": {
+      "cssWeight": 300,
+      "fontFamily": "WF-GenShinGothicMonospaceNormal-Light",
+      "charCount": 17712,
+      "glyphCount": 19273
+    },
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-GenShinGothicMonospaceRegular-Regular",
+      "charCount": 17711,
+      "glyphCount": 19274
+    },
+    "Medium": {
+      "cssWeight": 500,
+      "fontFamily": "WF-GenShinGothicMonospaceMedium-Medium",
+      "charCount": 17705,
+      "glyphCount": 19268
+    },
+    "Bold": {
+      "cssWeight": 700,
+      "fontFamily": "WF-GenShinGothicMonospaceBold-Bold",
+      "charCount": 17688,
+      "glyphCount": 19251
+    },
+    "ExtraBold": {
+      "cssWeight": 800,
+      "fontFamily": "WF-GenShinGothicMonospaceHeavy-ExtraBold",
+      "charCount": 17682,
+      "glyphCount": 19243
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": null,
+  "designer": "[Source Han Sans]\nRyoko NISHIZUKA  (kana & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Wenlong ZHANG  (bopomofo); Sandoll Communication , Soo-young JANG  & Joo-yeon KANG  (hangul elements, letters & syllables)\n\n[M+ OUTLINE FONTS]\nCoji Morishita  (coz)",
+  "releaseYear": 2014,
+  "version": "1.002.20150607",
+  "copyright": "[Source Han Sans]\nCopyright © 2014, 2015 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name 'Source'.\n\n[M+ OUTLINE FONTS]\nCopyright(c) 2015 M+ FONTS PROJECT",
+  "license": {
+    "type": "联系授权",
+    "spdx": null,
+    "url": "http://scripts.sil.org/OFL",
+    "commercial": null,
+    "attribution": null
+  },
+  "languages": [
+    "en",
+    "zh-Hans",
+    "zh-Hant",
+    "ja"
+  ],
+  "languagesZh": [
+    "英语",
+    "简体中文",
+    "繁体中文",
+    "日语"
+  ],
+  "tags": [],
+  "keywords": [],
+  "useCases": [],
+  "description": "Dr. Ken Lunde (project architect, glyph set definition & overall production); Masataka HATTORI  (production & ideograph elements)",
+  "dateAdded": null,
+  "ossPath": "fonts-packages/GenShinGothicMonospaceRegular",
+  "_extraction": {
+    "source": [
+      "/mnt/shared-context/fonts/700款免费商用字体合集/1-思源字体137款/思源真黑21个/GenShinGothic-Monospace-Bold.ttf",
+      "/mnt/shared-context/fonts/700款免费商用字体合集/1-思源字体137款/思源真黑21个/GenShinGothic-Monospace-ExtraLight.ttf",
+      "/mnt/shared-context/fonts/700款免费商用字体合集/1-思源字体137款/思源真黑21个/GenShinGothic-Monospace-Heavy.ttf",
+      "/mnt/shared-context/fonts/700款免费商用字体合集/1-思源字体137款/思源真黑21个/GenShinGothic-Monospace-Light.ttf",
+      "/mnt/shared-context/fonts/700款免费商用字体合集/1-思源字体137款/思源真黑21个/GenShinGothic-Monospace-Medium.ttf",
+      "/mnt/shared-context/fonts/700款免费商用字体合集/1-思源字体137款/思源真黑21个/GenShinGothic-Monospace-Normal.ttf",
+      "/mnt/shared-context/fonts/700款免费商用字体合集/1-思源字体137款/思源真黑21个/GenShinGothic-Monospace-Regular.ttf"
+    ],
+    "ttcIndex": null,
+    "extractedAt": "2026-03-22T12:29:53.150789+00:00",
+    "toolVersion": "1.0.0",
+    "isVariable": false,
+    "variableAxes": [],
+    "openTypeFeatures": [
+      "aalt",
+      "ccmp",
+      "jp78",
+      "jp83",
+      "jp90",
+      "kern",
+      "mark",
+      "mkmk",
+      "vert",
+      "vrt2"
+    ],
+    "unitsPerEm": 1024,
+    "created": "2015-06-06",
+    "modified": "2015-06-06",
+    "achVendID": "MM",
+    "fsType": 8,
+    "panose": {
+      "familyKind": 2,
+      "serifStyle": 11,
+      "weight": 3,
+      "proportion": 9,
+      "contrast": 2
+    },
+    "cjkCoverage": {
+      "cjkUnified": 12721,
+      "gb2312Approx": 6763,
+      "gb2312Total": 6763,
+      "gb2312Pct": 100.0,
+      "gbk": 12923
+    },
+    "manufacturer": null,
+    "vendorURL": "http://jikasei.me/",
+    "designerURL": null,
+    "licenseText": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software."
+  },
+  "_needs_enrichment": [
+    "tags",
+    "keywords",
+    "useCases",
+    "license.type",
+    "license.spdx"
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "id": "pangolin-regular",
+  "normalizedName": "PangolinRegular",
+  "family": "Pangolin",
+  "familyEn": "Pangolin",
+  "fontFamily": "WF-PangolinRegular",
+  "category": "sans-serif",
+  "categoryZh": "无衬线字体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-PangolinRegular-Regular",
+      "charCount": 856,
+      "glyphCount": 888
+    }
+  },
+  "subsets": [
+    "full",
+    "en"
+  ],
+  "foundry": "google-adobe",
+  "designer": "Kevin Burke",
+  "releaseYear": 2016,
+  "version": "1.100.0",
+  "copyright": "Copyright 2016 The Pangolin Project Authors (https://github.com/googlefonts/pangolin)",
+  "license": {
+    "type": "联系授权",
+    "spdx": null,
+    "url": "http://scripts.sil.org/OFL",
+    "commercial": null,
+    "attribution": null
+  },
+  "languages": [
+    "en"
+  ],
+  "languagesZh": [
+    "英语"
+  ],
+  "tags": [],
+  "keywords": [],
+  "useCases": [],
+  "description": null,
+  "dateAdded": null,
+  "ossPath": "fonts-packages/PangolinRegular",
+  "_extraction": {
+    "source": "/mnt/shared-context/fonts/700款免费商用字体合集/3-其它商用字体/英文字体112款/Pangolin-Regular.ttf",
+    "ttcIndex": null,
+    "extractedAt": "2026-03-22T12:30:07.534265+00:00",
+    "toolVersion": "1.0.0",
+    "isVariable": false,
+    "variableAxes": [],
+    "openTypeFeatures": [
+      "aalt",
+      "ccmp",
+      "frac",
+      "kern",
+      "liga",
+      "locl",
+      "ordn",
+      "subs",
+      "sups"
+    ],
+    "unitsPerEm": 1000,
+    "created": "2017-01-10",
+    "modified": "2017-02-03",
+    "achVendID": "GOOG",
+    "fsType": 0,
+    "panose": {
+      "familyKind": 0,
+      "serifStyle": 0,
+      "weight": 5,
+      "proportion": 0,
+      "contrast": 0
+    },
+    "cjkCoverage": {
+      "cjkUnified": 0,
+      "gb2312Approx": 0,
+      "gb2312Total": 6763,
+      "gb2312Pct": 0,
+      "gbk": 0
+    },
+    "manufacturer": "Google, Inc.",
+    "vendorURL": "http://fonts.google.com",
+    "designerURL": "http://www.google.com",
+    "licenseText": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+  },
+  "_needs_enrichment": [
+    "tags",
+    "keywords",
+    "useCases",
+    "license.type",
+    "license.spdx",
+    "description"
+  ]
+}

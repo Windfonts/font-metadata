@@ -1,0 +1,90 @@
+{
+  "id": "xiomara",
+  "normalizedName": "Xiomara",
+  "family": "Xiomara",
+  "familyEn": "Xiomara",
+  "fontFamily": "WF-Xiomara",
+  "category": "handwriting",
+  "categoryZh": "手写体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Xiomara-Regular",
+      "charCount": 825,
+      "glyphCount": 823
+    }
+  },
+  "subsets": [
+    "full",
+    "en"
+  ],
+  "foundry": null,
+  "designer": "Lauren Thompson ",
+  "releaseYear": 2013,
+  "version": "1.40.0",
+  "copyright": "Typeface © (your company). 2013. All Rights Reserved",
+  "license": {
+    "type": "联系授权",
+    "spdx": null,
+    "url": "http://www.nymfont.com/2009/07/terms-of-useend-user-license-agreement.html",
+    "commercial": null,
+    "attribution": null
+  },
+  "languages": [
+    "en",
+    "ja"
+  ],
+  "languagesZh": [
+    "英语",
+    "日语"
+  ],
+  "tags": [],
+  "keywords": [],
+  "useCases": [],
+  "description": "This font was created using FontCreator 5.6 from High-Logic.com",
+  "dateAdded": null,
+  "ossPath": "fonts-packages/Xiomara",
+  "_extraction": {
+    "source": "/mnt/shared-context/fonts/700款免费商用字体合集/最近更新/50款免费圣诞英文字体/32-Xiomara-Script.ttf",
+    "ttcIndex": null,
+    "extractedAt": "2026-03-22T12:30:08.621524+00:00",
+    "toolVersion": "1.0.0",
+    "isVariable": false,
+    "variableAxes": [],
+    "openTypeFeatures": [],
+    "unitsPerEm": 2048,
+    "created": "2013-03-26",
+    "modified": "2014-03-04",
+    "achVendID": "NYMF",
+    "fsType": 8,
+    "panose": {
+      "familyKind": 3,
+      "serifStyle": 8,
+      "weight": 5,
+      "proportion": 2,
+      "contrast": 4
+    },
+    "cjkCoverage": {
+      "cjkUnified": 0,
+      "gb2312Approx": 0,
+      "gb2312Total": 6763,
+      "gb2312Pct": 0,
+      "gbk": 0
+    },
+    "manufacturer": "Lauren Thompson ",
+    "vendorURL": "http://www.nymfont.com",
+    "designerURL": "http://www.dafont.com/lauren-thompson.d1997",
+    "licenseText": "Free for personal use. A donation is required for commercial uses and web-embedding. \r\nI accept donations through PayPal, you can donate to directly to email address: nymphont@yahoo.com. A PayPal account is not required, donations can be placed without a PayPal account using any major credit card. Donations can be made with a credit card using the \"donate\" button on this page of my website http://www.nymfont.com/2009/06/fonts.html\r\n\r\nPlease read the .txt file that should accompany this font download, as it contains the complete End User Lisence Agreement/Terms Of Use for this font. If no readme.txt is present with your download email nymphont@yahoo.com to receive one."
+  },
+  "_needs_enrichment": [
+    "tags",
+    "keywords",
+    "useCases",
+    "license.type",
+    "license.spdx"
+  ]
+}

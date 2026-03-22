@@ -1,0 +1,92 @@
+{
+  "id": "vonwaonbitmap-16pxlite",
+  "normalizedName": "VonwaonBitmap16pxLite",
+  "family": "凤凰点阵体 16px Lite",
+  "familyEn": "VonwaonBitmap 16px Lite",
+  "fontFamily": "WF-VonwaonBitmap16pxLite",
+  "category": "display",
+  "categoryZh": "展示字体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-VonwaonBitmap16pxLite-Regular",
+      "charCount": 4038,
+      "glyphCount": 4041
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "en"
+  ],
+  "foundry": null,
+  "designer": "Haoyu Qiu",
+  "releaseYear": 2021,
+  "version": "1.00.0",
+  "copyright": "Copyright (c) 2021 Haoyu Qiu. All rights reserved.",
+  "license": {
+    "type": "联系授权",
+    "spdx": null,
+    "url": null,
+    "commercial": null,
+    "attribution": null
+  },
+  "languages": [
+    "en",
+    "zh-Hans"
+  ],
+  "languagesZh": [
+    "英语",
+    "简体中文"
+  ],
+  "tags": [],
+  "keywords": [],
+  "useCases": [],
+  "description": null,
+  "dateAdded": null,
+  "ossPath": "fonts-packages/VonwaonBitmap16pxLite",
+  "_extraction": {
+    "source": "/mnt/shared-context/fonts/字体文件/凤凰点阵体lite/VonwaonBitmap-16pxLite.ttf",
+    "ttcIndex": null,
+    "extractedAt": "2026-03-22T12:30:12.880341+00:00",
+    "toolVersion": "1.0.0",
+    "isVariable": false,
+    "variableAxes": [],
+    "openTypeFeatures": [],
+    "unitsPerEm": 1600,
+    "created": "2021-04-20",
+    "modified": "2021-04-20",
+    "achVendID": "PfEd",
+    "fsType": 0,
+    "panose": {
+      "familyKind": 2,
+      "serifStyle": 0,
+      "weight": 5,
+      "proportion": 3,
+      "contrast": 0
+    },
+    "cjkCoverage": {
+      "cjkUnified": 3755,
+      "gb2312Approx": 3755,
+      "gb2312Total": 6763,
+      "gb2312Pct": 55.5,
+      "gbk": 3755
+    },
+    "manufacturer": null,
+    "vendorURL": null,
+    "designerURL": null,
+    "licenseText": null
+  },
+  "_needs_enrichment": [
+    "tags",
+    "keywords",
+    "useCases",
+    "license.type",
+    "license.spdx",
+    "description"
+  ]
+}

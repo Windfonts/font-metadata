@@ -1,0 +1,116 @@
+{
+  "id": "chillgsans",
+  "normalizedName": "ChillGSans",
+  "family": "寒蟬高黑體",
+  "familyEn": "Chill G Sans",
+  "fontFamily": "WF-ChillGSans",
+  "category": "sans-serif",
+  "categoryZh": "无衬线字体",
+  "classifications": [],
+  "weights": [
+    500
+  ],
+  "weightDetails": {
+    "Medium": {
+      "cssWeight": 500,
+      "fontFamily": "WF-ChillGSans-Medium",
+      "charCount": 29851,
+      "glyphCount": 31876
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": null,
+  "designer": "Ryoko NISHIZUKA 西塚涼子 (kana, bopomofo & ideographs); Paul D. Copyright (c) 2011 by Pablo Impallari.",
+  "releaseYear": 2021,
+  "version": "1.000.0",
+  "copyright": "Chill Type (c) 2021. Source Han Sans (c) 2014-2019 Adobe(http://www.adobe.com/). Copyright (c) 2011 by Pablo Impallari. Raleway (c) 2012 The Raleway Authors.",
+  "license": {
+    "type": "联系授权",
+    "spdx": null,
+    "url": "http://scripts.sil.org/OFL",
+    "commercial": null,
+    "attribution": null
+  },
+  "languages": [
+    "en",
+    "zh-Hans",
+    "zh-Hant",
+    "ja"
+  ],
+  "languagesZh": [
+    "英语",
+    "简体中文",
+    "繁体中文",
+    "日语"
+  ],
+  "tags": [],
+  "keywords": [],
+  "useCases": [],
+  "description": null,
+  "dateAdded": null,
+  "ossPath": "fonts-packages/ChillGSans",
+  "_extraction": {
+    "source": "/mnt/shared-context/fonts/字体文件/寒蝉高黑体/寒蝉高黑体.otf",
+    "ttcIndex": null,
+    "extractedAt": "2026-03-22T12:30:14.643965+00:00",
+    "toolVersion": "1.0.0",
+    "isVariable": false,
+    "variableAxes": [],
+    "openTypeFeatures": [
+      "aalt",
+      "case",
+      "ccmp",
+      "dlig",
+      "dnom",
+      "frac",
+      "fwid",
+      "hist",
+      "hwid",
+      "jp83",
+      "kern",
+      "liga",
+      "locl",
+      "numr",
+      "ordn",
+      "vert",
+      "vkrn",
+      "vrt2"
+    ],
+    "unitsPerEm": 1000,
+    "created": "2021-12-07",
+    "modified": "2021-12-07",
+    "achVendID": "UKWN",
+    "fsType": 0,
+    "panose": {
+      "familyKind": 2,
+      "serifStyle": 11,
+      "weight": 4,
+      "proportion": 0,
+      "contrast": 0
+    },
+    "cjkCoverage": {
+      "cjkUnified": 20976,
+      "gb2312Approx": 6763,
+      "gb2312Total": 6763,
+      "gb2312Pct": 100.0,
+      "gbk": 27558
+    },
+    "manufacturer": null,
+    "vendorURL": null,
+    "designerURL": null,
+    "licenseText": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software."
+  },
+  "_needs_enrichment": [
+    "tags",
+    "keywords",
+    "useCases",
+    "license.type",
+    "license.spdx",
+    "description"
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "id": "hanwangwcl06",
+  "normalizedName": "HanWangWCL06",
+  "family": "王漢宗仿宋體一標準",
+  "familyEn": "HanWangWCL06",
+  "fontFamily": "WF-HanWangWCL06",
+  "category": "serif",
+  "categoryZh": "衬线字体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-HanWangWCL06-Regular",
+      "charCount": 14062,
+      "glyphCount": 14233
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": null,
+  "designer": null,
+  "releaseYear": 1999,
+  "version": "1.3.0",
+  "copyright": "(C)Copyright Dr. Hann-Tzong Wang, 1999-2004.",
+  "license": {
+    "type": "联系授权",
+    "spdx": null,
+    "url": "http://www.gnu.org/licenses/gpl.txt",
+    "commercial": null,
+    "attribution": null
+  },
+  "languages": [
+    "en",
+    "zh-Hans",
+    "zh-Hant",
+    "ja"
+  ],
+  "languagesZh": [
+    "英语",
+    "简体中文",
+    "繁体中文",
+    "日语"
+  ],
+  "tags": [],
+  "keywords": [],
+  "useCases": [],
+  "description": "HtWang Fonts(1), March 8, 2002; 1.00, initial release; HtWang Fonts(17), March 5, 2004; GJL(040519). Maintain by CLE Project.",
+  "dateAdded": null,
+  "ossPath": "fonts-packages/HanWangWCL06",
+  "_extraction": {
+    "source": "/mnt/shared-context/fonts/700款免费商用字体合集/3-其它商用字体/王汉宗字体42款/王汉宗仿宋体-标准.TTF",
+    "ttcIndex": null,
+    "extractedAt": "2026-03-22T12:30:05.520510+00:00",
+    "toolVersion": "1.0.0",
+    "isVariable": false,
+    "variableAxes": [],
+    "openTypeFeatures": [],
+    "unitsPerEm": 1024,
+    "created": "2003-05-31",
+    "modified": "2004-07-23",
+    "achVendID": "PfEd",
+    "fsType": 0,
+    "panose": {
+      "familyKind": 2,
+      "serifStyle": 2,
+      "weight": 6,
+      "proportion": 0,
+      "contrast": 0
+    },
+    "cjkCoverage": {
+      "cjkUnified": 13091,
+      "gb2312Approx": 6763,
+      "gb2312Total": 6763,
+      "gb2312Pct": 100.0,
+      "gbk": 13091
+    },
+    "manufacturer": null,
+    "vendorURL": null,
+    "designerURL": null,
+    "licenseText": "(C)Copyright Dr. Hann-Tzong Wang, 2002-2004.\nThis program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or any later version."
+  },
+  "_needs_enrichment": [
+    "tags",
+    "keywords",
+    "useCases",
+    "license.type",
+    "license.spdx"
+  ]
+}

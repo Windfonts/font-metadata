@@ -1,0 +1,134 @@
+{
+  "id": "montserrat-black",
+  "normalizedName": "MontserratBlack",
+  "family": "Montserrat",
+  "familyEn": "Montserrat",
+  "fontFamily": "WF-MontserratBlack",
+  "category": "sans-serif",
+  "categoryZh": "无衬线字体",
+  "classifications": [],
+  "weights": [
+    200,
+    300,
+    900
+  ],
+  "weightDetails": {
+    "ExtraLight": {
+      "cssWeight": 200,
+      "fontFamily": "WF-MontserratThinItalic-ExtraLight",
+      "charCount": 707,
+      "glyphCount": 1636
+    },
+    "Light": {
+      "cssWeight": 300,
+      "fontFamily": "WF-MontserratLight-Light",
+      "charCount": 677,
+      "glyphCount": 991
+    },
+    "Black": {
+      "cssWeight": 900,
+      "fontFamily": "WF-MontserratBlackItalic-Black",
+      "charCount": 707,
+      "glyphCount": 1636
+    }
+  },
+  "subsets": [
+    "full",
+    "en"
+  ],
+  "foundry": null,
+  "designer": "Julieta Ulanovsky",
+  "releaseYear": 2011,
+  "version": "6.001.0",
+  "copyright": "Copyright 2011 The Montserrat Project Authors (julieta.ulanovsky@gmail.com)",
+  "license": {
+    "type": "联系授权",
+    "spdx": null,
+    "url": "http://scripts.sil.org/OFL",
+    "commercial": null,
+    "attribution": null
+  },
+  "languages": [
+    "en"
+  ],
+  "languagesZh": [
+    "英语"
+  ],
+  "tags": [],
+  "keywords": [],
+  "useCases": [],
+  "description": null,
+  "dateAdded": null,
+  "ossPath": "fonts-packages/MontserratBlack",
+  "_extraction": {
+    "source": [
+      "/mnt/shared-context/fonts/700款免费商用字体合集/3-其它商用字体/英文字体112款/Montserrat-Black.ttf",
+      "/mnt/shared-context/fonts/700款免费商用字体合集/3-其它商用字体/英文字体112款/Montserrat-BlackItalic.ttf",
+      "/mnt/shared-context/fonts/700款免费商用字体合集/3-其它商用字体/英文字体112款/Montserrat-ExtraLight.otf",
+      "/mnt/shared-context/fonts/700款免费商用字体合集/3-其它商用字体/英文字体112款/Montserrat-Light.otf",
+      "/mnt/shared-context/fonts/700款免费商用字体合集/3-其它商用字体/英文字体112款/Montserrat-ThinItalic.ttf"
+    ],
+    "ttcIndex": null,
+    "extractedAt": "2026-03-22T12:30:07.303104+00:00",
+    "toolVersion": "1.0.0",
+    "isVariable": false,
+    "variableAxes": [],
+    "openTypeFeatures": [
+      "aalt",
+      "c2sc",
+      "case",
+      "ccmp",
+      "dlig",
+      "dnom",
+      "frac",
+      "kern",
+      "liga",
+      "lnum",
+      "locl",
+      "mark",
+      "mkmk",
+      "numr",
+      "onum",
+      "ordn",
+      "pnum",
+      "salt",
+      "sinf",
+      "smcp",
+      "ss01",
+      "subs",
+      "sups",
+      "tnum"
+    ],
+    "unitsPerEm": 1000,
+    "created": "2017-01-31",
+    "modified": "2017-02-07",
+    "achVendID": "ULA",
+    "fsType": 0,
+    "panose": {
+      "familyKind": 0,
+      "serifStyle": 0,
+      "weight": 10,
+      "proportion": 0,
+      "contrast": 0
+    },
+    "cjkCoverage": {
+      "cjkUnified": 0,
+      "gb2312Approx": 0,
+      "gb2312Total": 6763,
+      "gb2312Pct": 0,
+      "gbk": 0
+    },
+    "manufacturer": "Julieta Ulanovsky",
+    "vendorURL": "http://www.zkysky.com.ar/",
+    "designerURL": "http://www.zkysky.com.ar/",
+    "licenseText": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+  },
+  "_needs_enrichment": [
+    "tags",
+    "keywords",
+    "useCases",
+    "license.type",
+    "license.spdx",
+    "description"
+  ]
+}

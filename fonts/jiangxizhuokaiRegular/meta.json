@@ -1,0 +1,96 @@
+{
+  "id": "jiangxizhuokai-regular",
+  "normalizedName": "jiangxizhuokaiRegular",
+  "family": "江西拙楷",
+  "familyEn": "jiangxizhuokai",
+  "fontFamily": "WF-jiangxizhuokaiRegular",
+  "category": "handwriting",
+  "categoryZh": "手写体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-jiangxizhuokaiRegular-Regular",
+      "charCount": 6248,
+      "glyphCount": 6260
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "fontree",
+  "designer": "huang yu chen",
+  "releaseYear": null,
+  "version": "1.000.0",
+  "copyright": null,
+  "license": {
+    "type": "联系授权",
+    "spdx": null,
+    "url": null,
+    "commercial": null,
+    "attribution": null
+  },
+  "languages": [
+    "en",
+    "zh-Hans"
+  ],
+  "languagesZh": [
+    "英语",
+    "简体中文"
+  ],
+  "tags": [],
+  "keywords": [],
+  "useCases": [],
+  "description": null,
+  "dateAdded": null,
+  "ossPath": "fonts-packages/jiangxizhuokaiRegular",
+  "_extraction": {
+    "source": [
+      "/mnt/shared-context/fonts/700款免费商用字体合集/最近更新/江西拙楷 可商用/江西拙楷2.0.ttf",
+      "/mnt/shared-context/fonts/字体文件/江西拙楷/江西拙楷2.0.ttf"
+    ],
+    "ttcIndex": null,
+    "extractedAt": "2026-03-22T12:30:10.998936+00:00",
+    "toolVersion": "1.0.0",
+    "isVariable": false,
+    "variableAxes": [],
+    "openTypeFeatures": [],
+    "unitsPerEm": 1000,
+    "created": "2020-01-01",
+    "modified": "2020-01-05",
+    "achVendID": "UKWN",
+    "fsType": 8,
+    "panose": {
+      "familyKind": 2,
+      "serifStyle": 1,
+      "weight": 6,
+      "proportion": 0,
+      "contrast": 4
+    },
+    "cjkCoverage": {
+      "cjkUnified": 6055,
+      "gb2312Approx": 6055,
+      "gb2312Total": 6763,
+      "gb2312Pct": 89.5,
+      "gbk": 6055
+    },
+    "manufacturer": "fontree",
+    "vendorURL": "https://www.zcool.com.cn/u/653645",
+    "designerURL": "https://www.zcool.com.cn/u/653645",
+    "licenseText": null
+  },
+  "_needs_enrichment": [
+    "tags",
+    "keywords",
+    "useCases",
+    "license.type",
+    "license.spdx",
+    "description"
+  ]
+}

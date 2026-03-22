@@ -1,0 +1,91 @@
+{
+  "id": "kaushanscript-regular",
+  "normalizedName": "KaushanScriptRegular",
+  "family": "Kaushan Script",
+  "familyEn": "Kaushan Script",
+  "fontFamily": "WF-KaushanScriptRegular",
+  "category": "handwriting",
+  "categoryZh": "手写体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-KaushanScriptRegular-Regular",
+      "charCount": 97,
+      "glyphCount": 105
+    }
+  },
+  "subsets": [
+    "full",
+    "en"
+  ],
+  "foundry": null,
+  "designer": "Pablo Impallari",
+  "releaseYear": 2011,
+  "version": "1.002.0",
+  "copyright": "Copyright (c) 2011, Pablo Impallari (www.impallari.com|impallari@gmail.com),\rCopyright (c) 2011, Igino Marini. (www.ikern.com|mail@iginomarini.com),\rwith Reserved Font Name Kaushan Script.",
+  "license": {
+    "type": "联系授权",
+    "spdx": null,
+    "url": "http://scripts.sil.org/OFL",
+    "commercial": null,
+    "attribution": null
+  },
+  "languages": [
+    "en"
+  ],
+  "languagesZh": [
+    "英语"
+  ],
+  "tags": [],
+  "keywords": [],
+  "useCases": [],
+  "description": "Kaushan Script feels like writing quickly with an inked brush.\r\rWhen making digital typefaces, the more you refine the shapes of the letters, the more energy you take away from them. Because of that, Kaushan is unrefined - and carries a lot of energy. \r\rBy avoiding typographical perfection, it stays more natural. The angles of the vertical strokes vary a little, and the positioning along the baseline jumps around, giving it a more rustic and natural feeling.\r\rMost script fonts have long ascenders and descenders, and this means they look too small when used at normal sizes on the web. This font it's optimized in the technical details to be very readable as a web font, even when used as small as at 16 pixels.\r\rIt was funded by people like you, via Kickstarter.\rSpecial thanks to the project backers! They are all listed on the website: http://www.impallari.com/kaushan",
+  "dateAdded": null,
+  "ossPath": "fonts-packages/KaushanScriptRegular",
+  "_extraction": {
+    "source": "/mnt/shared-context/fonts/700款免费商用字体合集/3-其它商用字体/英文字体112款/Kaushanscript.ttf",
+    "ttcIndex": null,
+    "extractedAt": "2026-03-22T12:30:07.235540+00:00",
+    "toolVersion": "1.0.0",
+    "isVariable": false,
+    "variableAxes": [],
+    "openTypeFeatures": [
+      "kern",
+      "liga"
+    ],
+    "unitsPerEm": 1000,
+    "created": "2016-08-29",
+    "modified": "2016-08-29",
+    "achVendID": "pyrs",
+    "fsType": 0,
+    "panose": {
+      "familyKind": 3,
+      "serifStyle": 6,
+      "weight": 6,
+      "proportion": 2,
+      "contrast": 4
+    },
+    "cjkCoverage": {
+      "cjkUnified": 0,
+      "gb2312Approx": 0,
+      "gb2312Total": 6763,
+      "gb2312Pct": 0,
+      "gbk": 0
+    },
+    "manufacturer": "Pablo Impallari",
+    "vendorURL": "www.impallari.com",
+    "designerURL": "www.impallari.com",
+    "licenseText": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+  },
+  "_needs_enrichment": [
+    "tags",
+    "keywords",
+    "useCases",
+    "license.type",
+    "license.spdx"
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "id": "zhenyangb-regular",
+  "normalizedName": "ZhenyanGBRegular",
+  "family": "锐字真言体免费商用",
+  "familyEn": "ZhenyanGB",
+  "fontFamily": "WF-ZhenyanGBRegular",
+  "category": "sans-serif",
+  "categoryZh": "无衬线字体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-ZhenyanGBRegular-Regular",
+      "charCount": 7678,
+      "glyphCount": 7656
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "ruixian",
+  "designer": "REEJI",
+  "releaseYear": 2018,
+  "version": "1.0.0",
+  "copyright": "For commercial use, please purchase permission to authorize business:\r\nwww.reeji.com QQ:2770851733 Mail:Reejifont@outlook.com\r\n© 2018 by Shang hai Rui Xian Creative Design Co., Ltd..All rights reserved.",
+  "license": {
+    "type": "联系授权",
+    "spdx": null,
+    "url": "www.reeji.com",
+    "commercial": null,
+    "attribution": null
+  },
+  "languages": [
+    "en",
+    "zh-Hans",
+    "ja"
+  ],
+  "languagesZh": [
+    "英语",
+    "简体中文",
+    "日语"
+  ],
+  "tags": [],
+  "keywords": [],
+  "useCases": [],
+  "description": null,
+  "dateAdded": null,
+  "ossPath": "fonts-packages/ZhenyanGBRegular",
+  "_extraction": {
+    "source": [
+      "/mnt/shared-context/fonts/700款免费商用字体合集/3-其它商用字体/其他系列字体15款/锐字真言体.ttf",
+      "/mnt/shared-context/fonts/700款免费商用字体合集/最近更新/锐字真言体 可商用/锐字真言体免费商用.otf",
+      "/mnt/shared-context/fonts/700款免费商用字体合集/最近更新/锐字真言体 可商用/锐字真言体免费商用.ttf",
+      "/mnt/shared-context/fonts/字体文件/其他字体/其它字体/锐字真言体.otf"
+    ],
+    "ttcIndex": null,
+    "extractedAt": "2026-03-22T12:30:02.406785+00:00",
+    "toolVersion": "1.0.0",
+    "isVariable": false,
+    "variableAxes": [],
+    "openTypeFeatures": [
+      "aalt",
+      "fwid",
+      "hwid",
+      "ordn",
+      "vert",
+      "vrt2"
+    ],
+    "unitsPerEm": 1000,
+    "created": "2018-01-02",
+    "modified": "2018-10-15",
+    "achVendID": "REEJ",
+    "fsType": 8,
+    "panose": {
+      "familyKind": 2,
+      "serifStyle": 1,
+      "weight": 6,
+      "proportion": 0,
+      "contrast": 3
+    },
+    "cjkCoverage": {
+      "cjkUnified": 6763,
+      "gb2312Approx": 6763,
+      "gb2312Total": 6763,
+      "gb2312Pct": 100.0,
+      "gbk": 6763
+    },
+    "manufacturer": "Shang hai Rui Xian Creative Design Co., Ltd.",
+    "vendorURL": "www.reeji.com",
+    "designerURL": "www.reeji.com",
+    "licenseText": "For commercial use, please purchase permission to authorize business:\r\nwww.reeji.com QQ:2770851733 Mail:Reejifont@outlook.com\r\n© 2018 by Shang hai Rui Xian Creative Design Co., Ltd..All rights reserved."
+  },
+  "_needs_enrichment": [
+    "tags",
+    "keywords",
+    "useCases",
+    "license.type",
+    "license.spdx",
+    "description"
+  ]
+}

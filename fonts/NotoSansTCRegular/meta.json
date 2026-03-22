@@ -1,0 +1,158 @@
+{
+  "id": "notosanstc-regular",
+  "normalizedName": "NotoSansTCRegular",
+  "family": "Noto Sans TC",
+  "familyEn": "Noto Sans TC",
+  "fontFamily": "WF-NotoSansTCRegular",
+  "category": "sans-serif",
+  "categoryZh": "无衬线字体",
+  "classifications": [],
+  "weights": [
+    100,
+    300,
+    400,
+    500,
+    700,
+    900
+  ],
+  "weightDetails": {
+    "Thin": {
+      "cssWeight": 100,
+      "fontFamily": "WF-NotoSansTCThin-Thin",
+      "charCount": 20743,
+      "glyphCount": 20946
+    },
+    "Light": {
+      "cssWeight": 300,
+      "fontFamily": "WF-NotoSansTCLight-Light",
+      "charCount": 20742,
+      "glyphCount": 20945
+    },
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-NotoSansTCRegular-Regular",
+      "charCount": 20742,
+      "glyphCount": 20945
+    },
+    "Medium": {
+      "cssWeight": 500,
+      "fontFamily": "WF-NotoSansTCMedium-Medium",
+      "charCount": 20742,
+      "glyphCount": 20945
+    },
+    "Bold": {
+      "cssWeight": 700,
+      "fontFamily": "WF-NotoSansTCBold-Bold",
+      "charCount": 20742,
+      "glyphCount": 20945
+    },
+    "Black": {
+      "cssWeight": 900,
+      "fontFamily": "WF-NotoSansTCBlack-Black",
+      "charCount": 20742,
+      "glyphCount": 20945
+    }
+  },
+  "subsets": [
+    "full",
+    "zh",
+    "zh-common",
+    "en"
+  ],
+  "foundry": "google-adobe",
+  "designer": "Ryoko NISHIZUKA 西塚涼子 (kana, bopomofo & ideographs); Paul D. Hunt (Latin, Greek & Cyrillic); Sandoll Communications 산돌커뮤니케이션, Soo-young JANG 장수영 & Joo-yeon KANG 강주연 (hangul elements, letters & syllables)",
+  "releaseYear": 2014,
+  "version": "2.000.0",
+  "copyright": "© 2014, 2015, 2018 Adobe (http://www.adobe.com/).",
+  "license": {
+    "type": "联系授权",
+    "spdx": null,
+    "url": "http://scripts.sil.org/OFL",
+    "commercial": null,
+    "attribution": null
+  },
+  "languages": [
+    "en",
+    "zh-Hans",
+    "zh-Hant",
+    "ja"
+  ],
+  "languagesZh": [
+    "英语",
+    "简体中文",
+    "繁体中文",
+    "日语"
+  ],
+  "tags": [],
+  "keywords": [],
+  "useCases": [],
+  "description": "Dr. Ken Lunde (project architect, glyph set definition & overall production); Masataka HATTORI 服部正貴 (production & ideograph elements)",
+  "dateAdded": null,
+  "ossPath": "fonts-packages/NotoSansTCRegular",
+  "_extraction": {
+    "source": [
+      "/mnt/shared-context/fonts/700款免费商用字体合集/1-思源字体137款/思源黑体NotoSansTC 版本/NotoSansTC-Black.otf",
+      "/mnt/shared-context/fonts/700款免费商用字体合集/1-思源字体137款/思源黑体NotoSansTC 版本/NotoSansTC-Bold.otf",
+      "/mnt/shared-context/fonts/700款免费商用字体合集/1-思源字体137款/思源黑体NotoSansTC 版本/NotoSansTC-Light.otf",
+      "/mnt/shared-context/fonts/700款免费商用字体合集/1-思源字体137款/思源黑体NotoSansTC 版本/NotoSansTC-Medium.otf",
+      "/mnt/shared-context/fonts/700款免费商用字体合集/1-思源字体137款/思源黑体NotoSansTC 版本/NotoSansTC-Regular.otf",
+      "/mnt/shared-context/fonts/700款免费商用字体合集/1-思源字体137款/思源黑体NotoSansTC 版本/NotoSansTC-Thin.otf"
+    ],
+    "ttcIndex": null,
+    "extractedAt": "2026-03-22T12:29:55.110758+00:00",
+    "toolVersion": "1.0.0",
+    "isVariable": false,
+    "variableAxes": [],
+    "openTypeFeatures": [
+      "aalt",
+      "ccmp",
+      "dlig",
+      "fwid",
+      "halt",
+      "hist",
+      "hwid",
+      "kern",
+      "liga",
+      "locl",
+      "mark",
+      "palt",
+      "pwid",
+      "ruby",
+      "vert",
+      "vhal",
+      "vkrn",
+      "vpal",
+      "vrt2"
+    ],
+    "unitsPerEm": 1000,
+    "created": "2018-11-02",
+    "modified": "2018-11-02",
+    "achVendID": "GOOG",
+    "fsType": 0,
+    "panose": {
+      "familyKind": 2,
+      "serifStyle": 11,
+      "weight": 5,
+      "proportion": 0,
+      "contrast": 0
+    },
+    "cjkCoverage": {
+      "cjkUnified": 15383,
+      "gb2312Approx": 6763,
+      "gb2312Total": 6763,
+      "gb2312Pct": 100.0,
+      "gbk": 15958
+    },
+    "manufacturer": "Adobe",
+    "vendorURL": "http://www.google.com/get/noto/",
+    "designerURL": "http://www.adobe.com/type/",
+    "licenseText": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software."
+  },
+  "_needs_enrichment": [
+    "tags",
+    "keywords",
+    "useCases",
+    "license.type",
+    "license.spdx"
+  ]
+}

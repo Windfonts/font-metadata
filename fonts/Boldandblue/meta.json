@@ -1,0 +1,88 @@
+{
+  "id": "boldandblue",
+  "normalizedName": "Boldandblue",
+  "family": "Bold and blue",
+  "familyEn": "Bold and blue",
+  "fontFamily": "WF-Boldandblue",
+  "category": "serif",
+  "categoryZh": "衬线字体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-Boldandblue-Regular",
+      "charCount": 656,
+      "glyphCount": 653
+    }
+  },
+  "subsets": [
+    "full",
+    "en"
+  ],
+  "foundry": null,
+  "designer": "http://www.dafont.com/wino-s-kadir.d2209",
+  "releaseYear": 2012,
+  "version": "1.00.0",
+  "copyright": "weknow © (weknow.deviantart.com). 2012. All Rights Reserved",
+  "license": {
+    "type": "联系授权",
+    "spdx": null,
+    "url": "http://www.dafont.com/wino-s-kadir.d2209",
+    "commercial": null,
+    "attribution": null
+  },
+  "languages": [
+    "en"
+  ],
+  "languagesZh": [
+    "英语"
+  ],
+  "tags": [],
+  "keywords": [],
+  "useCases": [],
+  "description": "This font was created using FontCreator 5.5 from High-Logic.com",
+  "dateAdded": null,
+  "ossPath": "fonts-packages/Boldandblue",
+  "_extraction": {
+    "source": "/mnt/shared-context/fonts/700款免费商用字体合集/最近更新/50款免费圣诞英文字体/44-bold and blue.ttf",
+    "ttcIndex": null,
+    "extractedAt": "2026-03-22T12:30:08.709164+00:00",
+    "toolVersion": "1.0.0",
+    "isVariable": false,
+    "variableAxes": [],
+    "openTypeFeatures": [],
+    "unitsPerEm": 2048,
+    "created": "2013-10-11",
+    "modified": "2013-10-11",
+    "achVendID": "HL",
+    "fsType": 8,
+    "panose": {
+      "familyKind": 2,
+      "serifStyle": 0,
+      "weight": 0,
+      "proportion": 0,
+      "contrast": 0
+    },
+    "cjkCoverage": {
+      "cjkUnified": 0,
+      "gb2312Approx": 0,
+      "gb2312Total": 6763,
+      "gb2312Pct": 0,
+      "gbk": 0
+    },
+    "manufacturer": null,
+    "vendorURL": null,
+    "designerURL": "http://www.dafont.com/wino-s-kadir.d2209",
+    "licenseText": null
+  },
+  "_needs_enrichment": [
+    "tags",
+    "keywords",
+    "useCases",
+    "license.type",
+    "license.spdx"
+  ]
+}

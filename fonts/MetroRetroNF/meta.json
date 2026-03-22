@@ -1,0 +1,94 @@
+{
+  "id": "metroretronf",
+  "normalizedName": "MetroRetroNF",
+  "family": "Metro Retro NF",
+  "familyEn": "Metro Retro NF",
+  "fontFamily": "WF-MetroRetroNF",
+  "category": "serif",
+  "categoryZh": "衬线字体",
+  "classifications": [],
+  "weights": [
+    400
+  ],
+  "weightDetails": {
+    "Regular": {
+      "cssWeight": 400,
+      "fontFamily": "WF-MetroRetroNF-Regular",
+      "charCount": 224,
+      "glyphCount": 226
+    }
+  },
+  "subsets": [
+    "full",
+    "en"
+  ],
+  "foundry": null,
+  "designer": "Nick Curtis",
+  "releaseYear": 1999,
+  "version": "1.003.0",
+  "copyright": "Copyright (c)) 1999, 2001, 2006 Nick Curtis. All Rights Reserved. Distributed under non-exclusive license by 1001 Free Fonts.",
+  "license": {
+    "type": "联系授权",
+    "spdx": null,
+    "url": null,
+    "commercial": null,
+    "attribution": null
+  },
+  "languages": [
+    "en"
+  ],
+  "languagesZh": [
+    "英语"
+  ],
+  "tags": [],
+  "keywords": [],
+  "useCases": [],
+  "description": null,
+  "dateAdded": null,
+  "ossPath": "fonts-packages/MetroRetroNF",
+  "_extraction": {
+    "source": [
+      "/mnt/shared-context/fonts/700款免费商用字体合集/最近更新/50款免费圣诞英文字体/02-metro-retro/MetroRetroNF.otf",
+      "/mnt/shared-context/fonts/700款免费商用字体合集/最近更新/50款免费圣诞英文字体/02-metro-retro/MetroRetroNF.ttf"
+    ],
+    "ttcIndex": null,
+    "extractedAt": "2026-03-22T12:30:08.521679+00:00",
+    "toolVersion": "1.0.0",
+    "isVariable": false,
+    "variableAxes": [],
+    "openTypeFeatures": [
+      "kern"
+    ],
+    "unitsPerEm": 1000,
+    "created": "2013-04-07",
+    "modified": "2013-04-07",
+    "achVendID": "NICK",
+    "fsType": 0,
+    "panose": {
+      "familyKind": 2,
+      "serifStyle": 7,
+      "weight": 9,
+      "proportion": 3,
+      "contrast": 8
+    },
+    "cjkCoverage": {
+      "cjkUnified": 0,
+      "gb2312Approx": 0,
+      "gb2312Total": 6763,
+      "gb2312Pct": 0,
+      "gbk": 0
+    },
+    "manufacturer": "Nick's Fonts",
+    "vendorURL": "http://www.nicksfonts.com",
+    "designerURL": "mailto:himself@nicksfonts.com",
+    "licenseText": "By using or installing this font data, you (or you on behalf of your employer) agree to be bound by the terms of this Agreement. This Agreement constitutes the complete agreement between you and Nick's Fonts.\r\n\r\nYOU MAY:\r\n\r\n-Send a copy of any Nick's Fonts font data along with your documents to a commercial printer or other service bureau to enable the editing or printing of your document.\r\n\r\n-Use this font data to embed fonts within PostScript files or PDF files for distribution, viewing, and imaging to third parties.\r\n\r\n-Use this font for personal projects or for projects for which you are paid including, but not limited to, artwork, logotypes, personalized apparel, word art and web graphics.\r\n\r\nYOU MAY NOT:\r\n\r\n-Modify, adapt, translate, reverse engineer, decompile, disassemble or create derivative works based on the Nick's Fonts font data without Nick's Fonts's prior written consent.\r\n\r\n-Sell this font data AS FONT DATA to a third party under any circumstances including, but not limited to, rubber-stamp alphabets, die-cut alphabets, rub-on alphabets, or digitized fonts for embroidery.\r\n \r\nNICK'S FONTS SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, CONSEQUENTIAL OR INCIDENTAL DAMAGES ARISING OUT OF THE USE OF OR INABILITY TO USE THE NICK'S FONTS FONT DATA."
+  },
+  "_needs_enrichment": [
+    "tags",
+    "keywords",
+    "useCases",
+    "license.type",
+    "license.spdx",
+    "description"
+  ]
+}
